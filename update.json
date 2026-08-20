@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-20T16:41:13.235331Z"
+    "revision": "2026-08-20T21:07:52.432937Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -104,8 +104,8 @@
       "latest_draw": 775,
       "latest_draw_date": null,
       "rows": 775,
-      "sha256": "5eda94c128bc2c497305396298228465082def014649c6c2a01437831bed49e9",
-      "size_bytes": 90746
+      "sha256": "43e351cd6be5ebbed75ef3d1b2b1fbaa5f965d02a1f695bfc088213830b88c3b",
+      "size_bytes": 91446
     },
     "set_for_life_results.csv": {
       "file": "set_for_life_results.csv",
@@ -124,7 +124,7 @@
       "size_bytes": 247149
     }
   },
-  "generated_utc": "2026-08-20T16:41:13.235331Z",
+  "generated_utc": "2026-08-20T21:07:52.432937Z",
   "schema_version": 2,
   "software": {
     "current_version": 1836,
