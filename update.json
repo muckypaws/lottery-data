@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-19T22:23:35.306952Z"
+    "revision": "2026-08-20T12:50:34.658220Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -16,8 +16,8 @@
       "latest_draw": 1973,
       "latest_draw_date": "2026-08-18",
       "rows": 1973,
-      "sha256": "fd737d87e1ee40e920cf291816f2db6338c2cf9bad85f40431741816be5a00eb",
-      "size_bytes": 72065
+      "sha256": "69b70159f827bf6cb305266e774edbf17c4413af64db64c9722ecb3fec3969fd",
+      "size_bytes": 72016
     },
     "euromillions_prizes.csv": {
       "file": "euromillions_prizes.csv",
@@ -40,8 +40,8 @@
       "latest_draw": 1973,
       "latest_draw_date": "2026-08-18",
       "rows": 1973,
-      "sha256": "55f82bab00a442934160bd06b9303ff9207d4d9fcb4ef080b593f8f425e8887d",
-      "size_bytes": 98332
+      "sha256": "a32ccb523a9d073094a50494061c77b0f6398520c568449cec6451749677266f",
+      "size_bytes": 98314
     },
     "euromillions_winners.csv": {
       "file": "euromillions_winners.csv",
@@ -64,8 +64,8 @@
       "latest_draw": 3199,
       "latest_draw_date": "2026-08-19",
       "rows": 3220,
-      "sha256": "e47c4815db042af340acbaae7d931cc905ad35096a158cadefb965e50aaeb169",
-      "size_bytes": 130486
+      "sha256": "cab8f541bcd189833fd7b47303d973853283b17d6061914bd5190f02fe77d5fc",
+      "size_bytes": 130448
     },
     "lotto_prizes.csv": {
       "file": "lotto_prizes.csv",
@@ -80,24 +80,24 @@
       "latest_draw": 3199,
       "latest_draw_date": "2026-08-19",
       "rows": 3220,
-      "sha256": "2343562ef2131ea791e3055f71850d9dc509ef5a334a39c9651a141f84dbf757",
-      "size_bytes": 198608
+      "sha256": "27cdb0abb8bfb5901c99dc122da6c302f220d3f5c4609d3ee0b22ebf26a43370",
+      "size_bytes": 198601
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
-      "latest_draw": 12,
+      "latest_draw": 13,
       "latest_draw_date": null,
-      "rows": 12,
-      "sha256": "43615749d433cfc2af0b93ff0c2f78d016cc2acffcf9e8f18ce32310c14091c5",
-      "size_bytes": 2234
+      "rows": 13,
+      "sha256": "ec779ffb342458239acb9664a727bc6189671a0d3e78d6292174532b4707059e",
+      "size_bytes": 2391
     },
     "powerball_results.csv": {
       "file": "powerball_results.csv",
-      "latest_draw": 12,
-      "latest_draw_date": "2026-08-18",
-      "rows": 12,
-      "sha256": "7f6e01cf876a37845be24cba08bbd9547e589b7df933d72717cee5d8c73e3c94",
-      "size_bytes": 727
+      "latest_draw": 13,
+      "latest_draw_date": "2026-08-20",
+      "rows": 13,
+      "sha256": "e44f23d39be5684b730391d596e4c6d3aae2f28cf590a680050ac549dced2783",
+      "size_bytes": 784
     },
     "set_for_life_prizes.csv": {
       "file": "set_for_life_prizes.csv",
@@ -112,19 +112,19 @@
       "latest_draw": 775,
       "latest_draw_date": "2026-08-17",
       "rows": 775,
-      "sha256": "f8a9117bbda15328be26650e0871c895a2adae9b6213746351159726ceb3f6e7",
-      "size_bytes": 48534
+      "sha256": "68eb0e4222107b76f7150f72218d73330abc9d366fa63cef398ce587af7989fa",
+      "size_bytes": 48583
     },
     "thunderball_results.csv": {
       "file": "thunderball_results.csv",
       "latest_draw": 3959,
       "latest_draw_date": "2026-08-19",
       "rows": 3959,
-      "sha256": "b9bc0569261749bfb225e5b4335996edef39458ac95b44645100444c2f37c804",
-      "size_bytes": 247130
+      "sha256": "ff89b635e4d0f53bf11ed0a6a69d7be33628305447a7bfc2eaba1b7eaf0b8fc9",
+      "size_bytes": 247149
     }
   },
-  "generated_utc": "2026-08-19T22:23:35.306952Z",
+  "generated_utc": "2026-08-20T12:50:34.658220Z",
   "schema_version": 2,
   "software": {
     "current_version": 1836,
