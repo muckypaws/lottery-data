@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-20T13:13:17.715140Z"
+    "revision": "2026-08-20T16:04:07.742238Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -80,8 +80,8 @@
       "latest_draw": 3199,
       "latest_draw_date": "2026-08-19",
       "rows": 3220,
-      "sha256": "27cdb0abb8bfb5901c99dc122da6c302f220d3f5c4609d3ee0b22ebf26a43370",
-      "size_bytes": 198601
+      "sha256": "819e8c11c83be8a6ccaacfc1935daaa3ff40af3c4f3fc55ece3cb25c2e214d0a",
+      "size_bytes": 198607
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -124,7 +124,7 @@
       "size_bytes": 247149
     }
   },
-  "generated_utc": "2026-08-20T13:13:17.715140Z",
+  "generated_utc": "2026-08-20T16:04:07.742238Z",
   "schema_version": 2,
   "software": {
     "current_version": 1836,
