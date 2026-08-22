@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-22T14:14:46.303287Z"
+    "revision": "2026-08-22T14:19:59.145695Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -55,25 +55,25 @@
       "file": "irish_lotto_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 16,
-      "sha256": "14a0c1c60e27239d6a9079508576f746a2b75746760d7fe543abc668bb3e18b4",
-      "size_bytes": 2289
+      "rows": 19,
+      "sha256": "6794a95fa48805bd76c44ffdf814706f05c196021e688fcf09508674af229cdb",
+      "size_bytes": 2624
     },
     "irish_lotto_raffles.csv": {
       "file": "irish_lotto_raffles.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 16,
-      "sha256": "81768bd3c5c2cdb414fde017cf28a333d453d203e3533c29c267f293e34f9b8e",
-      "size_bytes": 275
+      "rows": 19,
+      "sha256": "0d18ee0b878e9da2e33ed97711e5a666cc7bda7538e61635772b3a71f05afa14",
+      "size_bytes": 323
     },
     "irish_lotto_results.csv": {
       "file": "irish_lotto_results.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 16,
-      "sha256": "d4d8c94a12a36b287b00aa0e4bfe91e0bfec3787e2bc5a63c400fe44b83466ae",
-      "size_bytes": 1062
+      "rows": 19,
+      "sha256": "035545ddb5c6ee097685a0cdb1d02fcf930c38a76c4d34774883ea5f7adfd73a",
+      "size_bytes": 1250
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
@@ -148,11 +148,11 @@
       "size_bytes": 247208
     }
   },
-  "generated_utc": "2026-08-22T14:14:46.303287Z",
+  "generated_utc": "2026-08-22T14:19:59.145695Z",
   "schema_version": 2,
   "software": {
     "current_version": 1837,
-    "message": "Your new message here",
-    "motd_number": 7
+    "message": "https://muckypaws.com/uk-national-lottery-ticket-checker/",
+    "motd_number": 9
   }
 }
