@@ -1,55 +1,55 @@
 {
   "data": {
-    "revision": "2026-08-21T21:31:32.854060Z"
+    "revision": "2026-08-21T23:49:37.460119Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
       "file": "euromillions_hotpicks_prizes.csv",
-      "latest_draw": 1973,
+      "latest_draw": 1974,
       "latest_draw_date": null,
-      "rows": 1973,
-      "sha256": "4d300fe31cad317a266fe7e2f9352634bf86a9760c52718f6e290cce47474de3",
-      "size_bytes": 41080
+      "rows": 1974,
+      "sha256": "83c377ef46d848861e6ae85421786ebdea1608ff556c34e630bdc9eef9c34da5",
+      "size_bytes": 41100
     },
     "euromillions_hotpicks_results.csv": {
       "file": "euromillions_hotpicks_results.csv",
-      "latest_draw": 1973,
-      "latest_draw_date": "2026-08-18",
-      "rows": 1973,
-      "sha256": "69b70159f827bf6cb305266e774edbf17c4413af64db64c9722ecb3fec3969fd",
-      "size_bytes": 72016
+      "latest_draw": 1974,
+      "latest_draw_date": "2026-08-21",
+      "rows": 1974,
+      "sha256": "40582d0863a375c4e4e66a504524ae05501ca203588544fee88c3006a77b8420",
+      "size_bytes": 72054
     },
     "euromillions_prizes.csv": {
       "file": "euromillions_prizes.csv",
-      "latest_draw": 1973,
+      "latest_draw": 1974,
       "latest_draw_date": null,
-      "rows": 1973,
-      "sha256": "5bb50e4bcc686f3c911d7b538350b50be19260dedf431bf3b2f678b6585f7a14",
-      "size_bytes": 163297
+      "rows": 1974,
+      "sha256": "c46694494fdd2e1dbb128c2dcc72775832d6a5058a522a5f5d32b99e22f72eb8",
+      "size_bytes": 163384
     },
     "euromillions_raffles.csv": {
       "file": "euromillions_raffles.csv",
-      "latest_draw": 1973,
+      "latest_draw": 1974,
       "latest_draw_date": null,
-      "rows": 1630,
-      "sha256": "518f6068c6bddc453f5d4f507ff44a7460623b6b5fb57098a9ac6924959c39dc",
-      "size_bytes": 27332
+      "rows": 3232,
+      "sha256": "3b6be0b275147c2067169e1be6742b945ef3df1b677b597e347100ab2a760c8c",
+      "size_bytes": 54305
     },
     "euromillions_results.csv": {
       "file": "euromillions_results.csv",
-      "latest_draw": 1973,
-      "latest_draw_date": "2026-08-18",
-      "rows": 1973,
-      "sha256": "a32ccb523a9d073094a50494061c77b0f6398520c568449cec6451749677266f",
-      "size_bytes": 98314
+      "latest_draw": 1974,
+      "latest_draw_date": "2026-08-21",
+      "rows": 1974,
+      "sha256": "452f10ad856d7110ca17e4e552f1ce6eeb8734449bc3360ad3d6502aa14f367e",
+      "size_bytes": 98358
     },
     "euromillions_winners.csv": {
       "file": "euromillions_winners.csv",
-      "latest_draw": 1973,
+      "latest_draw": 1974,
       "latest_draw_date": null,
-      "rows": 1973,
-      "sha256": "ff184bd1f4b962767fe2a53876c69d9ebf611d728b392d5dcc1e2d0c5133d4f4",
-      "size_bytes": 133074
+      "rows": 1974,
+      "sha256": "b35fc7a53aba1f64cdeba665d25efc6bd7c571a3ce55aaf667765dc6a1ab1b69",
+      "size_bytes": 133142
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
@@ -124,7 +124,7 @@
       "size_bytes": 247208
     }
   },
-  "generated_utc": "2026-08-21T21:31:32.854060Z",
+  "generated_utc": "2026-08-21T23:49:37.460119Z",
   "schema_version": 2,
   "software": {
     "current_version": 1836,
