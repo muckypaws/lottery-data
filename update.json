@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-21T23:49:37.460119Z"
+    "revision": "2026-08-22T14:14:46.303287Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -31,9 +31,9 @@
       "file": "euromillions_raffles.csv",
       "latest_draw": 1974,
       "latest_draw_date": null,
-      "rows": 3232,
-      "sha256": "3b6be0b275147c2067169e1be6742b945ef3df1b677b597e347100ab2a760c8c",
-      "size_bytes": 54305
+      "rows": 3249,
+      "sha256": "e03648ac0eb5298c6e0b372beade7246285138cda17e607864d34fd12bebb8bc",
+      "size_bytes": 54594
     },
     "euromillions_results.csv": {
       "file": "euromillions_results.csv",
@@ -50,6 +50,30 @@
       "rows": 1974,
       "sha256": "b35fc7a53aba1f64cdeba665d25efc6bd7c571a3ce55aaf667765dc6a1ab1b69",
       "size_bytes": 133142
+    },
+    "irish_lotto_prizes.csv": {
+      "file": "irish_lotto_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 16,
+      "sha256": "14a0c1c60e27239d6a9079508576f746a2b75746760d7fe543abc668bb3e18b4",
+      "size_bytes": 2289
+    },
+    "irish_lotto_raffles.csv": {
+      "file": "irish_lotto_raffles.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 16,
+      "sha256": "81768bd3c5c2cdb414fde017cf28a333d453d203e3533c29c267f293e34f9b8e",
+      "size_bytes": 275
+    },
+    "irish_lotto_results.csv": {
+      "file": "irish_lotto_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 16,
+      "sha256": "d4d8c94a12a36b287b00aa0e4bfe91e0bfec3787e2bc5a63c400fe44b83466ae",
+      "size_bytes": 1062
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
@@ -124,11 +148,11 @@
       "size_bytes": 247208
     }
   },
-  "generated_utc": "2026-08-21T23:49:37.460119Z",
+  "generated_utc": "2026-08-22T14:14:46.303287Z",
   "schema_version": 2,
   "software": {
-    "current_version": 1836,
-    "message": "",
-    "motd_number": 6
+    "current_version": 1837,
+    "message": "Your new message here",
+    "motd_number": 7
   }
 }
