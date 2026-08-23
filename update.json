@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-22T20:04:49.292162Z"
+    "revision": "2026-08-23T03:35:18.580548Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -55,57 +55,57 @@
       "file": "irish_lotto_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 272,
-      "sha256": "96edb4f1be0e7bbc4a0412772ac029f27bee3555cdae6b23b1ee567ad68dcf62",
-      "size_bytes": 30961
+      "rows": 606,
+      "sha256": "529a659f69df44f76ca945af17a295640ee52c4236dd8f6fdda98cac273c148c",
+      "size_bytes": 68981
     },
     "irish_lotto_raffles.csv": {
       "file": "irish_lotto_raffles.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 272,
-      "sha256": "f03ce6735dce37130d36afdcdf97e5ce551465a9debb7a97e6f9f4bd5d522a07",
-      "size_bytes": 4371
+      "rows": 606,
+      "sha256": "cd9f17841df5f27374c8422a242616b2664f18e7d838cad5d32b75e12324ae87",
+      "size_bytes": 9715
     },
     "irish_lotto_results.csv": {
       "file": "irish_lotto_results.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 272,
-      "sha256": "9eb7e7ae17f1e77eb4a2b696a93eac59153f4ff22c2c504add3a1b065fb799ce",
-      "size_bytes": 16820
+      "rows": 606,
+      "sha256": "e077bc636c427bc21f3783e91fc038a0a911e1a207c2d7f7e6ebfaf2b52a19ca",
+      "size_bytes": 37390
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
-      "latest_draw": 3199,
+      "latest_draw": 3200,
       "latest_draw_date": null,
-      "rows": 3220,
-      "sha256": "6412f96949d7b361568c5546cd80ea2d0353509877806c65bdae5d6032c427c8",
-      "size_bytes": 66957
+      "rows": 3222,
+      "sha256": "5f830948bc2384eca0941174e2aa525eb3b9422ed62eedcb5641950da319c636",
+      "size_bytes": 67083
     },
     "lotto_hotpicks_results.csv": {
       "file": "lotto_hotpicks_results.csv",
-      "latest_draw": 3199,
-      "latest_draw_date": "2026-08-19",
-      "rows": 3220,
-      "sha256": "cab8f541bcd189833fd7b47303d973853283b17d6061914bd5190f02fe77d5fc",
-      "size_bytes": 130448
+      "latest_draw": 3200,
+      "latest_draw_date": "2026-08-22",
+      "rows": 3222,
+      "sha256": "50836a881c5d82410ccaffedd22a3778ab45656d8a5e87c9852e78f5da3a2450",
+      "size_bytes": 130563
     },
     "lotto_prizes.csv": {
       "file": "lotto_prizes.csv",
-      "latest_draw": 3199,
+      "latest_draw": 3200,
       "latest_draw_date": null,
-      "rows": 3220,
-      "sha256": "64b9397a90abc39a25c01c5e0b06fc08f9ebc163ee4e8c1ffcfd72c011b5d8ec",
-      "size_bytes": 105958
+      "rows": 3222,
+      "sha256": "6d3910274401d2eabd45689cdc698ba705ebccf71caf92d2c5e4b25a151b2538",
+      "size_bytes": 106016
     },
     "lotto_results.csv": {
       "file": "lotto_results.csv",
-      "latest_draw": 3199,
-      "latest_draw_date": "2026-08-19",
-      "rows": 3220,
-      "sha256": "819e8c11c83be8a6ccaacfc1935daaa3ff40af3c4f3fc55ece3cb25c2e214d0a",
-      "size_bytes": 198607
+      "latest_draw": 3200,
+      "latest_draw_date": "2026-08-22",
+      "rows": 3222,
+      "sha256": "1a5cb19002efa84d5b8518e3dfc93ce6139c6777abdcf75042744253cc801e18",
+      "size_bytes": 198752
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -141,18 +141,18 @@
     },
     "thunderball_results.csv": {
       "file": "thunderball_results.csv",
-      "latest_draw": 3960,
-      "latest_draw_date": "2026-08-21",
-      "rows": 3960,
-      "sha256": "37a6ca5bee038e655faf63d2dcdbeb82d8ee8d6f8e8bca5be86ab3c4bf9b7c05",
-      "size_bytes": 247208
+      "latest_draw": 3961,
+      "latest_draw_date": "2026-08-22",
+      "rows": 3961,
+      "sha256": "e0653d5f59c899a0aef2822abf276dfad89b5afc08503a3c77a825e4db781cef",
+      "size_bytes": 247268
     }
   },
-  "generated_utc": "2026-08-22T20:04:49.292162Z",
+  "generated_utc": "2026-08-23T03:35:18.580548Z",
   "schema_version": 2,
   "software": {
     "current_version": 1837,
-    "message": "https://muckypaws.com/uk-national-lottery-ticket-checker/",
-    "motd_number": 9
+    "message": "Set for Life and Powerball support is now available.",
+    "motd_number": 7
   }
 }
