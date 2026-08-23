@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-23T17:54:59.794288Z"
+    "revision": "2026-08-23T18:22:24.271978Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -55,25 +55,25 @@
       "file": "irish_lotto_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 1224,
-      "sha256": "7f3475811b92f5e4093299c8d4d5870a61afb46f059ce027486e60c4c3bb7442",
-      "size_bytes": 138738
+      "rows": 1243,
+      "sha256": "474e292aedc270d1aae078021a3c0e3e548bf3a1a51cd3968135eae362387529",
+      "size_bytes": 140820
     },
     "irish_lotto_raffles.csv": {
       "file": "irish_lotto_raffles.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 1224,
-      "sha256": "436f7a5b63894fd9e3d058eea69f2e829539cc525ac283f2b211ccac6d39a625",
-      "size_bytes": 19603
+      "rows": 1145,
+      "sha256": "ee64b4282e89d8b20ebcc1a794ec9e0892f230414e332a11fc00e766802ca52c",
+      "size_bytes": 18339
     },
     "irish_lotto_results.csv": {
       "file": "irish_lotto_results.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 1224,
-      "sha256": "65121485500efdffc7bf4005c0662d77603662b1c460ce6b82253830a52a479a",
-      "size_bytes": 75310
+      "rows": 1243,
+      "sha256": "b9693819943e48b8cab0d904f7cd7a56f7eee5dd5a8da4c9dc22672362e93b1b",
+      "size_bytes": 76082
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
@@ -148,7 +148,7 @@
       "size_bytes": 247268
     }
   },
-  "generated_utc": "2026-08-23T17:54:59.794288Z",
+  "generated_utc": "2026-08-23T18:22:24.271978Z",
   "schema_version": 2,
   "software": {
     "current_version": 1837,
