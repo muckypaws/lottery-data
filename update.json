@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-23T18:22:24.271978Z"
+    "revision": "2026-08-23T22:44:44.035949Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -51,13 +51,29 @@
       "sha256": "b35fc7a53aba1f64cdeba665d25efc6bd7c571a3ce55aaf667765dc6a1ab1b69",
       "size_bytes": 133142
     },
+    "irish_lotto_plus1_results.csv": {
+      "file": "irish_lotto_plus1_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 320,
+      "sha256": "d2082f2abecdd04a00bba41b83c7e0528c868627c63ab863ba00f54e44e252b0",
+      "size_bytes": 14890
+    },
+    "irish_lotto_plus2_results.csv": {
+      "file": "irish_lotto_plus2_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 320,
+      "sha256": "3cb30234cdcb0c913c1016aef41c4bf45785ca3625ce2dd0de5c324376935437",
+      "size_bytes": 14874
+    },
     "irish_lotto_prizes.csv": {
       "file": "irish_lotto_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 1243,
-      "sha256": "474e292aedc270d1aae078021a3c0e3e548bf3a1a51cd3968135eae362387529",
-      "size_bytes": 140820
+      "rows": 1437,
+      "sha256": "3f675a555d78165ab275028ca141339d2216a8fbe896ef4eaf8f3eeb589b036f",
+      "size_bytes": 162188
     },
     "irish_lotto_raffles.csv": {
       "file": "irish_lotto_raffles.csv",
@@ -71,9 +87,9 @@
       "file": "irish_lotto_results.csv",
       "latest_draw": null,
       "latest_draw_date": null,
-      "rows": 1243,
-      "sha256": "b9693819943e48b8cab0d904f7cd7a56f7eee5dd5a8da4c9dc22672362e93b1b",
-      "size_bytes": 76082
+      "rows": 1437,
+      "sha256": "33bea0731e3342753cf7606ef4b7138a35a44374888f5878cd0bf013af49d9f4",
+      "size_bytes": 87207
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
@@ -148,7 +164,7 @@
       "size_bytes": 247268
     }
   },
-  "generated_utc": "2026-08-23T18:22:24.271978Z",
+  "generated_utc": "2026-08-23T22:44:44.035949Z",
   "schema_version": 2,
   "software": {
     "current_version": 1837,
