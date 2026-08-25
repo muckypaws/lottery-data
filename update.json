@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-25T04:31:01.797839Z"
+    "revision": "2026-08-25T12:36:56.388156Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -55,41 +55,41 @@
       "file": "irish_lotto_plus1_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 1280,
-      "sha256": "63b86321a2634fc7896baf73a28408ce26fe4e0ad8e897c00b7c82e81646a0eb",
-      "size_bytes": 134708
+      "rows": 1576,
+      "sha256": "e41b4b6287e57aa5fe1b6552dfd0afee6873837cbb585f8a48cc2edb5d640bd3",
+      "size_bytes": 160317
     },
     "irish_lotto_plus1_results.csv": {
       "file": "irish_lotto_plus1_results.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 1280,
-      "sha256": "8c7a480fa3dd4e043cb9115d3f9bb8d57a0c09d7d6c8b9e261454a0716b957f9",
-      "size_bytes": 59349
+      "rows": 1576,
+      "sha256": "cb9cd8be7109df40fd5cfd539f9d80d1fde59245bd00ca920944e66f0eeeacbe",
+      "size_bytes": 73037
     },
     "irish_lotto_plus2_prizes.csv": {
       "file": "irish_lotto_plus2_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 1280,
-      "sha256": "23a32326ece8819f14e03d22306a2e5082d32d88ab7e5bf689112d37f20da949",
-      "size_bytes": 126520
+      "rows": 1576,
+      "sha256": "d7ba221b20323741decff157ebd94fc4a16a7e1e0a8b64feaa657e463c40b0b9",
+      "size_bytes": 151906
     },
     "irish_lotto_plus2_results.csv": {
       "file": "irish_lotto_plus2_results.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 1280,
-      "sha256": "c3fecb02629ab0078f89495a2f8581eb23432efd11b16becb26bad4928f5b899",
-      "size_bytes": 59379
+      "rows": 1576,
+      "sha256": "a1310204c1ce9c2010569518ddf68968d602883f2b120dc76b116b34aa2a7bdd",
+      "size_bytes": 73080
     },
     "irish_lotto_prizes.csv": {
       "file": "irish_lotto_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 2742,
-      "sha256": "59a481a219d763850baffadb0bc79c3044787969e577e45864c19a9878144d07",
-      "size_bytes": 244384
+      "rows": 3090,
+      "sha256": "23efe8aaaeffddeb4627512271a0313189f5512a4729c48b0483416a60180beb",
+      "size_bytes": 260730
     },
     "irish_lotto_raffles.csv": {
       "file": "irish_lotto_raffles.csv",
@@ -103,9 +103,9 @@
       "file": "irish_lotto_results.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 2742,
-      "sha256": "6b5ae017e235c448b94a068c77488395adfc1bc09faa786d90bab98b086ef68b",
-      "size_bytes": 160816
+      "rows": 3090,
+      "sha256": "f997e9d686dde35081c66fcba148d8e82bdebfc2370c392819b3d76e425055e1",
+      "size_bytes": 180322
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
@@ -141,19 +141,19 @@
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
-      "latest_draw": 14,
+      "latest_draw": 15,
       "latest_draw_date": null,
-      "rows": 14,
-      "sha256": "72ac371d0d6e4bddf17edd996d9aa222b79539eb6b8d8ac3175deb6f8a3ba4da",
-      "size_bytes": 2542
+      "rows": 15,
+      "sha256": "253a592c8734318d159c28ed6d9342203eca30e49df6ba8c481adca31d7ed188",
+      "size_bytes": 2695
     },
     "powerball_results.csv": {
       "file": "powerball_results.csv",
-      "latest_draw": 14,
-      "latest_draw_date": "2026-08-23",
-      "rows": 14,
-      "sha256": "db30588ccd20fb8cde7f651f3c9cc5602f3c00ad97223b5590f3561707589f12",
-      "size_bytes": 841
+      "latest_draw": 15,
+      "latest_draw_date": "2026-08-25",
+      "rows": 15,
+      "sha256": "b0df6c526a83907a9ca1f89f431f1799d50a2aac99f1595f5cf1b59ecb462ab2",
+      "size_bytes": 896
     },
     "set_for_life_prizes.csv": {
       "file": "set_for_life_prizes.csv",
@@ -180,7 +180,7 @@
       "size_bytes": 247268
     }
   },
-  "generated_utc": "2026-08-25T04:31:01.797839Z",
+  "generated_utc": "2026-08-25T12:36:56.388156Z",
   "schema_version": 2,
   "software": {
     "current_version": 1836,
