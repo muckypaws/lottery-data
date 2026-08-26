@@ -1,95 +1,95 @@
 {
   "data": {
-    "revision": "2026-08-25T20:31:01.516741Z"
+    "revision": "2026-08-26T00:13:18.808053Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
       "file": "euromillions_hotpicks_prizes.csv",
-      "latest_draw": 1974,
+      "latest_draw": 1975,
       "latest_draw_date": null,
-      "rows": 1974,
-      "sha256": "dcef3619ee9dbaf809d6f0eb1472ac456c80c55d52fffea90821487cff210fa3",
-      "size_bytes": 41151
+      "rows": 1975,
+      "sha256": "524fb0460c515240926034329de1d38b6fe2fb6e1885029fed72f5eab74fbc66",
+      "size_bytes": 41213
     },
     "euromillions_hotpicks_results.csv": {
       "file": "euromillions_hotpicks_results.csv",
-      "latest_draw": 1974,
-      "latest_draw_date": "2026-08-21",
-      "rows": 1974,
-      "sha256": "aa1f7b4bbff9799971050f05fad1c8328a6e12d614cdbd40a165d7e2a7e9a70b",
-      "size_bytes": 72062
+      "latest_draw": 1975,
+      "latest_draw_date": "2026-08-25",
+      "rows": 1975,
+      "sha256": "3c6062231d2a7b15927d3aa6caaf7f6658268069e19c1c2238e31ded1017ba70",
+      "size_bytes": 72107
     },
     "euromillions_prizes.csv": {
       "file": "euromillions_prizes.csv",
-      "latest_draw": 1974,
+      "latest_draw": 1975,
       "latest_draw_date": null,
-      "rows": 1974,
-      "sha256": "f486b57f76b9f6975d7ae867774d4336a227632bc5493dc90be9ccce50e891a2",
-      "size_bytes": 163377
+      "rows": 1975,
+      "sha256": "1177b27dab073260ae3d5ac7ab844ee4f9195d12942bf6bd37a9cfc3dbb7082e",
+      "size_bytes": 163460
     },
     "euromillions_raffles.csv": {
       "file": "euromillions_raffles.csv",
-      "latest_draw": 1974,
+      "latest_draw": 1975,
       "latest_draw_date": null,
-      "rows": 3249,
-      "sha256": "e03648ac0eb5298c6e0b372beade7246285138cda17e607864d34fd12bebb8bc",
-      "size_bytes": 54594
+      "rows": 3250,
+      "sha256": "cbc7111794e8937b118f0c03c12654e1e7eaf2bce3694dd745550c8481a8b83f",
+      "size_bytes": 54611
     },
     "euromillions_results.csv": {
       "file": "euromillions_results.csv",
-      "latest_draw": 1974,
-      "latest_draw_date": "2026-08-21",
-      "rows": 1974,
-      "sha256": "3ee2586b9cc83d1b7a635eedc9b1db842afece146caa962b4dd70b6db710ec6c",
-      "size_bytes": 98369
+      "latest_draw": 1975,
+      "latest_draw_date": "2026-08-25",
+      "rows": 1975,
+      "sha256": "d41b4ef0be1d8978ed3b26f9807bad3e358e1e72121b7d13f6ae96868fef0d23",
+      "size_bytes": 98422
     },
     "euromillions_winners.csv": {
       "file": "euromillions_winners.csv",
-      "latest_draw": 1974,
+      "latest_draw": 1975,
       "latest_draw_date": null,
-      "rows": 1974,
-      "sha256": "b35fc7a53aba1f64cdeba665d25efc6bd7c571a3ce55aaf667765dc6a1ab1b69",
-      "size_bytes": 133142
+      "rows": 1975,
+      "sha256": "f010073e8f529a554d14514ae726bcdb8d2150deb5fe56730d3125f9ed689d20",
+      "size_bytes": 133209
     },
     "irish_lotto_plus1_prizes.csv": {
       "file": "irish_lotto_plus1_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 1916,
-      "sha256": "8049f758a24a428eebe1135f99ed98ae30bca5603d1ce73d007c5f5cf0c7e6eb",
-      "size_bytes": 172236
+      "rows": 2077,
+      "sha256": "fedea3f468e6a8109cc63a35615f0aad5e942cc17f1c89d56116c283b4c525e2",
+      "size_bytes": 177871
     },
     "irish_lotto_plus1_results.csv": {
       "file": "irish_lotto_plus1_results.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 1916,
-      "sha256": "c77646a5d1aeabea5358f5f50630984142a2194d16c98deb00b22bd6ad7e20fc",
-      "size_bytes": 88742
+      "rows": 2077,
+      "sha256": "78c99df79abf832a63591c8594ecb9e3811eac14e7cf26e0ab9c85561bc6087f",
+      "size_bytes": 96182
     },
     "irish_lotto_plus2_prizes.csv": {
       "file": "irish_lotto_plus2_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 1916,
-      "sha256": "f1e46cdf660f6e3716fcd3c20c93fd1b85c3ce9f1dea6e9caa3309b2faea2c8f",
-      "size_bytes": 163825
+      "rows": 2077,
+      "sha256": "3d772265ceefda91215175de5a3f5c908d9687bb947eb27520fa17dd6c61334d",
+      "size_bytes": 169460
     },
     "irish_lotto_plus2_results.csv": {
       "file": "irish_lotto_plus2_results.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 1916,
-      "sha256": "ce80bed45bf6cc47efaeaa3f086e5dbc640a6cade5da48565900b66ec5094c56",
-      "size_bytes": 88803
+      "rows": 2077,
+      "sha256": "9b140d8707c831f4f5c266e22d7e1ba84f66e93f73307b15b4ffe413e7482aa7",
+      "size_bytes": 96265
     },
     "irish_lotto_prizes.csv": {
       "file": "irish_lotto_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 3426,
-      "sha256": "8cd161d32ab911ebfc73fd9a0f84f71dde8d839c127a084b17079839d422da62",
-      "size_bytes": 276383
+      "rows": 3592,
+      "sha256": "6131e8325a987843ea35870ea5723df222e16f17468acdc78f062e57a8b73b93",
+      "size_bytes": 284073
     },
     "irish_lotto_raffles.csv": {
       "file": "irish_lotto_raffles.csv",
@@ -103,9 +103,9 @@
       "file": "irish_lotto_results.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-22",
-      "rows": 3426,
-      "sha256": "904a9fb786640ce1296dede8b385847b23391973fe7fa69411614c619b3f08a7",
-      "size_bytes": 199020
+      "rows": 3592,
+      "sha256": "3c00e43140ca348f73e9d3132a146361946c6a441ed752c174d2330e76a313a5",
+      "size_bytes": 208204
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
@@ -173,14 +173,14 @@
     },
     "thunderball_results.csv": {
       "file": "thunderball_results.csv",
-      "latest_draw": 3961,
-      "latest_draw_date": "2026-08-22",
-      "rows": 3961,
-      "sha256": "e0653d5f59c899a0aef2822abf276dfad89b5afc08503a3c77a825e4db781cef",
-      "size_bytes": 247268
+      "latest_draw": 3962,
+      "latest_draw_date": "2026-08-25",
+      "rows": 3962,
+      "sha256": "62ae9b25b041f5f1d32fed90a9232d9d8e80d68d4a5cbea46e599dd3a8ddb83a",
+      "size_bytes": 247327
     }
   },
-  "generated_utc": "2026-08-25T20:31:01.516741Z",
+  "generated_utc": "2026-08-26T00:13:18.808053Z",
   "schema_version": 2,
   "software": {
     "current_version": 1836,
