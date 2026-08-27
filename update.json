@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-27T05:36:11.759777Z"
+    "revision": "2026-08-27T21:01:43.009497Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -56,7 +56,7 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-26",
       "rows": 2700,
-      "sha256": "8abd8a8ec5a2f6b63323314d2dc3ac5683dc60164bbd00accd09e6d30847f5dd",
+      "sha256": "083abacac2614a3e2583ecc21389f622766b092d4ff1ce0e40a2f2442b5e7ae8",
       "size_bytes": 199956
     },
     "irish_lotto_plus1_results.csv": {
@@ -88,7 +88,7 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-26",
       "rows": 3893,
-      "sha256": "c156a9e6a3176f7a3064b807819b418121aecdc86a87d6490c098faa13ba7d85",
+      "sha256": "3f9e40ef0c8f6477cfa6c16b70340817ad33888681edd53f6885b5428344a448",
       "size_bytes": 298035
     },
     "irish_lotto_raffles.csv": {
@@ -104,8 +104,8 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-26",
       "rows": 3893,
-      "sha256": "693031028901d808d21a7feeb5cb0bebeb1bfd52b6f20a9f8e7a4e2480c7540b",
-      "size_bytes": 222944
+      "sha256": "57862f6a05c6e94d9dc8da237e02d34dc766586eac26d3786177b700f1c4f082",
+      "size_bytes": 221987
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
@@ -141,19 +141,19 @@
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
-      "latest_draw": 15,
+      "latest_draw": 16,
       "latest_draw_date": null,
-      "rows": 15,
-      "sha256": "253a592c8734318d159c28ed6d9342203eca30e49df6ba8c481adca31d7ed188",
-      "size_bytes": 2695
+      "rows": 16,
+      "sha256": "7ad7ab106eafb9cf541a2544448500b3552f8e9894f27286bd1647f6cfc3bf9f",
+      "size_bytes": 2844
     },
     "powerball_results.csv": {
       "file": "powerball_results.csv",
-      "latest_draw": 15,
-      "latest_draw_date": "2026-08-25",
-      "rows": 15,
-      "sha256": "b0df6c526a83907a9ca1f89f431f1799d50a2aac99f1595f5cf1b59ecb462ab2",
-      "size_bytes": 896
+      "latest_draw": 16,
+      "latest_draw_date": "2026-08-27",
+      "rows": 16,
+      "sha256": "9997e03d8cf7f97b3a19d5941dae52a01e494d1edcc67df051413fc23554297c",
+      "size_bytes": 952
     },
     "set_for_life_prizes.csv": {
       "file": "set_for_life_prizes.csv",
@@ -180,11 +180,114 @@
       "size_bytes": 247387
     }
   },
-  "generated_utc": "2026-08-27T05:36:11.759777Z",
-  "schema_version": 2,
+  "games": {
+    "euromillions": {
+      "display_name": "EuroMillions",
+      "expected_draw_date": "2026-08-25",
+      "latest_draw": 1975,
+      "latest_draw_date": "2026-08-25",
+      "prizes": "current",
+      "publication_due_utc": "2026-08-25T22:15:00Z",
+      "results": "current",
+      "status": "current"
+    },
+    "euromillions-hotpicks": {
+      "display_name": "EuroMillions HotPicks",
+      "expected_draw_date": "2026-08-25",
+      "latest_draw": 1975,
+      "latest_draw_date": "2026-08-25",
+      "prizes": "current",
+      "publication_due_utc": "2026-08-25T22:15:00Z",
+      "results": "current",
+      "status": "current"
+    },
+    "irish-lotto": {
+      "display_name": "Irish Lotto",
+      "expected_draw_date": "2026-08-26",
+      "latest_draw": null,
+      "latest_draw_date": "2026-08-26",
+      "prizes": "current",
+      "publication_due_utc": "2026-08-26T21:15:00Z",
+      "results": "current",
+      "status": "current"
+    },
+    "irish-lotto-plus1": {
+      "display_name": "Irish Lotto Plus 1",
+      "expected_draw_date": "2026-08-26",
+      "latest_draw": null,
+      "latest_draw_date": "2026-08-26",
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-08-26T21:15:00Z",
+      "results": "current",
+      "status": "awaiting_prizes"
+    },
+    "irish-lotto-plus2": {
+      "display_name": "Irish Lotto Plus 2",
+      "expected_draw_date": "2026-08-26",
+      "latest_draw": null,
+      "latest_draw_date": "2026-08-26",
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-08-26T21:15:00Z",
+      "results": "current",
+      "status": "awaiting_prizes"
+    },
+    "lotto": {
+      "display_name": "Lotto",
+      "expected_draw_date": "2026-08-26",
+      "latest_draw": 3201,
+      "latest_draw_date": "2026-08-26",
+      "prizes": "current",
+      "publication_due_utc": "2026-08-26T21:15:00Z",
+      "results": "current",
+      "status": "current"
+    },
+    "lotto-hotpicks": {
+      "display_name": "Lotto HotPicks",
+      "expected_draw_date": "2026-08-26",
+      "latest_draw": 3201,
+      "latest_draw_date": "2026-08-26",
+      "prizes": "current",
+      "publication_due_utc": "2026-08-26T21:15:00Z",
+      "results": "current",
+      "status": "current"
+    },
+    "powerball": {
+      "display_name": "Powerball",
+      "expected_draw_date": "2026-08-27",
+      "latest_draw": 16,
+      "latest_draw_date": "2026-08-27",
+      "prizes": "current",
+      "publication_due_utc": "2026-08-27T12:15:00Z",
+      "results": "current",
+      "status": "current"
+    },
+    "set-for-life": {
+      "display_name": "Set For Life",
+      "expected_draw_date": "2026-08-24",
+      "latest_draw": 777,
+      "latest_draw_date": "2026-08-24",
+      "prizes": "current",
+      "publication_due_utc": "2026-08-27T21:15:00Z",
+      "results": "current",
+      "status": "not_due"
+    },
+    "thunderball": {
+      "display_name": "Thunderball",
+      "expected_draw_date": "2026-08-26",
+      "latest_draw": 3963,
+      "latest_draw_date": "2026-08-26",
+      "prizes": "not_applicable",
+      "publication_due_utc": "2026-08-26T21:15:00Z",
+      "results": "current",
+      "status": "current"
+    }
+  },
+  "generated_utc": "2026-08-27T21:01:43.009497Z",
+  "schema_version": 3,
   "software": {
     "current_version": 1836,
     "message": "",
     "motd_number": 0
-  }
+  },
+  "status": "partial"
 }
