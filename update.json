@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-28T10:13:57.507337Z"
+    "revision": "2026-08-28T17:05:10.517203Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -282,7 +282,7 @@
       "status": "not_due"
     }
   },
-  "generated_utc": "2026-08-28T10:13:57.507337Z",
+  "generated_utc": "2026-08-28T17:05:10.517203Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
