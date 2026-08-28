@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-28T17:05:10.517203Z"
+    "revision": "2026-08-28T21:01:55.228557Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -56,8 +56,8 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-26",
       "rows": 2700,
-      "sha256": "083abacac2614a3e2583ecc21389f622766b092d4ff1ce0e40a2f2442b5e7ae8",
-      "size_bytes": 199956
+      "sha256": "e5463de9e74848be443ce0d1a84d4415a31507035888c67528ba9deae82361a2",
+      "size_bytes": 200029
     },
     "irish_lotto_plus1_results.csv": {
       "file": "irish_lotto_plus1_results.csv",
@@ -72,8 +72,8 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-26",
       "rows": 2507,
-      "sha256": "0e2c702eadf5e611674a927faf83500af2d93cbf59487de092367842efcf4e7a",
-      "size_bytes": 184510
+      "sha256": "8a06ec78950649c706a1f1184f2118984d58703cb407f9ae661a2bd38d6a07b0",
+      "size_bytes": 184576
     },
     "irish_lotto_plus2_results.csv": {
       "file": "irish_lotto_plus2_results.csv",
@@ -88,8 +88,8 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-26",
       "rows": 3893,
-      "sha256": "3f9e40ef0c8f6477cfa6c16b70340817ad33888681edd53f6885b5428344a448",
-      "size_bytes": 298035
+      "sha256": "1f910afa484cc53be9c0a39c4cc9841cc4a71598dd93a2842e11f379425bb23a",
+      "size_bytes": 298040
     },
     "irish_lotto_raffles.csv": {
       "file": "irish_lotto_raffles.csv",
@@ -216,20 +216,20 @@
       "expected_draw_date": "2026-08-26",
       "latest_draw": null,
       "latest_draw_date": "2026-08-26",
-      "prizes": "awaiting",
+      "prizes": "current",
       "publication_due_utc": "2026-08-26T21:15:00Z",
       "results": "current",
-      "status": "awaiting_prizes"
+      "status": "current"
     },
     "irish-lotto-plus2": {
       "display_name": "Irish Lotto Plus 2",
       "expected_draw_date": "2026-08-26",
       "latest_draw": null,
       "latest_draw_date": "2026-08-26",
-      "prizes": "awaiting",
+      "prizes": "current",
       "publication_due_utc": "2026-08-26T21:15:00Z",
       "results": "current",
-      "status": "awaiting_prizes"
+      "status": "current"
     },
     "lotto": {
       "display_name": "Lotto",
@@ -282,12 +282,12 @@
       "status": "not_due"
     }
   },
-  "generated_utc": "2026-08-28T17:05:10.517203Z",
+  "generated_utc": "2026-08-28T21:01:55.228557Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
     "message": "",
     "motd_number": 0
   },
-  "status": "partial"
+  "status": "current"
 }
