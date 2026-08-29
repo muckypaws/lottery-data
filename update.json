@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-29T20:14:33.423329Z"
+    "revision": "2026-08-29T20:23:21.992700Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -186,10 +186,10 @@
       "expected_draw_date": "2026-08-28",
       "latest_draw": 1976,
       "latest_draw_date": "2026-08-28",
-      "prizes": "current",
+      "prizes": "awaiting",
       "publication_due_utc": "2026-08-28T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "awaiting_prizes"
     },
     "euromillions-hotpicks": {
       "display_name": "EuroMillions HotPicks",
@@ -216,30 +216,30 @@
       "expected_draw_date": "2026-08-29",
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
-      "prizes": "current",
+      "prizes": "awaiting",
       "publication_due_utc": "2026-08-29T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "awaiting_prizes"
     },
     "irish-lotto-plus2": {
       "display_name": "Irish Lotto Plus 2",
       "expected_draw_date": "2026-08-29",
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
-      "prizes": "current",
+      "prizes": "awaiting",
       "publication_due_utc": "2026-08-29T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "awaiting_prizes"
     },
     "lotto": {
       "display_name": "Lotto",
       "expected_draw_date": "2026-08-29",
       "latest_draw": 3202,
       "latest_draw_date": "2026-08-29",
-      "prizes": "current",
+      "prizes": "awaiting",
       "publication_due_utc": "2026-08-29T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "awaiting_prizes"
     },
     "lotto-hotpicks": {
       "display_name": "Lotto HotPicks",
@@ -282,7 +282,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-08-29T20:14:33.423329Z",
+  "generated_utc": "2026-08-29T20:23:21.992700Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
