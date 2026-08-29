@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-29T17:05:59.199842Z"
+    "revision": "2026-08-29T18:34:25.603996Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -88,8 +88,8 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-26",
       "rows": 3893,
-      "sha256": "32c31fe187a714c1609a40505eaff344c15ab92b1427c8eeb54f706b4f701b40",
-      "size_bytes": 298040
+      "sha256": "9afa7a1c896d93bc32df63e13638d79a5ce95ec60c784dcfa98becc2f738b095",
+      "size_bytes": 299218
     },
     "irish_lotto_raffles.csv": {
       "file": "irish_lotto_raffles.csv",
@@ -282,7 +282,7 @@
       "status": "not_due"
     }
   },
-  "generated_utc": "2026-08-29T17:05:59.199842Z",
+  "generated_utc": "2026-08-29T18:34:25.603996Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
