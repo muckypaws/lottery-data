@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-29T22:00:59.238888Z"
+    "revision": "2026-08-29T23:01:01.024801Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -257,9 +257,9 @@
       "latest_draw": 16,
       "latest_draw_date": "2026-08-27",
       "prizes": "current",
-      "publication_due_utc": "2026-08-27T12:15:00Z",
+      "publication_due_utc": "2026-08-30T12:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "set-for-life": {
       "display_name": "Set For Life",
@@ -282,7 +282,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-08-29T22:00:59.238888Z",
+  "generated_utc": "2026-08-29T23:01:01.024801Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
