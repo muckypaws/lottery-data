@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-08-30T21:01:18.428738Z",
-  "latest_draw_date": "2026-08-30",
+  "generated_utc": "2026-08-30T21:11:13.769067Z",
+  "latest_draw_date": "2026-08-29",
   "note": "Historical winning postcode frequency is not a measure of winning odds; ticket participation by postcode is not represented in this dataset.",
   "postcodes": [
     {
@@ -881,24 +881,6 @@
         {
           "category": "Daily",
           "date": "2025-07-04",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Aberdeen",
-      "postcode": "AB23 8LU",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
           "prize": 1000.0
         }
       ]
@@ -4327,24 +4309,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Welwyn Garden City",
-      "postcode": "AL7 4DB",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2026-02-06",
       "latest_win": "2026-02-06",
       "location": "Welwyn Garden City",
@@ -7459,6 +7423,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Birmingham",
+      "postcode": "B38 0AY",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-03-28",
       "latest_win": "2026-03-28",
       "location": "Birmingham",
@@ -8999,6 +8981,24 @@
         {
           "category": "Daily",
           "date": "2026-07-02",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Halesowen",
+      "postcode": "B63 3SD",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -16823,24 +16823,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Darwen",
-      "postcode": "BB3 2UT",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2023-11-10",
       "latest_win": "2023-11-10",
       "location": "Darwen",
@@ -17193,6 +17175,24 @@
         {
           "category": "Daily",
           "date": "2025-10-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Accrington",
+      "postcode": "BB5 2RR",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -18237,6 +18237,24 @@
         {
           "category": "Daily",
           "date": "2026-04-02",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Bradford",
+      "postcode": "BD10 9RJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -25226,6 +25244,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Bolton",
+      "postcode": "BL2 5QU",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-09-17",
       "latest_win": "2024-09-17",
       "location": "Bolton",
@@ -26028,6 +26064,24 @@
         {
           "category": "Daily",
           "date": "2025-09-21",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Bolton",
+      "postcode": "BL6 6HX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -32526,6 +32580,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Orpington",
+      "postcode": "BR6 9WE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-04-25",
       "latest_win": "2026-04-25",
       "location": "Bromley",
@@ -33454,6 +33526,24 @@
         {
           "category": "Daily",
           "date": "2025-12-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Bristol",
+      "postcode": "BS13 9LY",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
           "prize": 1000.0
         }
       ]
@@ -36470,6 +36560,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Bristol",
+      "postcode": "BS37 6BA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-06-28",
       "latest_win": "2026-06-28",
       "location": "Chipping Sodbury",
@@ -38362,6 +38470,24 @@
         {
           "category": "Daily",
           "date": "2023-09-18",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Penrith",
+      "postcode": "CA11 8HD",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
           "prize": 1000.0
         }
       ]
@@ -48356,6 +48482,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Chester",
+      "postcode": "CH1 4DJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-11-27",
       "latest_win": "2024-11-27",
       "location": "Chester",
@@ -54532,6 +54676,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Sawbridgeworth",
+      "postcode": "CM21 0EN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2023-10-30",
       "latest_win": "2023-10-30",
       "location": "Bishop's Stortford",
@@ -58677,24 +58839,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "West Mersea",
-      "postcode": "CO5 8SE",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2025-06-08",
       "latest_win": "2025-06-08",
       "location": "Kelvedon and Feering",
@@ -61415,6 +61559,24 @@
         {
           "category": "Daily",
           "date": "2024-04-04",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Ramsgate",
+      "postcode": "CT10 2EN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -64277,6 +64439,24 @@
         {
           "category": "Daily",
           "date": "2023-10-03",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Margate",
+      "postcode": "CT9 2UB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -68260,6 +68440,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Kenilworth",
+      "postcode": "CV8 1AG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-03-03",
       "latest_win": "2025-03-03",
       "location": "Kenilworth",
@@ -70474,24 +70672,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Weaverham",
-      "postcode": "CW8 3JY",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2025-04-12",
       "latest_win": "2025-04-12",
       "location": "Northwich",
@@ -71824,24 +72004,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Meopham",
-      "postcode": "DA13 0QF",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2026-07-28",
       "latest_win": "2026-07-28",
       "location": "Meopham",
@@ -72670,24 +72832,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Bexley",
-      "postcode": "DA7 4PS",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2024-07-09",
       "latest_win": "2024-07-09",
       "location": "Bexleyheath",
@@ -73292,6 +73436,24 @@
         {
           "category": "Daily",
           "date": "2025-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Montrose",
+      "postcode": "DD10 9TR",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
           "prize": 1000.0
         }
       ]
@@ -75295,6 +75457,24 @@
         {
           "category": "Daily",
           "date": "2023-10-17",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Burton upon Trent",
+      "postcode": "DE13 9NX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
           "prize": 1000.0
         }
       ]
@@ -91458,6 +91638,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Stourbridge",
+      "postcode": "DY7 6BZ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-01-09",
       "latest_win": "2026-01-09",
       "location": "Kinver",
@@ -91558,6 +91756,24 @@
         {
           "category": "Daily",
           "date": "2025-01-15",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Stourbridge",
+      "postcode": "DY8 4BA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -91972,6 +92188,24 @@
         {
           "category": "Daily",
           "date": "2024-12-16",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "London",
+      "postcode": "E1 3EZ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -92494,24 +92728,6 @@
         {
           "category": "Daily",
           "date": "2025-11-26",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Tower Hamlets",
-      "postcode": "E14 0QE",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
           "prize": 1000.0
         }
       ]
@@ -97084,6 +97300,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Gullane",
+      "postcode": "EH31 2HB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-08-28",
       "latest_win": "2025-08-28",
       "location": "Cockenzie and Port Seton",
@@ -97706,6 +97940,24 @@
         {
           "category": "Daily",
           "date": "2024-11-26",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Haddington",
+      "postcode": "EH41 3RF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -100774,6 +101026,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Potters Bar",
+      "postcode": "EN6 1SF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-06-01",
       "latest_win": "2025-06-01",
       "location": "Potters Bar",
@@ -101396,6 +101666,24 @@
         {
           "category": "Daily",
           "date": "2024-09-03",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Waltham Abbey",
+      "postcode": "EN9 2RD",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -102556,6 +102844,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Tiverton",
+      "postcode": "EX16 5AY",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-04-04",
       "latest_win": "2024-04-04",
       "location": "Tiverton",
@@ -102880,6 +103186,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Winkleigh",
+      "postcode": "EX19 8DZ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-01-22",
       "latest_win": "2026-01-22",
       "location": "Exeter",
@@ -103142,6 +103466,24 @@
         {
           "category": "Daily",
           "date": "2025-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Exeter",
+      "postcode": "EX2 9SA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -103754,6 +104096,24 @@
         {
           "category": "Daily",
           "date": "2024-01-19",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Bude",
+      "postcode": "EX23 9EE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -105778,24 +106138,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Exminster",
-      "postcode": "EX6 8TX",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2025-09-13",
       "latest_win": "2025-09-13",
       "location": "Dawlish",
@@ -107290,24 +107632,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Larbert and Stenhousemuir",
-      "postcode": "FK5 4DZ",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2026-03-12",
       "latest_win": "2026-03-12",
       "location": "Larbert and Stenhousemuir",
@@ -107588,6 +107912,24 @@
         {
           "category": "Daily",
           "date": "2025-03-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Stirling",
+      "postcode": "FK7 8PZ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -113857,6 +114199,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Glasgow",
+      "postcode": "G69 7PJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-06-04",
       "latest_win": "2024-06-04",
       "location": "Glasgow",
@@ -114343,6 +114703,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Glasgow",
+      "postcode": "G72 8YJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-04-07",
       "latest_win": "2025-04-07",
       "location": "Blantyre",
@@ -114371,6 +114749,24 @@
         {
           "category": "Daily",
           "date": "2025-10-10",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Glasgow",
+      "postcode": "G72 9RY",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -115708,24 +116104,6 @@
         {
           "category": "Daily",
           "date": "2024-03-11",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Helensburgh",
-      "postcode": "G84 8BG",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
           "prize": 1000.0
         }
       ]
@@ -121167,6 +121545,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Woking",
+      "postcode": "GU21 3QH",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-06-27",
       "latest_win": "2026-06-27",
       "location": "Woking",
@@ -121393,6 +121789,24 @@
         {
           "category": "Daily",
           "date": "2025-06-04",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Woking",
+      "postcode": "GU22 9NQ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -122838,6 +123252,24 @@
         {
           "category": "Daily",
           "date": "2025-10-05",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Sandhurst",
+      "postcode": "GU47 8DX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -125659,6 +126091,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Huddersfield",
+      "postcode": "HD2 1ZA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2023-12-11",
       "latest_win": "2023-12-11",
       "location": "Huddersfield",
@@ -126101,6 +126551,24 @@
         {
           "category": "Daily",
           "date": "2025-02-26",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Huddersfield",
+      "postcode": "HD5 0HF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -127567,6 +128035,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Harrogate",
+      "postcode": "HG3 3TA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-12-23",
       "latest_win": "2024-12-23",
       "location": "Ripon",
@@ -128027,6 +128513,24 @@
         {
           "category": "Daily",
           "date": "2025-07-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Hemel Hempstead",
+      "postcode": "HP1 3EG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -128737,24 +129241,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Long Crendon",
-      "postcode": "HP18 9JP",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2024-02-21",
       "latest_win": "2024-02-21",
       "location": "Aylesbury",
@@ -129449,6 +129935,24 @@
         {
           "category": "Daily",
           "date": "2026-04-02",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Aylesbury",
+      "postcode": "HP22 3AF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
           "prize": 1000.0
         }
       ]
@@ -131647,6 +132151,24 @@
         {
           "category": "Daily",
           "date": "2026-02-22",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Stornoway",
+      "postcode": "HS1 2QJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -134555,6 +135077,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Halifax",
+      "postcode": "HX2 7JN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-03-18",
       "latest_win": "2026-03-18",
       "location": "Halifax",
@@ -134907,24 +135447,6 @@
         {
           "category": "Daily",
           "date": "2025-08-09",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Holywell Green and Stainland",
-      "postcode": "HX4 9AH",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
           "prize": 1000.0
         }
       ]
@@ -136599,6 +137121,24 @@
         {
           "category": "Daily",
           "date": "2025-10-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Woodbridge",
+      "postcode": "IP12 1HZ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -149441,6 +149981,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Liverpool",
+      "postcode": "L19 3PE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2023-12-22",
       "latest_win": "2023-12-22",
       "location": "Liverpool",
@@ -159063,6 +159621,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Coalville",
+      "postcode": "LE67 4RG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-05-20",
       "latest_win": "2026-05-20",
       "location": "Coalville",
@@ -160755,6 +161331,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Ruthin",
+      "postcode": "LL15 1RN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-03-03",
       "latest_win": "2026-03-03",
       "location": "Ruthin",
@@ -161799,6 +162393,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Llandudno",
+      "postcode": "LL30 3PG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-03-15",
       "latest_win": "2024-03-15",
       "location": "Llandudno Junction",
@@ -162205,6 +162817,24 @@
         {
           "category": "Daily",
           "date": "2025-08-20",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Garndolbenmaen",
+      "postcode": "LL51 9EZ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -165189,6 +165819,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Louth",
+      "postcode": "LN11 8BD",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-10-07",
       "latest_win": "2025-10-07",
       "location": "Louth",
@@ -165289,6 +165937,24 @@
         {
           "category": "Daily",
           "date": "2025-04-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Louth",
+      "postcode": "LN11 9UP",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -166999,6 +167665,24 @@
         {
           "category": "Daily",
           "date": "2025-03-04",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Leeds",
+      "postcode": "LS10 3UF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -169308,6 +169992,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Otley",
+      "postcode": "LS21 2DR",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-05-30",
       "latest_win": "2026-05-30",
       "location": "Otley (Leeds)",
@@ -170254,6 +170956,24 @@
         {
           "category": "Daily",
           "date": "2025-01-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Leeds",
+      "postcode": "LS27 9LB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
           "prize": 1000.0
         }
       ]
@@ -173494,6 +174214,24 @@
         {
           "category": "Daily",
           "date": "2025-12-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Manchester",
+      "postcode": "M20 4BA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -182330,6 +183068,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Maidstone",
+      "postcode": "ME15 8HG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-12-23",
       "latest_win": "2025-12-23",
       "location": "Maidstone",
@@ -184572,6 +185328,24 @@
         {
           "category": "Daily",
           "date": "2024-05-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Gillingham",
+      "postcode": "ME7 5QB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
           "prize": 1000.0
         }
       ]
@@ -194130,6 +194904,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Bedlington",
+      "postcode": "NE22 7JE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-11-29",
       "latest_win": "2025-11-29",
       "location": "Cramlington",
@@ -195845,6 +196637,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Jarrow",
+      "postcode": "NE32 4PW",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-01-01",
       "latest_win": "2025-01-01",
       "location": "Jarrow",
@@ -196187,24 +196997,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Jarrow",
-      "postcode": "NE34 9JH",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2025-09-09",
       "latest_win": "2025-09-09",
       "location": "Jarrow",
@@ -196503,6 +197295,24 @@
         {
           "category": "Daily",
           "date": "2025-12-05",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Washington",
+      "postcode": "NE38 9EE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -197624,6 +198434,24 @@
         {
           "category": "Daily",
           "date": "2024-08-06",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Morpeth",
+      "postcode": "NE61 2SY",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
           "prize": 1000.0
         }
       ]
@@ -202922,6 +203750,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Grantham",
+      "postcode": "NG32 2DN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-06-15",
       "latest_win": "2025-06-15",
       "location": "Barkston",
@@ -205604,6 +206450,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Towcester",
+      "postcode": "NN12 6YF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-04-30",
       "latest_win": "2025-04-30",
       "location": "Towcester",
@@ -206789,6 +207653,24 @@
         {
           "category": "Daily",
           "date": "2024-10-21",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Northampton",
+      "postcode": "NN2 8PH",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -209098,6 +209980,24 @@
         {
           "category": "Daily",
           "date": "2024-02-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Chepstow",
+      "postcode": "NP16 6EF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
           "prize": 1000.0
         }
       ]
@@ -212109,6 +213009,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Norwich",
+      "postcode": "NR15 2BT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-05-08",
       "latest_win": "2025-05-08",
       "location": "Long Stratton",
@@ -214089,6 +215007,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Great Yarmouth",
+      "postcode": "NR31 8RP",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-06-18",
       "latest_win": "2025-06-18",
       "location": "Belton (Great Yarmouth)",
@@ -215081,6 +216017,24 @@
         {
           "category": "Daily",
           "date": "2025-05-10",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Norwich",
+      "postcode": "NR5 9AG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -216576,6 +217530,24 @@
           "category": "Daily",
           "date": "2023-10-19",
           "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Millionaire Street"
+      ],
+      "first_win": "2023-09-09",
+      "latest_win": "2023-09-09",
+      "location": "Mill Hill",
+      "postcode": "NW7 1GW",
+      "total_known_prize": 333333,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Millionaire Street",
+          "date": "2023-09-09",
+          "prize": 333333.0
         }
       ]
     },
@@ -219077,6 +220049,24 @@
         {
           "category": "Daily",
           "date": "2026-06-29",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Ashton-under-Lyne",
+      "postcode": "OL5 9LX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
           "prize": 1000.0
         }
       ]
@@ -223582,6 +224572,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Gourock",
+      "postcode": "PA19 1UW",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2023-10-02",
       "latest_win": "2023-10-02",
       "location": "Gourock",
@@ -227948,6 +228956,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Skegness",
+      "postcode": "PE25 1FJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-03-07",
       "latest_win": "2025-03-07",
       "location": "Skegness",
@@ -229388,6 +230414,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "King's Lynn",
+      "postcode": "PE32 1XP",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-01-14",
       "latest_win": "2025-01-14",
       "location": "Castle Acre",
@@ -229974,6 +231018,24 @@
         {
           "category": "Daily",
           "date": "2025-02-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Peterborough",
+      "postcode": "PE6 8HD",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -233268,6 +234330,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Plymouth",
+      "postcode": "PL2 2DN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-05-08",
       "latest_win": "2025-05-08",
       "location": "Plymouth",
@@ -234795,6 +235875,24 @@
         {
           "category": "Daily",
           "date": "2025-07-05",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Plymouth",
+      "postcode": "PL5 1UW",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -238117,6 +239215,24 @@
         {
           "category": "Daily",
           "date": "2025-05-21",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Bognor Regis",
+      "postcode": "PO21 4LB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -242463,6 +243579,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Preston",
+      "postcode": "PR3 2GQ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-07-10",
       "latest_win": "2026-07-10",
       "location": "Longridge (Ribble Valley)",
@@ -242707,6 +243841,24 @@
         {
           "category": "Daily",
           "date": "2024-09-18",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Preston",
+      "postcode": "PR4 2HW",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -245921,6 +247073,24 @@
         {
           "category": "Daily",
           "date": "2026-04-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Reading",
+      "postcode": "RG2 9PS",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -250465,6 +251635,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Crawley",
+      "postcode": "RH10 8BU",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-06-07",
       "latest_win": "2026-06-07",
       "location": "Crawley (Crawley)",
@@ -252527,6 +253715,24 @@
         {
           "category": "Daily",
           "date": "2024-01-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Horley",
+      "postcode": "RH6 7AS",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
           "prize": 1000.0
         }
       ]
@@ -255044,6 +256250,24 @@
         {
           "category": "Daily",
           "date": "2025-07-06",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Sheffield",
+      "postcode": "S1 4LQ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -258123,6 +259347,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Chesterfield",
+      "postcode": "S42 6TF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-08-23",
       "latest_win": "2024-08-23",
       "location": "Chesterfield",
@@ -259581,6 +260823,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Rotherham",
+      "postcode": "S62 5LB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-05-02",
       "latest_win": "2025-05-02",
       "location": "Rawmarsh",
@@ -259987,24 +261247,6 @@
         {
           "category": "Daily",
           "date": "2024-07-16",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Mexborough",
-      "postcode": "S64 0AU",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
           "prize": 1000.0
         }
       ]
@@ -268040,6 +269282,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Swansea",
+      "postcode": "SA4 3TR",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-08-22",
       "latest_win": "2026-08-22",
       "location": "Gowerton",
@@ -268464,6 +269724,24 @@
         {
           "category": "Daily",
           "date": "2026-06-18",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Llandysul",
+      "postcode": "SA44 4QE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
           "prize": 1000.0
         }
       ]
@@ -271077,6 +272355,24 @@
         {
           "category": "Daily",
           "date": "2025-11-27",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "London",
+      "postcode": "SE15 3NA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -273827,6 +275123,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Stevenage",
+      "postcode": "SG1 5PT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-02-21",
       "latest_win": "2025-02-21",
       "location": "Stevenage",
@@ -274943,6 +276257,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Hitchin",
+      "postcode": "SG4 9GD",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-04-05",
       "latest_win": "2025-04-05",
       "location": "Hitchin",
@@ -275457,6 +276789,24 @@
         {
           "category": "Daily",
           "date": "2025-11-21",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Royston",
+      "postcode": "SG8 5DJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -279463,24 +280813,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Slough",
-      "postcode": "SL1 3QH",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2026-02-28",
       "latest_win": "2026-02-28",
       "location": "Slough",
@@ -283338,6 +284670,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Chippenham",
+      "postcode": "SN15 4QB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-05-17",
       "latest_win": "2026-05-17",
       "location": "Kington Langley",
@@ -286331,6 +287681,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Winchester",
+      "postcode": "SO21 3BL",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-06-06",
       "latest_win": "2025-06-06",
       "location": "Sutton Scotney",
@@ -287961,6 +289329,24 @@
         {
           "category": "Daily",
           "date": "2026-01-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Brockenhurst",
+      "postcode": "SO42 7WD",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -293423,6 +294809,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Southend-on-Sea",
+      "postcode": "SS3 8UP",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-07-23",
       "latest_win": "2026-07-23",
       "location": "Southend-on-Sea",
@@ -294901,6 +296305,24 @@
         {
           "category": "Daily",
           "date": "2025-01-06",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Stoke-on-Trent",
+      "postcode": "ST10 1EA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
           "prize": 1000.0
         }
       ]
@@ -297385,6 +298807,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Stoke-on-Trent",
+      "postcode": "ST4 6EH",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-05-28",
       "latest_win": "2025-05-28",
       "location": "Stoke-on-Trent",
@@ -298969,6 +300409,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "London",
+      "postcode": "SW12 9JD",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2023-10-12",
       "latest_win": "2023-10-12",
       "location": "London",
@@ -300283,6 +301741,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "London",
+      "postcode": "SW19 8ES",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-02-28",
       "latest_win": "2026-02-28",
       "location": "Merton",
@@ -300743,6 +302219,24 @@
         {
           "category": "Daily",
           "date": "2023-11-22",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "London",
+      "postcode": "SW6 2NG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -301679,6 +303173,24 @@
         {
           "category": "Daily",
           "date": "2025-11-28",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Whitchurch",
+      "postcode": "SY13 2BP",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
           "prize": 1000.0
         }
       ]
@@ -302679,6 +304191,24 @@
         {
           "category": "Daily",
           "date": "2024-04-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Shrewsbury",
+      "postcode": "SY3 8ZE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -305834,6 +307364,24 @@
         {
           "category": "Daily",
           "date": "2025-09-26",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Bridgwater",
+      "postcode": "TA7 8PP",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -309712,6 +311260,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Tunbridge Wells",
+      "postcode": "TN2 3UA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-05-24",
       "latest_win": "2026-05-24",
       "location": "Pembury",
@@ -310635,6 +312201,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Ashford",
+      "postcode": "TN26 3DS",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-02-06",
       "latest_win": "2025-02-06",
       "location": "Woodchurch",
@@ -311301,6 +312885,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Battle",
+      "postcode": "TN33 9JJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-10-18",
       "latest_win": "2026-02-18",
       "location": "Ninfield",
@@ -311375,6 +312977,24 @@
         {
           "category": "Daily",
           "date": "2024-08-20",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Hastings",
+      "postcode": "TN34 1PE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -312427,24 +314047,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Edenbridge",
-      "postcode": "TN8 5EN",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2025-08-22",
       "latest_win": "2025-08-22",
       "location": "Edenbridge",
@@ -312713,6 +314315,24 @@
           "category": "Daily",
           "date": "2023-12-13",
           "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Street Prize"
+      ],
+      "first_win": "2023-09-10",
+      "latest_win": "2023-09-10",
+      "location": "Torquay",
+      "postcode": "TQ1 1PN",
+      "total_known_prize": 30000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Street Prize",
+          "date": "2023-09-10",
+          "prize": 30000.0
         }
       ]
     },
@@ -315458,6 +317078,24 @@
         {
           "category": "Daily",
           "date": "2026-02-01",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Redruth",
+      "postcode": "TR15 1RT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
           "prize": 1000.0
         }
       ]
@@ -320365,24 +322003,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Middlesbrough",
-      "postcode": "TS7 8DG",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2025-12-02",
       "latest_win": "2025-12-02",
       "location": "Middlesbrough",
@@ -323458,6 +325078,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Greenford",
+      "postcode": "UB6 0BP",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-01-16",
       "latest_win": "2024-01-16",
       "location": "Greenford",
@@ -323468,6 +325106,24 @@
         {
           "category": "Daily",
           "date": "2024-01-16",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Greenford",
+      "postcode": "UB6 0PJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -323810,24 +325466,6 @@
         {
           "category": "Daily",
           "date": "2026-02-05",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Hillingdon",
-      "postcode": "UB8 3TJ",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
           "prize": 1000.0
         }
       ]
@@ -324584,6 +326222,24 @@
         {
           "category": "Daily",
           "date": "2026-03-15",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "London",
+      "postcode": "W2 5QU",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
           "prize": 1000.0
         }
       ]
@@ -327166,16 +328822,21 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2025-12-03",
+      "first_win": "2023-09-11",
       "latest_win": "2025-12-03",
       "location": "Warrington",
       "postcode": "WA4 2NB",
-      "total_known_prize": 1000,
-      "win_count": 1,
+      "total_known_prize": 2000,
+      "win_count": 2,
       "wins": [
         {
           "category": "Daily",
           "date": "2025-12-03",
+          "prize": 1000.0
+        },
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]
@@ -328323,6 +329984,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Runcorn",
+      "postcode": "WA7 5HJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-01-02",
       "latest_win": "2026-01-02",
       "location": "Runcorn",
@@ -328752,6 +330431,24 @@
         {
           "category": "Daily",
           "date": "2024-08-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "St Helens",
+      "postcode": "WA9 1SX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
           "prize": 1000.0
         }
       ]
@@ -332563,6 +334260,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-14",
+      "latest_win": "2023-09-14",
+      "location": "Ossett",
+      "postcode": "WF5 8QB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-04-25",
       "latest_win": "2025-04-25",
       "location": "Ossett",
@@ -334062,6 +335777,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-13",
+      "latest_win": "2023-09-13",
+      "location": "Wigan",
+      "postcode": "WN5 9PQ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-07-11",
       "latest_win": "2026-07-11",
       "location": "Wigan",
@@ -335124,6 +336857,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-08",
+      "latest_win": "2023-09-08",
+      "location": "Great Malvern",
+      "postcode": "WR14 3LG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-08",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-07-12",
       "latest_win": "2024-07-12",
       "location": "Great Malvern",
@@ -335296,6 +337047,24 @@
         {
           "category": "Daily",
           "date": "2026-02-03",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Worcester",
+      "postcode": "WR2 4XA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -336134,6 +337903,24 @@
         {
           "category": "Daily",
           "date": "2026-07-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-12",
+      "latest_win": "2023-09-12",
+      "location": "Walsall",
+      "postcode": "WS1 2PH",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-12",
           "prize": 1000.0
         }
       ]
@@ -340354,24 +342141,6 @@
       "categories": [
         "Daily"
       ],
-      "first_win": "2026-08-30",
-      "latest_win": "2026-08-30",
-      "location": "Wolverhampton",
-      "postcode": "WV9 5DB",
-      "total_known_prize": 1000,
-      "win_count": 1,
-      "wins": [
-        {
-          "category": "Daily",
-          "date": "2026-08-30",
-          "prize": 1000.0
-        }
-      ]
-    },
-    {
-      "categories": [
-        "Daily"
-      ],
       "first_win": "2026-01-20",
       "latest_win": "2026-01-20",
       "location": "Wolverhampton",
@@ -341830,6 +343599,24 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "Whitby",
+      "postcode": "YO22 4FN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-06-29",
       "latest_win": "2026-03-26",
       "location": "Whitby",
@@ -342403,6 +344190,24 @@
         {
           "category": "Daily",
           "date": "2025-08-25",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-07",
+      "latest_win": "2023-09-07",
+      "location": "Driffield",
+      "postcode": "YO25 9FH",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-07",
           "prize": 1000.0
         }
       ]
@@ -343331,6 +345136,24 @@
         {
           "category": "Daily",
           "date": "2025-02-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2023-09-11",
+      "latest_win": "2023-09-11",
+      "location": "York",
+      "postcode": "YO42 2GX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2023-09-11",
           "prize": 1000.0
         }
       ]

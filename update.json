@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-30T21:01:21.765583Z"
+    "revision": "2026-08-30T21:11:17.009469Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -142,18 +142,18 @@
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-08-30",
-      "rows": 1187,
-      "sha256": "e7834bdc7a8b5ebe366af355f28c85cc7993bd4774026c1b803e57d8c2d41240",
-      "size_bytes": 32356
+      "latest_draw_date": "2026-08-29",
+      "rows": 1194,
+      "sha256": "9e446b355c1e0aacaa0e790a0ec156f2c27686149f9c7a2f68c4ab3a6f1e9b82",
+      "size_bytes": 32561
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-08-30",
-      "rows": 19232,
-      "sha256": "3eeeb90550a9ba4711638c593c47e073863b68f7ab4eaab76d1765cdd5f6fe2e",
-      "size_bytes": 883246
+      "latest_draw_date": "2026-08-29",
+      "rows": 19334,
+      "sha256": "35a1c5830428e6ed638c00f24a850b6eb1b3db25acf44d4c920692e970ba611b",
+      "size_bytes": 887720
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -271,11 +271,11 @@
       "display_name": "Postcode Lottery",
       "expected_draw_date": "2026-08-30",
       "latest_draw": null,
-      "latest_draw_date": "2026-08-30",
+      "latest_draw_date": "2026-08-29",
       "prizes": "current",
       "publication_due_utc": "2026-08-30T20:15:00Z",
-      "results": "current",
-      "status": "current"
+      "results": "awaiting",
+      "status": "awaiting_results"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-08-30T21:01:21.765583Z",
+  "generated_utc": "2026-08-30T21:11:17.009469Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
