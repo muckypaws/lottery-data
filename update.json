@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-08-30T15:13:50.061213Z"
+    "revision": "2026-08-30T16:53:28.406279Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -56,8 +56,8 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
       "rows": 2701,
-      "sha256": "ef8c7790d10c0cd049c02ffc9c336b224d6addff62998675dcbc00536ac74c5a",
-      "size_bytes": 200086
+      "sha256": "b9ef9a1e2a467669f9b2fb4a3a6f55a1dfeef9aacd1d824905c101969b0efb46",
+      "size_bytes": 210703
     },
     "irish_lotto_plus1_results.csv": {
       "file": "irish_lotto_plus1_results.csv",
@@ -72,8 +72,8 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
       "rows": 2508,
-      "sha256": "1df91b1c4e5ac6e93fc0a6546f619238d36783119fdfe207e1aa9c5424e3cb8c",
-      "size_bytes": 184631
+      "sha256": "e16970dd1729f4f54fc8cdb6c7e85782efef728d9b247ef282beb157b3d8c3a0",
+      "size_bytes": 195238
     },
     "irish_lotto_plus2_results.csv": {
       "file": "irish_lotto_plus2_results.csv",
@@ -128,16 +128,16 @@
       "latest_draw": 3202,
       "latest_draw_date": null,
       "rows": 3226,
-      "sha256": "6266f04df8ea61cd17b0e6cb38ce63a3285d109991011503efcc59003a485abc",
-      "size_bytes": 106150
+      "sha256": "e4b3ffc94c2274f483933c16771399f0d2c8dc5bf5506604b118a3ebf00b2fb3",
+      "size_bytes": 122337
     },
     "lotto_results.csv": {
       "file": "lotto_results.csv",
       "latest_draw": 3202,
       "latest_draw_date": "2026-08-29",
       "rows": 3226,
-      "sha256": "6d84fd31a4f298043a2897f8643b135293011fc00e27e3477374527945b7250c",
-      "size_bytes": 199001
+      "sha256": "2ce3dc5f3954cc9317ea74536b501bc279439a61cd73d7ecd16c2da2b3635cba",
+      "size_bytes": 199009
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -282,7 +282,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-08-30T15:13:50.061213Z",
+  "generated_utc": "2026-08-30T16:53:28.406279Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
