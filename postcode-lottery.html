@@ -83,7 +83,7 @@ footer{max-width:1200px;margin:0 auto;padding:1rem;font-size:.86rem;opacity:.82}
 <div class="controls">
 <div class="control">
 <label for="postcodeSearch">Postcode</label>
-<input id="postcodeSearch" type="search" placeholder="e.g. NN4 or NN4 8AB" autocomplete="postal-code">
+<input id="postcodeSearch" type="search" placeholder="e.g. LA9 or LA9 7JB" autocomplete="postal-code">
 </div>
 <div class="control">
 <label for="period">Show wins from</label>
@@ -253,8 +253,8 @@ async function render(){
     const hasSearch=normalisePostcode(searchInput.value).length>0;
     let rowsToMap=rows;
 
-    if(!hasSearch&&rowsToMap.length>750){
-        rowsToMap=rowsToMap.sort((a,b)=>String(b.filteredWins[0]?.date||"").localeCompare(String(a.filteredWins[0]?.date||""))).slice(0,750);
+    if(!hasSearch&&rowsToMap.length>10000){
+        rowsToMap=rowsToMap.sort((a,b)=>String(b.filteredWins[0]?.date||"").localeCompare(String(a.filteredWins[0]?.date||""))).slice(0,10000);
     }
 
     statusElement.textContent="Locating "+rowsToMap.length.toLocaleString("en-GB")+" postcode"+(rowsToMap.length===1?"":"s")+"…";
