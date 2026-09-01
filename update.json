@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-01T22:01:20.131680Z"
+    "revision": "2026-09-01T23:02:02.315312Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -143,17 +143,17 @@
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
-      "rows": 4188,
-      "sha256": "93fcdeeef0974f18a4271b5c7866189da0ed48e4161502016a0b3a6dbd3f42f4",
-      "size_bytes": 118665
+      "rows": 4231,
+      "sha256": "969b83f8d1333bc9168c28623dd2e90cf5b9fc47fc6ec5cc27e93be275981a7e",
+      "size_bytes": 119869
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
-      "rows": 58568,
-      "sha256": "442bd474a0ec6f61f75d9554c324edd53052e06c027384b6bfcd612297365515",
-      "size_bytes": 2635974
+      "rows": 58737,
+      "sha256": "bdffbfe5261bbafd6707b28a88dc844ab651e052e4d0d3048a166053f50f9d97",
+      "size_bytes": 2643551
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -223,9 +223,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
       "prizes": "current",
-      "publication_due_utc": "2026-08-29T21:15:00Z",
+      "publication_due_utc": "2026-09-02T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "irish-lotto-plus1": {
       "display_name": "Irish Lotto Plus 1",
@@ -233,9 +233,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
       "prizes": "current",
-      "publication_due_utc": "2026-08-29T21:15:00Z",
+      "publication_due_utc": "2026-09-02T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "irish-lotto-plus2": {
       "display_name": "Irish Lotto Plus 2",
@@ -243,9 +243,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
       "prizes": "current",
-      "publication_due_utc": "2026-08-29T21:15:00Z",
+      "publication_due_utc": "2026-09-02T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "lotto": {
       "display_name": "Lotto",
@@ -253,7 +253,7 @@
       "latest_draw": 3202,
       "latest_draw_date": "2026-08-29",
       "prizes": "awaiting",
-      "publication_due_utc": "2026-08-29T21:15:00Z",
+      "publication_due_utc": "2026-09-02T21:15:00Z",
       "results": "current",
       "status": "awaiting_prizes"
     },
@@ -263,9 +263,9 @@
       "latest_draw": 3202,
       "latest_draw_date": "2026-08-29",
       "prizes": "current",
-      "publication_due_utc": "2026-08-29T21:15:00Z",
+      "publication_due_utc": "2026-09-02T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "postcode-lottery": {
       "display_name": "Postcode Lottery",
@@ -273,7 +273,7 @@
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
       "prizes": "current",
-      "publication_due_utc": "2026-09-01T20:15:00Z",
+      "publication_due_utc": "2026-09-02T20:15:00Z",
       "results": "awaiting",
       "status": "awaiting_results"
     },
@@ -303,12 +303,12 @@
       "latest_draw": 3966,
       "latest_draw_date": "2026-09-01",
       "prizes": "not_applicable",
-      "publication_due_utc": "2026-09-01T21:15:00Z",
+      "publication_due_utc": "2026-09-02T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     }
   },
-  "generated_utc": "2026-09-01T22:01:20.131680Z",
+  "generated_utc": "2026-09-01T23:02:02.315312Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
