@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-02T22:01:19.186593Z"
+    "revision": "2026-09-02T23:02:16.181682Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -142,18 +142,18 @@
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-09-02",
-      "rows": 5259,
-      "sha256": "9a7a8af01fff8c3a06482c6f3448705707123d01d1776759f3dd5632dec78251",
-      "size_bytes": 148171
+      "latest_draw_date": "2026-08-29",
+      "rows": 5305,
+      "sha256": "76f5e1fc439f595052ce514d7498554f9f1151370e7edff0b5f28b4346747e2a",
+      "size_bytes": 149595
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-09-02",
-      "rows": 62585,
-      "sha256": "c47a5fb00c5d34ef7a2ef8073ce3c97f08a8c6e2bfc40c4144170a7f5220255f",
-      "size_bytes": 2816572
+      "latest_draw_date": "2026-08-29",
+      "rows": 62614,
+      "sha256": "20ef664f758e0e761e516801a5d640ce99f9735bf5d66e796d76d8917dd2f39b",
+      "size_bytes": 2817856
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -271,11 +271,11 @@
       "display_name": "Postcode Lottery",
       "expected_draw_date": "2026-09-02",
       "latest_draw": null,
-      "latest_draw_date": "2026-09-02",
+      "latest_draw_date": "2026-08-29",
       "prizes": "current",
-      "publication_due_utc": "2026-09-02T20:15:00Z",
-      "results": "current",
-      "status": "current"
+      "publication_due_utc": "2026-09-03T20:15:00Z",
+      "results": "awaiting",
+      "status": "awaiting_results"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -283,9 +283,9 @@
       "latest_draw": 18,
       "latest_draw_date": "2026-09-01",
       "prizes": "current",
-      "publication_due_utc": "2026-09-01T12:15:00Z",
+      "publication_due_utc": "2026-09-03T12:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "set-for-life": {
       "display_name": "Set For Life",
@@ -293,9 +293,9 @@
       "latest_draw": 779,
       "latest_draw_date": "2026-08-31",
       "prizes": "current",
-      "publication_due_utc": "2026-08-31T21:15:00Z",
+      "publication_due_utc": "2026-09-03T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "thunderball": {
       "display_name": "Thunderball",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-09-02T22:01:19.186593Z",
+  "generated_utc": "2026-09-02T23:02:16.181682Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
