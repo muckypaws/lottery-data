@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-02T23:02:16.181682Z"
+    "revision": "2026-09-03T00:01:19.596200Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -143,17 +143,17 @@
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
-      "rows": 5305,
-      "sha256": "76f5e1fc439f595052ce514d7498554f9f1151370e7edff0b5f28b4346747e2a",
-      "size_bytes": 149595
+      "rows": 5351,
+      "sha256": "8f93791c13b1969e7f116a7c649a40ceb9be48b1723d19ed624665a0a8e7748b",
+      "size_bytes": 151024
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
       "latest_draw_date": "2026-08-29",
-      "rows": 62614,
-      "sha256": "20ef664f758e0e761e516801a5d640ce99f9735bf5d66e796d76d8917dd2f39b",
-      "size_bytes": 2817856
+      "rows": 62662,
+      "sha256": "4cfe0ef6c364bdf647af1ef5bc083ff5557d1e6745a620c7b256bb800e335226",
+      "size_bytes": 2820065
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-09-02T23:02:16.181682Z",
+  "generated_utc": "2026-09-03T00:01:19.596200Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
