@@ -253,8 +253,8 @@ async function render(){
     const hasSearch=normalisePostcode(searchInput.value).length>0;
     let rowsToMap=rows;
 
-    if(!hasSearch&&rowsToMap.length>10000){
-        rowsToMap=rowsToMap.sort((a,b)=>String(b.filteredWins[0]?.date||"").localeCompare(String(a.filteredWins[0]?.date||""))).slice(0,10000);
+    if(!hasSearch&&rowsToMap.length>750){
+        rowsToMap=rowsToMap.sort((a,b)=>String(b.filteredWins[0]?.date||"").localeCompare(String(a.filteredWins[0]?.date||""))).slice(0,750);
     }
 
     statusElement.textContent="Locating "+rowsToMap.length.toLocaleString("en-GB")+" postcode"+(rowsToMap.length===1?"":"s")+"…";
