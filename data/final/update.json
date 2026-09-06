@@ -1,0 +1,319 @@
+{
+  "data": {
+    "revision": "2026-09-06T15:03:03.407611Z"
+  },
+  "files": {
+    "euromillions_hotpicks_prizes.csv": {
+      "file": "euromillions_hotpicks_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "7a3f4434809ff0c8ad2e61c60f0f97d312ca985215dccb797d05a30e0e0749dc",
+      "size_bytes": 212
+    },
+    "euromillions_hotpicks_results.csv": {
+      "file": "euromillions_hotpicks_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "a4639c8bf82054715345101729f76d403f0afefa6e842784d914a7fdf7324fde",
+      "size_bytes": 51
+    },
+    "euromillions_prizes.csv": {
+      "file": "euromillions_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "a6b7ade54dba4b7d83ff7959dee05e2dd1f41e45932619f25eaca7e4d5aad2e7",
+      "size_bytes": 51
+    },
+    "euromillions_raffles.csv": {
+      "file": "euromillions_raffles.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "9190d2e5bd0ce9dbbfb395dc6b004bb7c25dcb07bda7edb80d15f34fc0b4bcb7",
+      "size_bytes": 23
+    },
+    "euromillions_results.csv": {
+      "file": "euromillions_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "0d7fb0d5db13b108968d784acd04a7f46edc3cdd2e278d1704ac525aaf872284",
+      "size_bytes": 57
+    },
+    "euromillions_winners.csv": {
+      "file": "euromillions_winners.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "70fcc8887dd876078abe2ef38396f1f3d61f93178e02b3605ec2aec21d86fc17",
+      "size_bytes": 57
+    },
+    "irish_lotto_plus1_prizes.csv": {
+      "file": "irish_lotto_plus1_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "bee934b1e2967d79800b6f6e7abc3957cd8ca051cc9008bb526ac45b8d374869",
+      "size_bytes": 496
+    },
+    "irish_lotto_plus1_results.csv": {
+      "file": "irish_lotto_plus1_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "c79dc2868ca1597c2b8961b35c3823ba8517ad72cacde27a94603e12e2ebdf9c",
+      "size_bytes": 49
+    },
+    "irish_lotto_plus2_prizes.csv": {
+      "file": "irish_lotto_plus2_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "bee934b1e2967d79800b6f6e7abc3957cd8ca051cc9008bb526ac45b8d374869",
+      "size_bytes": 496
+    },
+    "irish_lotto_plus2_results.csv": {
+      "file": "irish_lotto_plus2_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "c79dc2868ca1597c2b8961b35c3823ba8517ad72cacde27a94603e12e2ebdf9c",
+      "size_bytes": 49
+    },
+    "irish_lotto_prizes.csv": {
+      "file": "irish_lotto_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "bee934b1e2967d79800b6f6e7abc3957cd8ca051cc9008bb526ac45b8d374869",
+      "size_bytes": 496
+    },
+    "irish_lotto_raffles.csv": {
+      "file": "irish_lotto_raffles.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "1b814af6cfdb809dc16fd8894622e079d1ddb01fadf3eff23f9c0cbf8a132551",
+      "size_bytes": 19
+    },
+    "irish_lotto_results.csv": {
+      "file": "irish_lotto_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "95166e1be7b41720dd277d0371f4f5c6f3cb1a54e854cdce594f723da1ae9afd",
+      "size_bytes": 69
+    },
+    "lotto_hotpicks_prizes.csv": {
+      "file": "lotto_hotpicks_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "7a3f4434809ff0c8ad2e61c60f0f97d312ca985215dccb797d05a30e0e0749dc",
+      "size_bytes": 212
+    },
+    "lotto_hotpicks_results.csv": {
+      "file": "lotto_hotpicks_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "f6f76784d9d675abc4e514b12f362ed484ccaf7475733cefe4cd21ba9db6533b",
+      "size_bytes": 54
+    },
+    "lotto_prizes.csv": {
+      "file": "lotto_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "3bb71210817558bab4ab264f2749126edc24cbee13c524f415cdaafe34134df7",
+      "size_bytes": 33
+    },
+    "lotto_results.csv": {
+      "file": "lotto_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "5d8a07bbef6ac4b833c7a2307b52a49f5c3f0fc8e820ccec8b2d570a2a317a65",
+      "size_bytes": 69
+    },
+    "postcode_lottery_prizes.csv": {
+      "file": "postcode_lottery_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "7a4931f7223269c4e855902ef27697117f9051fde4a843dde5e19b468a96307d",
+      "size_bytes": 41
+    },
+    "postcode_lottery_results.csv": {
+      "file": "postcode_lottery_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "39ce1eb8e19ad94a7dc29d706b8068277c83c3d2c05fd6e5c461f8445664ea66",
+      "size_bytes": 49
+    },
+    "powerball_prizes.csv": {
+      "file": "powerball_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "f94988e890444a9f288bfec0f59aae6e88f7727d46bf21226bac65d2395f4de9",
+      "size_bytes": 321
+    },
+    "powerball_results.csv": {
+      "file": "powerball_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "d4fc60dd0440381b35cae88d8130b6323bfb20cf9a9454161ed0d7321fc57eb0",
+      "size_bytes": 66
+    },
+    "set_for_life_prizes.csv": {
+      "file": "set_for_life_prizes.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "795b59773486699f1e32616ee7c7bd23c3ff620aacebe32de87b516ceed85db2",
+      "size_bytes": 275
+    },
+    "set_for_life_results.csv": {
+      "file": "set_for_life_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "f097dd474c73529721cdc54cad2ed05171167158bafd4f0373a41e42a06a082a",
+      "size_bytes": 66
+    },
+    "thunderball_results.csv": {
+      "file": "thunderball_results.csv",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "rows": 0,
+      "sha256": "157d4fb87d3f9f27d9ad311e68322bc72a1bc73b93e61421254751bc25db8321",
+      "size_bytes": 66
+    }
+  },
+  "games": {
+    "euromillions": {
+      "display_name": "EuroMillions",
+      "expected_draw_date": "2026-09-04",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-04T22:15:00Z",
+      "results": "awaiting",
+      "status": "stale"
+    },
+    "euromillions-hotpicks": {
+      "display_name": "EuroMillions HotPicks",
+      "expected_draw_date": "2026-09-04",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-04T22:15:00Z",
+      "results": "awaiting",
+      "status": "stale"
+    },
+    "irish-lotto": {
+      "display_name": "Irish Lotto",
+      "expected_draw_date": "2026-09-05",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-05T21:15:00Z",
+      "results": "awaiting",
+      "status": "stale"
+    },
+    "irish-lotto-plus1": {
+      "display_name": "Irish Lotto Plus 1",
+      "expected_draw_date": "2026-09-05",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-05T21:15:00Z",
+      "results": "awaiting",
+      "status": "stale"
+    },
+    "irish-lotto-plus2": {
+      "display_name": "Irish Lotto Plus 2",
+      "expected_draw_date": "2026-09-05",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-05T21:15:00Z",
+      "results": "awaiting",
+      "status": "stale"
+    },
+    "lotto": {
+      "display_name": "Lotto",
+      "expected_draw_date": "2026-09-05",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-05T21:15:00Z",
+      "results": "awaiting",
+      "status": "stale"
+    },
+    "lotto-hotpicks": {
+      "display_name": "Lotto HotPicks",
+      "expected_draw_date": "2026-09-05",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-05T21:15:00Z",
+      "results": "awaiting",
+      "status": "stale"
+    },
+    "postcode-lottery": {
+      "display_name": "Postcode Lottery",
+      "expected_draw_date": "2026-09-05",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-06T20:15:00Z",
+      "results": "awaiting",
+      "status": "awaiting_results"
+    },
+    "powerball": {
+      "display_name": "Powerball",
+      "expected_draw_date": "2026-09-06",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-06T12:15:00Z",
+      "results": "awaiting",
+      "status": "awaiting_results"
+    },
+    "set-for-life": {
+      "display_name": "Set For Life",
+      "expected_draw_date": "2026-09-03",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "awaiting",
+      "publication_due_utc": "2026-09-03T21:15:00Z",
+      "results": "awaiting",
+      "status": "stale"
+    },
+    "thunderball": {
+      "display_name": "Thunderball",
+      "expected_draw_date": "2026-09-05",
+      "latest_draw": null,
+      "latest_draw_date": null,
+      "prizes": "not_applicable",
+      "publication_due_utc": "2026-09-05T21:15:00Z",
+      "results": "awaiting",
+      "status": "stale"
+    }
+  },
+  "generated_utc": "2026-09-06T15:03:03.407611Z",
+  "schema_version": 3,
+  "software": {
+    "current_version": 1836,
+    "message": "",
+    "motd_number": 6
+  },
+  "status": "partial"
+}

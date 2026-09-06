@@ -1,0 +1,105 @@
+{
+  "built_at_utc": "2026-09-06T15:03:03.407611Z",
+  "coverage_csv": "audit/final_coverage.csv",
+  "files": [
+    {
+      "file": "lotto_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "lotto_prizes.csv",
+      "rows": 0
+    },
+    {
+      "file": "thunderball_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "euromillions_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "euromillions_prizes.csv",
+      "rows": 0
+    },
+    {
+      "file": "euromillions_winners.csv",
+      "rows": 0
+    },
+    {
+      "file": "euromillions_raffles.csv",
+      "rows": 0
+    },
+    {
+      "file": "set_for_life_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "set_for_life_prizes.csv",
+      "rows": 0
+    },
+    {
+      "file": "powerball_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "powerball_prizes.csv",
+      "rows": 0
+    },
+    {
+      "file": "lotto_hotpicks_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "lotto_hotpicks_prizes.csv",
+      "rows": 0
+    },
+    {
+      "file": "euromillions_hotpicks_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "euromillions_hotpicks_prizes.csv",
+      "rows": 0
+    },
+    {
+      "file": "irish_lotto_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "irish_lotto_prizes.csv",
+      "rows": 0
+    },
+    {
+      "file": "irish_lotto_raffles.csv",
+      "rows": 0
+    },
+    {
+      "file": "irish_lotto_plus1_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "irish_lotto_plus1_prizes.csv",
+      "rows": 0
+    },
+    {
+      "file": "irish_lotto_plus2_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "irish_lotto_plus2_prizes.csv",
+      "rows": 0
+    },
+    {
+      "file": "postcode_lottery_results.csv",
+      "rows": 0
+    },
+    {
+      "file": "postcode_lottery_prizes.csv",
+      "rows": 0
+    }
+  ],
+  "index": "final/index.html",
+  "network_used": false,
+  "publish_metadata": "final/update.json"
+}

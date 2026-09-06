@@ -1,0 +1,657 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Postcode Lottery Map - MuckyPaws Lottery Data Archive</title>
+<meta name="description" content="Explore historical People's Postcode Lottery winning postcodes on an interactive UK map.">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+<style>
+/* Critical Leaflet fallback CSS: keeps tiles/panes positioned even if CDN CSS fails. */
+.leaflet-pane,.leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow,
+.leaflet-tile-container,.leaflet-pane>svg,.leaflet-pane>canvas{
+    position:absolute;left:0;top:0
+}
+.leaflet-container{overflow:hidden;position:relative}
+.leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow{
+    -webkit-user-select:none;-moz-user-select:none;user-select:none;-webkit-user-drag:none
+}
+.leaflet-tile{filter:inherit;visibility:hidden}
+.leaflet-tile-loaded{visibility:inherit}
+.leaflet-pane{z-index:400}
+.leaflet-tile-pane{z-index:200}
+.leaflet-overlay-pane{z-index:400}
+.leaflet-shadow-pane{z-index:500}
+.leaflet-marker-pane{z-index:600}
+.leaflet-tooltip-pane{z-index:650}
+.leaflet-popup-pane{z-index:700}
+.leaflet-control{position:relative;z-index:800;pointer-events:auto}
+.leaflet-top,.leaflet-bottom{position:absolute;z-index:1000;pointer-events:none}
+.leaflet-top{top:0}.leaflet-right{right:0}.leaflet-bottom{bottom:0}.leaflet-left{left:0}
+.leaflet-control{float:left;clear:both}
+.leaflet-right .leaflet-control{float:right}
+.leaflet-top .leaflet-control{margin-top:10px}
+.leaflet-bottom .leaflet-control{margin-bottom:10px}
+.leaflet-left .leaflet-control{margin-left:10px}
+.leaflet-right .leaflet-control{margin-right:10px}
+
+:root{color-scheme:light dark}
+*{box-sizing:border-box}
+html,body{margin:0;width:100%;min-height:100%}
+body{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;line-height:1.5}
+header{max-width:1200px;margin:0 auto;padding:1.25rem 1rem .5rem}
+h1{margin:0 0 .35rem;font-size:clamp(1.55rem,4vw,2.25rem)}
+header p{margin:.25rem 0}
+a{color:#1769aa}
+.controls{max-width:1200px;margin:0 auto;padding:.75rem 1rem 1rem;display:grid;grid-template-columns:minmax(220px,2fr) minmax(150px,1fr) auto auto;gap:.65rem;align-items:end}
+.control{display:flex;flex-direction:column;gap:.25rem}
+label{font-size:.82rem;font-weight:700}
+input,select,button{font:inherit;padding:.58rem .65rem;border:1px solid #999;border-radius:.45rem;background:Canvas;color:CanvasText}
+button{cursor:pointer;font-weight:650}
+.summary{max-width:1200px;margin:0 auto;padding:0 1rem .8rem;display:flex;flex-wrap:wrap;gap:.55rem}
+.stat{border:1px solid #aaa;border-radius:.55rem;padding:.45rem .7rem;font-size:.88rem}
+#status{max-width:1200px;margin:0 auto;padding:0 1rem .75rem;font-size:.9rem;opacity:.82}
+#map{position:relative;width:min(1200px,calc(100% - 2rem));height:min(72vh,760px);min-height:480px;margin:0 auto;border:1px solid #888;border-radius:.55rem;overflow:hidden;background:#dcebf2}
+#map img.leaflet-tile{max-width:none!important;max-height:none!important}
+footer{max-width:1200px;margin:0 auto;padding:1rem;font-size:.86rem;opacity:.82}
+.legend{background:rgba(255,255,255,.94);color:#222;padding:.55rem .7rem;border-radius:.45rem;box-shadow:0 1px 5px rgba(0,0,0,.28);line-height:1.45}
+.legend-row{display:flex;align-items:center;gap:.45rem}
+.legend-dot{width:12px;height:12px;border-radius:50%;display:inline-block}
+.popup-title{font-weight:800;font-size:1.05rem;margin-bottom:.2rem}
+.popup-location{margin-bottom:.4rem}
+.popup-summary{margin:.35rem 0 .55rem}
+.popup-repeat{margin:.45rem 0;padding:.4rem .5rem;border-radius:.4rem;background:rgba(127,127,127,.12)}
+.popup-wins{max-height:220px;overflow-y:auto;border-top:1px solid #ccc;padding-top:.35rem}
+.popup-win{padding:.3rem 0;border-bottom:1px dotted #ccc}
+.small{font-size:.82rem;opacity:.8}
+@media(max-width:800px){.controls{grid-template-columns:1fr 1fr}#map{min-height:420px;height:65vh}}
+@media(max-width:520px){.controls{grid-template-columns:1fr}}
+</style>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body>
+<header>
+<h1>Postcode Lottery Map</h1>
+<p>Explore winning postcodes held in the <strong>MuckyPaws Lottery Data Archive</strong>.</p>
+<p class="small">Search for a full or partial postcode, filter the historical period, or select a marker to see the recorded wins for that postcode.</p>
+<p><a href="index.html">&larr; Back to Lottery Data Archive</a></p>
+</header>
+
+<div class="controls">
+<div class="control">
+<label for="postcodeSearch">Postcode</label>
+<input id="postcodeSearch" type="search" placeholder="e.g. LA9 or LA9 7JB" autocomplete="postal-code">
+</div>
+<div class="control">
+<label for="period">Show wins from</label>
+<select id="period">
+<option value="30">Last 30 days</option>
+<option value="90">Last 90 days</option>
+<option value="180">Last 6 months</option>
+<option value="365" selected>Last year</option>
+<option value="730">Last 2 years</option>
+<option value="1825">Last 5 years</option>
+<option value="all">All available history</option>
+</select>
+</div>
+<button id="searchButton" type="button">Search</button>
+<button id="resetButton" type="button">Reset</button>
+</div>
+
+<div class="summary">
+<div class="stat"><strong id="postcodeCount">0</strong> winning postcodes</div>
+<div class="stat"><strong id="winCount">0</strong> recorded wins</div>
+<div class="stat">Latest draw: <strong id="latestDraw">—</strong></div>
+</div>
+
+<div id="status">Loading Postcode Lottery archive…</div>
+<div id="map" aria-label="Interactive map of winning Postcode Lottery postcodes"></div>
+
+<footer>
+<p>Marker colours indicate how recently a postcode has a recorded win in the selected period. Larger markers indicate postcodes with multiple recorded winning draws.</p>
+<p>Historical winning postcode frequency is not a measure of future winning probability. Ticket participation by postcode is not represented in this dataset.</p>
+<p>Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>. Postcode coordinates are obtained from <a href="https://postcodes.io/">postcodes.io</a>.</p>
+</footer>
+
+<script>
+"use strict";
+
+if (typeof L === "undefined") {
+    document.getElementById("status").textContent = "Unable to load the Leaflet mapping library.";
+    throw new Error("Leaflet JavaScript did not load");
+}
+
+const map = L.map("map",{preferCanvas:true}).setView([54.4,-3.2],6);
+
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",{
+    maxZoom:19,
+    attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+}).addTo(map);
+
+const markerLayer=L.layerGroup().addTo(map);
+
+let archive=null;
+let postcodeRows=[];
+let geocodeGeneration=0;
+
+const searchInput=document.getElementById("postcodeSearch");
+const periodSelect=document.getElementById("period");
+const searchButton=document.getElementById("searchButton");
+const resetButton=document.getElementById("resetButton");
+const statusElement=document.getElementById("status");
+
+function uniqueDrawWins(wins){
+    const byDate=new Map();
+
+    for(const win of (wins||[])){
+        if(!win||!win.date)continue;
+
+        /*
+         * A postcode is counted once for each draw date.  This prevents
+         * duplicate source records for the same postcode/date being shown
+         * as separate historical wins.
+         */
+        if(!byDate.has(win.date)){
+            byDate.set(win.date,win);
+        }
+    }
+
+    return Array.from(byDate.values())
+        .sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+}
+
+function formatWinDate(value){
+    if(!value)return "";
+
+    const parts=String(value).split("-");
+    if(parts.length!==3)return String(value);
+
+    return parts[2]+"/"+parts[1]+"/"+parts[0];
+}
+
+function escapeHtml(value){
+    return String(value??"")
+        .replaceAll("&","&amp;")
+        .replaceAll("<","&lt;")
+        .replaceAll(">","&gt;")
+        .replaceAll('"',"&quot;")
+        .replaceAll("'","&#039;");
+}
+
+function normalisePostcode(value){
+    return String(value||"").toUpperCase().replace(/\s+/g,"");
+}
+
+function parseDate(value){
+    if(!value)return null;
+    const parsed=new Date(value+"T00:00:00Z");
+    return Number.isNaN(parsed.getTime())?null:parsed;
+}
+
+function money(value){
+    if(value===null||value===undefined||value==="")return "Prize unavailable";
+
+    const number=Number(value);
+
+    if(!Number.isFinite(number)){
+        return "£"+escapeHtml(value);
+    }
+
+    return new Intl.NumberFormat("en-GB",{
+        style:"currency",
+        currency:"GBP",
+        maximumFractionDigits:Number.isInteger(number)?0:2
+    }).format(number);
+}
+
+function cutoffDate(){
+    const selected=periodSelect.value;
+
+    if(selected==="all")return null;
+
+    const days=Number(selected);
+
+    if(!Number.isFinite(days))return null;
+
+    const latest=parseDate(archive?.latest_draw_date)||new Date();
+    const cutoff=new Date(latest);
+
+    cutoff.setUTCDate(cutoff.getUTCDate()-days);
+
+    return cutoff;
+}
+
+function filteredRows(){
+    const query=normalisePostcode(searchInput.value);
+    const cutoff=cutoffDate();
+
+    return postcodeRows.map(row=>{
+        const wins=Array.isArray(row.wins)
+            ? row.wins.filter(win=>{
+                const when=parseDate(win.date);
+                return !(cutoff&&when&&when<cutoff);
+            })
+            : [];
+
+        return {
+            ...row,
+            filteredWins:uniqueDrawWins(wins)
+        };
+    }).filter(row=>{
+        if(!row.filteredWins.length)return false;
+
+        if(query&&!normalisePostcode(row.postcode).startsWith(query)){
+            return false;
+        }
+
+        return true;
+    });
+}
+
+function recencyDays(dateText){
+    const when=parseDate(dateText);
+
+    if(!when)return Infinity;
+
+    const latest=parseDate(archive?.latest_draw_date)||new Date();
+
+    return Math.max(
+        0,
+        Math.floor((latest-when)/86400000)
+    );
+}
+
+function markerColour(latestWin){
+    const age=recencyDays(latestWin);
+
+    if(age<=7)return "#dc2626";
+    if(age<=30)return "#f97316";
+    if(age<=90)return "#eab308";
+    if(age<=365)return "#16a34a";
+
+    return "#2563eb";
+}
+
+function popupHtml(row){
+    const wins=uniqueDrawWins(row.filteredWins||row.wins||[]);
+    const winCount=wins.length;
+
+    let knownTotal=0;
+    let knownCount=0;
+
+    for(const win of wins){
+        const prize=Number(win.prize);
+
+        if(Number.isFinite(prize)){
+            knownTotal+=prize;
+            knownCount+=1;
+        }
+    }
+
+    const firstWin=winCount
+        ? wins[winCount-1].date
+        : "";
+
+    const latestWin=winCount
+        ? wins[0].date
+        : "";
+
+    let summaryHtml="";
+
+    if(winCount>1){
+        summaryHtml=
+            '<div class="popup-repeat">'+
+            '<strong>Repeat winner: '+winCount+' separate draws</strong><br>'+
+            'First win: '+escapeHtml(formatWinDate(firstWin))+'<br>'+
+            'Most recent: '+escapeHtml(formatWinDate(latestWin))+
+            (knownCount
+                ? '<br>Known prize total: <strong>'+money(knownTotal)+'</strong>'
+                : '')+
+            '</div>';
+    }else{
+        summaryHtml=
+            '<div class="popup-summary">'+
+            '<strong>1 recorded win</strong>'+
+            (latestWin
+                ? '<br>'+escapeHtml(formatWinDate(latestWin))
+                : '')+
+            (knownCount
+                ? '<br>Known prize: <strong>'+money(knownTotal)+'</strong>'
+                : '')+
+            '</div>';
+    }
+
+    const winHtml=wins.map(win=>
+        '<div class="popup-win">'+
+        '<strong>'+escapeHtml(formatWinDate(win.date||""))+'</strong>'+
+        (win.category
+            ? ' · '+escapeHtml(win.category)
+            : '')+
+        '<br>'+money(win.prize)+
+        '</div>'
+    ).join("");
+
+    return (
+        '<div class="popup-title">'+escapeHtml(row.postcode)+'</div>'+
+        (row.location
+            ? '<div class="popup-location">'+escapeHtml(row.location)+'</div>'
+            : '')+
+        summaryHtml+
+        (wins.length>1
+            ? '<div class="small"><strong>Winning history</strong></div>'
+            : '')+
+        '<div class="popup-wins">'+winHtml+'</div>'
+    );
+}
+
+async function geocodePostcodes(postcodes){
+    if(!postcodes.length)return {};
+
+    const coordinates={};
+    const chunkSize=100;
+
+    for(let offset=0;offset<postcodes.length;offset+=chunkSize){
+        const chunk=postcodes.slice(offset,offset+chunkSize);
+
+        try{
+            const response=await fetch(
+                "https://api.postcodes.io/postcodes",
+                {
+                    method:"POST",
+                    headers:{
+                        "Content-Type":"application/json"
+                    },
+                    body:JSON.stringify({
+                        postcodes:chunk
+                    })
+                }
+            );
+
+            if(!response.ok){
+                throw new Error(
+                    "Postcode lookup returned HTTP "+response.status
+                );
+            }
+
+            const payload=await response.json();
+
+            for(const item of payload.result||[]){
+                const requested=normalisePostcode(item.query);
+                const result=item.result;
+
+                if(
+                    result&&
+                    Number.isFinite(result.latitude)&&
+                    Number.isFinite(result.longitude)
+                ){
+                    coordinates[requested]={
+                        lat:result.latitude,
+                        lng:result.longitude
+                    };
+                }
+            }
+        }catch(error){
+            console.error(error);
+        }
+    }
+
+    return coordinates;
+}
+
+async function render(){
+    if(!archive)return;
+
+    const generation=++geocodeGeneration;
+
+    markerLayer.clearLayers();
+
+    const rows=filteredRows();
+
+    const totalWins=rows.reduce(
+        (sum,row)=>sum+uniqueDrawWins(row.filteredWins).length,
+        0
+    );
+
+    document.getElementById("postcodeCount").textContent=
+        rows.length.toLocaleString("en-GB");
+
+    document.getElementById("winCount").textContent=
+        totalWins.toLocaleString("en-GB");
+
+    document.getElementById("latestDraw").textContent=
+        archive.latest_draw_date||"—";
+
+    if(!rows.length){
+        statusElement.textContent=
+            "No winning postcodes match the selected filters.";
+        return;
+    }
+
+    const hasSearch=
+        normalisePostcode(searchInput.value).length>0;
+
+    let rowsToMap=rows;
+
+    /*
+     * Avoid firing thousands of postcode lookups when viewing the whole
+     * country.  A postcode search removes this limit so the requested
+     * postcode/area can always be explored completely.
+     */
+    if(!hasSearch&&rowsToMap.length>750){
+        rowsToMap=rowsToMap
+            .sort((a,b)=>
+                String(b.filteredWins[0]?.date||"")
+                    .localeCompare(
+                        String(a.filteredWins[0]?.date||"")
+                    )
+            )
+            .slice(0,750);
+    }
+
+    statusElement.textContent=
+        "Locating "+
+        rowsToMap.length.toLocaleString("en-GB")+
+        " postcode"+
+        (rowsToMap.length===1?"":"s")+
+        "…";
+
+    const coordinates=await geocodePostcodes(
+        rowsToMap.map(row=>row.postcode)
+    );
+
+    if(generation!==geocodeGeneration)return;
+
+    const bounds=[];
+    let plotted=0;
+
+    for(const row of rowsToMap){
+        const coordinate=
+            coordinates[normalisePostcode(row.postcode)];
+
+        if(!coordinate)continue;
+
+        const uniqueWins=uniqueDrawWins(row.filteredWins);
+
+        const latestWin=
+            uniqueWins[0]?.date||
+            row.latest_win;
+
+        const winCount=uniqueWins.length;
+
+        /*
+         * Repeat-winning postcodes receive progressively larger markers.
+         * Single wins remain close to the original marker size.
+         */
+        const radius=Math.min(
+            16,
+            6+Math.sqrt(Math.max(1,winCount))*2
+        );
+
+        const colour=markerColour(latestWin);
+
+        const marker=L.circleMarker(
+            [coordinate.lat,coordinate.lng],
+            {
+                radius:radius,
+                color:colour,
+                fillColor:colour,
+                fillOpacity:.72,
+                weight:winCount>1?3:2
+            }
+        );
+
+        marker.bindPopup(
+            popupHtml(row),
+            {
+                maxWidth:380
+            }
+        );
+
+        marker.addTo(markerLayer);
+
+        bounds.push([
+            coordinate.lat,
+            coordinate.lng
+        ]);
+
+        plotted+=1;
+    }
+
+    if(bounds.length===1){
+        map.setView(bounds[0],13);
+    }else if(bounds.length>1){
+        map.fitBounds(
+            bounds,
+            {
+                padding:[30,30],
+                maxZoom:13
+            }
+        );
+    }
+
+    requestAnimationFrame(
+        ()=>map.invalidateSize(false)
+    );
+
+    statusElement.textContent=
+        plotted.toLocaleString("en-GB")+
+        " postcode marker"+
+        (plotted===1?"":"s")+
+        " displayed"+
+        (
+            rowsToMap.length!==rows.length
+                ? " (showing the most recent "+
+                  rowsToMap.length.toLocaleString("en-GB")+
+                  " of "+
+                  rows.length.toLocaleString("en-GB")+
+                  " matching postcodes; search to narrow the map)"
+                : ""
+        )+
+        ".";
+}
+
+function resetMap(){
+    searchInput.value="";
+    periodSelect.value="365";
+
+    map.setView(
+        [54.4,-3.2],
+        6
+    );
+
+    render();
+}
+
+searchButton.addEventListener(
+    "click",
+    render
+);
+
+resetButton.addEventListener(
+    "click",
+    resetMap
+);
+
+periodSelect.addEventListener(
+    "change",
+    render
+);
+
+searchInput.addEventListener(
+    "keydown",
+    event=>{
+        if(event.key==="Enter"){
+            render();
+        }
+    }
+);
+
+const legend=L.control({
+    position:"bottomright"
+});
+
+legend.onAdd=function(){
+    const div=L.DomUtil.create(
+        "div",
+        "legend"
+    );
+
+    div.innerHTML=
+        "<strong>Latest recorded win</strong>"+
+        '<div class="legend-row"><span class="legend-dot" style="background:#dc2626"></span>Last 7 days</div>'+
+        '<div class="legend-row"><span class="legend-dot" style="background:#f97316"></span>8–30 days</div>'+
+        '<div class="legend-row"><span class="legend-dot" style="background:#eab308"></span>31–90 days</div>'+
+        '<div class="legend-row"><span class="legend-dot" style="background:#16a34a"></span>91–365 days</div>'+
+        '<div class="legend-row"><span class="legend-dot" style="background:#2563eb"></span>Older</div>'+
+        '<div class="small" style="margin-top:.4rem">Larger markers indicate repeat-winning postcodes.</div>';
+
+    return div;
+};
+
+legend.addTo(map);
+
+fetch(
+    "postcode_lottery_map.json",
+    {
+        cache:"no-store"
+    }
+)
+.then(response=>{
+    if(!response.ok){
+        throw new Error(
+            "Archive returned HTTP "+response.status
+        );
+    }
+
+    return response.json();
+})
+.then(data=>{
+    archive=data;
+
+    postcodeRows=
+        Array.isArray(data.postcodes)
+            ? data.postcodes
+            : [];
+
+    document.getElementById("latestDraw").textContent=
+        data.latest_draw_date||"—";
+
+    requestAnimationFrame(()=>{
+        map.invalidateSize(false);
+        render();
+    });
+})
+.catch(error=>{
+    console.error(error);
+
+    statusElement.textContent=
+        "Unable to load postcode_lottery_map.json: "+
+        error.message;
+});
+</script>
+</body>
+</html>
