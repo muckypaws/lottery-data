@@ -1,131 +1,125 @@
 {
-  "draw_date": "2026-09-05",
-  "winner_count": 21,
+  "draw_date": "2026-09-06",
+  "winner_count": 20,
   "winners": [
     {
-      "category": "Millionaire Street",
-      "location": "Wythenshawe",
-      "postcode": "SK9 3NN",
-      "prize": 166666.0
-    },
-    {
       "category": "Daily",
-      "location": "Dewsbury",
-      "postcode": "WF12 7LA",
+      "location": "Standish",
+      "postcode": "WN6 0PS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Middlesbrough",
-      "postcode": "TS7 8LE",
+      "location": "Kingsteignton",
+      "postcode": "TQ12 3SP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Clun",
-      "postcode": "SY7 8QX",
+      "location": "Melbourn",
+      "postcode": "SG8 6PT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ascot",
-      "postcode": "SL5 7RJ",
+      "location": "Lewisham",
+      "postcode": "SE6 3TD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Knebworth",
-      "postcode": "SG3 6EQ",
+      "location": "Aberporth",
+      "postcode": "SA43 2TS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Swansea",
-      "postcode": "SA3 4BJ",
+      "location": "Cold Ash",
+      "postcode": "RG18 9JT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Linwood",
-      "postcode": "PA3 3AF",
+      "location": "Ealing",
+      "postcode": "NW10 6FH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Adderbury and Twyford",
-      "postcode": "OX17 3FN",
+      "location": "Norwich",
+      "postcode": "NR1 4JL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Islington",
-      "postcode": "N19 3XZ",
+      "location": "Towcester",
+      "postcode": "NN12 7AZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "West Malling",
-      "postcode": "ME19 5AL",
+      "location": "Glasgow",
+      "postcode": "G43 1LE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Shepshed",
-      "postcode": "LE12 9YB",
+      "location": "Waltham Forest",
+      "postcode": "E4 9UZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Fleetwood",
-      "postcode": "FY7 8RF",
+      "location": "Doncaster",
+      "postcode": "DN1 2BN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bideford",
-      "postcode": "EX39 3QZ",
+      "location": "Woodville",
+      "postcode": "DE11 7JN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Chilton (County Durham)",
-      "postcode": "DL17 0SW",
+      "location": "Dartford",
+      "postcode": "DA1 1NG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Tibshelf",
-      "postcode": "DE55 5SA",
+      "location": "Harwich",
+      "postcode": "CO12 5EF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Burton upon Trent",
-      "postcode": "DE13 0PD",
+      "location": "Witham",
+      "postcode": "CM8 2RA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bexley",
-      "postcode": "DA7 6QF",
+      "location": "Bristol",
+      "postcode": "BS13 9LG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Folkestone",
-      "postcode": "CT19 5DE",
+      "location": "Bristol",
+      "postcode": "BS13 7BA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bolton (Bolton)",
-      "postcode": "BL2 5HU",
+      "location": "Royal Sutton Coldfield",
+      "postcode": "B76 1FT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Birmingham",
-      "postcode": "B8 3TQ",
+      "location": "Aberdeen",
+      "postcode": "AB24 2QF",
       "prize": 1000.0
     }
   ]
