@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-10T05:32:26.846195Z"
+    "revision": "2026-09-10T21:04:16.772815Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -142,50 +142,50 @@
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-09-09",
-      "rows": 6377,
-      "sha256": "dd53192b1d5060e768485236065fa6d7e7bcc0d7ab797b1bcccf02122e58eb94",
-      "size_bytes": 180936
+      "latest_draw_date": "2026-09-10",
+      "rows": 6378,
+      "sha256": "22cebdb36016c7f336b3fcef34adae40442fddbd25114e561a51cf782910094a",
+      "size_bytes": 180960
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-09-09",
-      "rows": 63916,
-      "sha256": "4b49a8c675a39fcfe1bce936038937a869448b1e26cd70b772c6da991e0683c1",
-      "size_bytes": 2876949
+      "latest_draw_date": "2026-09-10",
+      "rows": 63936,
+      "sha256": "c722a2e04894a07a4dcd481c6704c10c1e216330d0de1990237a1d2745a6b9e6",
+      "size_bytes": 2877889
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
-      "latest_draw": 21,
+      "latest_draw": 22,
       "latest_draw_date": null,
-      "rows": 21,
-      "sha256": "1b40ec9cf2d0e847c03172ad2a5458ad59bcfcc5f05977fd68892f8193039d08",
-      "size_bytes": 3647
+      "rows": 22,
+      "sha256": "0fc74b0400be7744b75b84b120bc969dc598aa475e4045e695a728f9d285cb10",
+      "size_bytes": 3792
     },
     "powerball_results.csv": {
       "file": "powerball_results.csv",
-      "latest_draw": 21,
-      "latest_draw_date": "2026-09-08",
-      "rows": 21,
-      "sha256": "eb833c50b54a298d90c665d040a97cd565d77aa55cc79c3133e623dca5b710bd",
-      "size_bytes": 1230
+      "latest_draw": 22,
+      "latest_draw_date": "2026-09-10",
+      "rows": 22,
+      "sha256": "cc7867c0013227c23f6a9fc7a6dea4f91d1079aa4f31961495f52a30ba2e6e76",
+      "size_bytes": 1287
     },
     "set_for_life_prizes.csv": {
       "file": "set_for_life_prizes.csv",
-      "latest_draw": 781,
+      "latest_draw": 782,
       "latest_draw_date": null,
-      "rows": 781,
-      "sha256": "9ebe247ca33634d156dd5a5483a4e9448955160e337b08ffe8f33ae041dae777",
-      "size_bytes": 92139
+      "rows": 782,
+      "sha256": "6fa2202f557c8f23f8ba76c259ee05d13b31424a96fd4b20a7ece412d54eb33a",
+      "size_bytes": 92256
     },
     "set_for_life_results.csv": {
       "file": "set_for_life_results.csv",
-      "latest_draw": 781,
-      "latest_draw_date": "2026-09-07",
-      "rows": 781,
-      "sha256": "7a60d367c1b62c7843c00525fb1909fffdc622ad499cb0c6fde14dcf87fa6d64",
-      "size_bytes": 48954
+      "latest_draw": 782,
+      "latest_draw_date": "2026-09-10",
+      "rows": 782,
+      "sha256": "b5ceb99de1b9b1cb81d68489934f8e57baef7b474b037c2597a35295d1eed8b5",
+      "size_bytes": 49017
     },
     "thunderball_results.csv": {
       "file": "thunderball_results.csv",
@@ -269,33 +269,33 @@
     },
     "postcode-lottery": {
       "display_name": "Postcode Lottery",
-      "expected_draw_date": "2026-09-09",
+      "expected_draw_date": "2026-09-10",
       "latest_draw": null,
-      "latest_draw_date": "2026-09-09",
+      "latest_draw_date": "2026-09-10",
       "prizes": "current",
       "publication_due_utc": "2026-09-10T20:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "powerball": {
       "display_name": "Powerball",
-      "expected_draw_date": "2026-09-08",
-      "latest_draw": 21,
-      "latest_draw_date": "2026-09-08",
+      "expected_draw_date": "2026-09-10",
+      "latest_draw": 22,
+      "latest_draw_date": "2026-09-10",
       "prizes": "current",
       "publication_due_utc": "2026-09-10T12:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "set-for-life": {
       "display_name": "Set For Life",
-      "expected_draw_date": "2026-09-07",
-      "latest_draw": 781,
-      "latest_draw_date": "2026-09-07",
+      "expected_draw_date": "2026-09-10",
+      "latest_draw": 782,
+      "latest_draw_date": "2026-09-10",
       "prizes": "current",
       "publication_due_utc": "2026-09-10T21:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "thunderball": {
       "display_name": "Thunderball",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-09-10T05:32:26.846195Z",
+  "generated_utc": "2026-09-10T21:04:16.772815Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
