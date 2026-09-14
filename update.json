@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-14T22:02:29.723336Z"
+    "revision": "2026-09-14T23:01:28.700973Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -203,7 +203,7 @@
       "latest_draw": 1980,
       "latest_draw_date": "2026-09-11",
       "prizes": "awaiting",
-      "publication_due_utc": "2026-09-11T22:15:00Z",
+      "publication_due_utc": "2026-09-15T22:15:00Z",
       "results": "current",
       "status": "awaiting_prizes"
     },
@@ -213,9 +213,9 @@
       "latest_draw": 1980,
       "latest_draw_date": "2026-09-11",
       "prizes": "current",
-      "publication_due_utc": "2026-09-11T22:15:00Z",
+      "publication_due_utc": "2026-09-15T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "irish-lotto": {
       "display_name": "Irish Lotto",
@@ -273,9 +273,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-09-14",
       "prizes": "current",
-      "publication_due_utc": "2026-09-14T20:15:00Z",
+      "publication_due_utc": "2026-09-15T20:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -283,9 +283,9 @@
       "latest_draw": 23,
       "latest_draw_date": "2026-09-13",
       "prizes": "current",
-      "publication_due_utc": "2026-09-13T12:15:00Z",
+      "publication_due_utc": "2026-09-15T12:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "set-for-life": {
       "display_name": "Set For Life",
@@ -303,12 +303,12 @@
       "latest_draw": 3973,
       "latest_draw_date": "2026-09-12",
       "prizes": "not_applicable",
-      "publication_due_utc": "2026-09-12T21:15:00Z",
+      "publication_due_utc": "2026-09-15T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     }
   },
-  "generated_utc": "2026-09-14T22:02:29.723336Z",
+  "generated_utc": "2026-09-14T23:01:28.700973Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
