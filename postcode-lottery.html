@@ -140,7 +140,6 @@ const markerLayer=L.layerGroup().addTo(map);
 
 let archive=null;
 let postcodeRows=[];
-let geocodeGeneration=0;
 
 const searchInput=document.getElementById("postcodeSearch");
 const periodSelect=document.getElementById("period");
@@ -352,64 +351,8 @@ function popupHtml(row){
     );
 }
 
-async function geocodePostcodes(postcodes){
-    if(!postcodes.length)return {};
-
-    const coordinates={};
-    const chunkSize=100;
-
-    for(let offset=0;offset<postcodes.length;offset+=chunkSize){
-        const chunk=postcodes.slice(offset,offset+chunkSize);
-
-        try{
-            const response=await fetch(
-                "https://api.postcodes.io/postcodes",
-                {
-                    method:"POST",
-                    headers:{
-                        "Content-Type":"application/json"
-                    },
-                    body:JSON.stringify({
-                        postcodes:chunk
-                    })
-                }
-            );
-
-            if(!response.ok){
-                throw new Error(
-                    "Postcode lookup returned HTTP "+response.status
-                );
-            }
-
-            const payload=await response.json();
-
-            for(const item of payload.result||[]){
-                const requested=normalisePostcode(item.query);
-                const result=item.result;
-
-                if(
-                    result&&
-                    Number.isFinite(result.latitude)&&
-                    Number.isFinite(result.longitude)
-                ){
-                    coordinates[requested]={
-                        lat:result.latitude,
-                        lng:result.longitude
-                    };
-                }
-            }
-        }catch(error){
-            console.error(error);
-        }
-    }
-
-    return coordinates;
-}
-
 async function render(){
     if(!archive)return;
-
-    const generation=++geocodeGeneration;
 
     markerLayer.clearLayers();
 
@@ -441,9 +384,8 @@ async function render(){
     let rowsToMap=rows;
 
     /*
-     * Avoid firing thousands of postcode lookups when viewing the whole
-     * country.  A postcode search removes this limit so the requested
-     * postcode/area can always be explored completely.
+     * Keep initial rendering bounded on very large archives.  A postcode
+     * search removes this limit so the requested area remains complete.
      */
     if(!hasSearch&&rowsToMap.length>750){
         rowsToMap=rowsToMap
@@ -457,24 +399,20 @@ async function render(){
     }
 
     statusElement.textContent=
-        "Locating "+
+        "Plotting "+
         rowsToMap.length.toLocaleString("en-GB")+
         " postcode"+
         (rowsToMap.length===1?"":"s")+
         "…";
 
-    const coordinates=await geocodePostcodes(
-        rowsToMap.map(row=>row.postcode)
-    );
-
-    if(generation!==geocodeGeneration)return;
-
     const bounds=[];
     let plotted=0;
 
     for(const row of rowsToMap){
-        const coordinate=
-            coordinates[normalisePostcode(row.postcode)];
+        const coordinate=(
+            Number.isFinite(Number(row.latitude))&&
+            Number.isFinite(Number(row.longitude))
+        ) ? {lat:Number(row.latitude),lng:Number(row.longitude)} : null;
 
         if(!coordinate)continue;
 

@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-16T21:17:08.967115Z"
+    "revision": "2026-09-16T22:01:34.138212Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -202,10 +202,10 @@
       "expected_draw_date": "2026-09-15",
       "latest_draw": 1981,
       "latest_draw_date": "2026-09-15",
-      "prizes": "awaiting",
+      "prizes": "current",
       "publication_due_utc": "2026-09-15T22:15:00Z",
       "results": "current",
-      "status": "awaiting_prizes"
+      "status": "current"
     },
     "euromillions-hotpicks": {
       "display_name": "EuroMillions HotPicks",
@@ -252,10 +252,10 @@
       "expected_draw_date": "2026-09-16",
       "latest_draw": 3207,
       "latest_draw_date": "2026-09-16",
-      "prizes": "awaiting",
+      "prizes": "current",
       "publication_due_utc": "2026-09-16T21:15:00Z",
       "results": "current",
-      "status": "awaiting_prizes"
+      "status": "current"
     },
     "lotto-hotpicks": {
       "display_name": "Lotto HotPicks",
@@ -308,12 +308,12 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-09-16T21:17:08.967115Z",
+  "generated_utc": "2026-09-16T22:01:34.138212Z",
   "schema_version": 3,
   "software": {
     "current_version": 1836,
     "message": "",
     "motd_number": 0
   },
-  "status": "partial"
+  "status": "current"
 }
