@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-16T22:25:37.182133Z"
+    "revision": "2026-09-16T22:40:26.620967Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -308,12 +308,12 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-09-16T22:25:37.182133Z",
+  "generated_utc": "2026-09-16T22:40:26.620967Z",
   "schema_version": 3,
   "software": {
-    "current_version": 1836,
-    "message": "",
-    "motd_number": 0
+    "current_version": 1838,
+    "message": "Greetings Paul...",
+    "motd_number": 100
   },
   "status": "partial"
 }
