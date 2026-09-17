@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-17T10:51:15.074140Z"
+    "revision": "2026-09-17T12:01:29.649003Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -136,8 +136,8 @@
       "latest_draw": 3207,
       "latest_draw_date": "2026-09-16",
       "rows": 3236,
-      "sha256": "51ea7ea95771c333bf5551c3f5701fcf08df40a004e2bf966cf9ab797d4ae8e1",
-      "size_bytes": 199626
+      "sha256": "d9fe786f9d5ecb2b7e058115adc1a5929ffb902d53fc3efb1f7b1ffb1ff222af",
+      "size_bytes": 199634
     },
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
@@ -254,8 +254,8 @@
       "latest_draw_date": "2026-09-16",
       "prizes": "current",
       "publication_due_utc": "2026-09-16T21:15:00Z",
-      "results": "awaiting",
-      "status": "stale"
+      "results": "current",
+      "status": "current"
     },
     "lotto-hotpicks": {
       "display_name": "Lotto HotPicks",
@@ -279,13 +279,13 @@
     },
     "powerball": {
       "display_name": "Powerball",
-      "expected_draw_date": "2026-09-15",
+      "expected_draw_date": "2026-09-17",
       "latest_draw": 25,
       "latest_draw_date": "2026-09-17",
       "prizes": "current",
       "publication_due_utc": "2026-09-17T12:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "set-for-life": {
       "display_name": "Set For Life",
@@ -308,12 +308,12 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-09-17T10:51:15.074140Z",
+  "generated_utc": "2026-09-17T12:01:29.649003Z",
   "schema_version": 3,
   "software": {
     "current_version": 1838,
     "message": "Greetings Paul...",
     "motd_number": 100
   },
-  "status": "partial"
+  "status": "current"
 }
