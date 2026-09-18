@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-17T22:03:06.325191Z"
+    "revision": "2026-09-18T00:01:38.669576Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -203,9 +203,9 @@
       "latest_draw": 1981,
       "latest_draw_date": "2026-09-15",
       "prizes": "current",
-      "publication_due_utc": "2026-09-15T22:15:00Z",
+      "publication_due_utc": "2026-09-18T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "euromillions-hotpicks": {
       "display_name": "EuroMillions HotPicks",
@@ -213,9 +213,9 @@
       "latest_draw": 1981,
       "latest_draw_date": "2026-09-15",
       "prizes": "current",
-      "publication_due_utc": "2026-09-15T22:15:00Z",
+      "publication_due_utc": "2026-09-18T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "irish-lotto": {
       "display_name": "Irish Lotto",
@@ -273,9 +273,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-09-17",
       "prizes": "current",
-      "publication_due_utc": "2026-09-17T20:15:00Z",
+      "publication_due_utc": "2026-09-18T20:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -303,12 +303,12 @@
       "latest_draw": 3975,
       "latest_draw_date": "2026-09-16",
       "prizes": "not_applicable",
-      "publication_due_utc": "2026-09-16T21:15:00Z",
+      "publication_due_utc": "2026-09-18T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     }
   },
-  "generated_utc": "2026-09-17T22:03:06.325191Z",
+  "generated_utc": "2026-09-18T00:01:38.669576Z",
   "schema_version": 3,
   "software": {
     "current_version": 1838,
