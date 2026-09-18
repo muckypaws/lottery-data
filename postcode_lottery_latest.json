@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-09-17",
+  "draw_date": "2026-09-18",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Leedstown",
-      "postcode": "TR27 6NS",
+      "location": "Bexhill-on-Sea",
+      "postcode": "TN39 4RU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wingerworth",
-      "postcode": "S42 6GQ",
+      "location": "St Boswells",
+      "postcode": "TD6 0BX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Barking and Dagenham",
-      "postcode": "RM10 8UL",
+      "location": "Maltby",
+      "postcode": "S66 7LR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Crowthorne",
-      "postcode": "RG45 6LA",
+      "location": "Newport (Isle of Wight)",
+      "postcode": "PO30 1EY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Berinsfield",
-      "postcode": "OX10 7DJ",
+      "location": "Wadebridge",
+      "postcode": "PL27 7EG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Enfield",
-      "postcode": "N18 2TB",
+      "location": "Downham Market",
+      "postcode": "PE38 9LS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Rhosneigr",
-      "postcode": "LL64 5YQ",
+      "location": "Beeston (Broxtowe)",
+      "postcode": "NG9 2PL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Rearsby",
-      "postcode": "LE7 4YJ",
+      "location": "Nottingham",
+      "postcode": "NG5 9DR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Cradlehall",
-      "postcode": "IV2 5BG",
+      "location": "Leeds",
+      "postcode": "LS5 3LT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Pulham Market",
-      "postcode": "IP21 4PR",
+      "location": "Halesworth",
+      "postcode": "IP19 8HZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ash and Ash Vale",
-      "postcode": "GU12 6QF",
+      "location": "Harrogate",
+      "postcode": "HG3 2FP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Edinburgh",
-      "postcode": "EH7 5QH",
+      "location": "Harrow",
+      "postcode": "HA5 4AJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Caterham",
-      "postcode": "CR3 6LE",
+      "location": "Waltham Forest",
+      "postcode": "E17 9EW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Harlow",
-      "postcode": "CM19 5JU",
+      "location": "Barton-upon-Humber",
+      "postcode": "DN18 5EY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Aberdare",
-      "postcode": "CF44 9NB",
+      "location": "Stanley (County Durham)",
+      "postcode": "DH9 7HB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Penrith",
-      "postcode": "CA11 9BL",
+      "location": "Barry (Vale of Glamorgan)",
+      "postcode": "CF63 4PG",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Congresbury",
+      "postcode": "BS49 5JQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Bristol",
-      "postcode": "BS4 2XL",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Portishead",
-      "postcode": "BS20 6EQ",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Bromley",
-      "postcode": "BR3 3SE",
+      "postcode": "BS13 9HA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Brighton and Hove",
-      "postcode": "BN2 3LP",
+      "postcode": "BN1 8HP",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Birmingham",
+      "postcode": "B1 2SY",
       "prize": 1000.0
     }
   ]
