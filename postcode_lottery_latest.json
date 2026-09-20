@@ -1,131 +1,125 @@
 {
-  "draw_date": "2026-09-19",
-  "winner_count": 21,
+  "draw_date": "2026-09-20",
+  "winner_count": 20,
   "winners": [
     {
-      "category": "Millionaire Street",
-      "location": "Glenrothes",
-      "postcode": "KY7 6TR",
-      "prize": 380281.0
-    },
-    {
       "category": "Daily",
-      "location": "Scarborough",
-      "postcode": "YO12 4QG",
+      "location": "Bridlington",
+      "postcode": "YO16 7PP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wolverhampton",
-      "postcode": "WV11 1UZ",
+      "location": "Skelton (Redcar and Cleveland)",
+      "postcode": "TS12 2GG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Mirfield",
-      "postcode": "WF14 0PU",
+      "location": "Blackawton",
+      "postcode": "TQ9 7SS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Knutsford",
-      "postcode": "WA16 0EB",
+      "location": "Greenwich",
+      "postcode": "SE2 9XP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hartlepool",
-      "postcode": "TS25 1NF",
+      "location": "Lewisham",
+      "postcode": "SE14 5LS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Shrivenham and Watchfield",
-      "postcode": "SN6 8FA",
+      "location": "Rhosmaen",
+      "postcode": "SA19 8HQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Fishguard",
-      "postcode": "SA65 9QJ",
+      "location": "Bampton (West Oxfordshire)",
+      "postcode": "OX18 2FG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Barnsley",
-      "postcode": "S70 3EF",
+      "location": "Pontypool",
+      "postcode": "NP4 6DG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Unstone Green",
-      "postcode": "S18 4AN",
+      "location": "Towcester",
+      "postcode": "NN12 6HE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Chieveley",
-      "postcode": "RG20 8PE",
+      "location": "Tynemouth",
+      "postcode": "NE29 0LS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Abersychan",
-      "postcode": "NP4 7SE",
+      "location": "Port Rìgh",
+      "postcode": "IV51 9QE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Amble",
-      "postcode": "NE65 0GQ",
+      "location": "Guildford",
+      "postcode": "GU2 9WA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Urmston",
-      "postcode": "M41 9WW",
+      "location": "South Molton",
+      "postcode": "EX36 4QT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Leeds",
-      "postcode": "LS12 6AR",
+      "location": "Stourport-on-Severn",
+      "postcode": "DY13 0LB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Brecon",
-      "postcode": "LD3 7TA",
+      "location": "Charmouth",
+      "postcode": "DT6 6QX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Stowmarket",
-      "postcode": "IP14 5XZ",
+      "location": "Bishop's Itchington",
+      "postcode": "CV47 2YT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Stowupland",
-      "postcode": "IP14 4SL",
+      "location": "Clacton-on-Sea",
+      "postcode": "CO15 1NG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Strathblane",
-      "postcode": "G63 9SW",
+      "location": "Aberdare",
+      "postcode": "CF44 0DW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Tarporley",
-      "postcode": "CW6 9NX",
+      "location": "Banwell",
+      "postcode": "BS29 6EZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Broughton (Flintshire)",
-      "postcode": "CH4 0AH",
+      "location": "Solihull",
+      "postcode": "B91 2FQ",
       "prize": 1000.0
     }
   ]
