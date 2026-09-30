@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-30T20:53:55.513016Z"
+    "revision": "2026-09-30T23:01:43.060308Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -128,7 +128,7 @@
       "latest_draw": 3211,
       "latest_draw_date": null,
       "rows": 3244,
-      "sha256": "6f1c7c7a31e3fa38cab25e12cde4c824b6c299b0072d53e3288049dddad5d00a",
+      "sha256": "f772463ee2b504a4eafb85ed0494723b31370e231bb5f0b1331727e1db0ac41f",
       "size_bytes": 123039
     },
     "lotto_results.csv": {
@@ -273,9 +273,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-09-30",
       "prizes": "current",
-      "publication_due_utc": "2026-09-30T20:15:00Z",
+      "publication_due_utc": "2026-10-01T20:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -283,9 +283,9 @@
       "latest_draw": 30,
       "latest_draw_date": "2026-09-29",
       "prizes": "current",
-      "publication_due_utc": "2026-09-29T12:15:00Z",
+      "publication_due_utc": "2026-10-01T12:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "set-for-life": {
       "display_name": "Set For Life",
@@ -293,9 +293,9 @@
       "latest_draw": 787,
       "latest_draw_date": "2026-09-28",
       "prizes": "current",
-      "publication_due_utc": "2026-09-28T21:15:00Z",
+      "publication_due_utc": "2026-10-01T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "thunderball": {
       "display_name": "Thunderball",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-09-30T20:53:55.513016Z",
+  "generated_utc": "2026-09-30T23:01:43.060308Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
