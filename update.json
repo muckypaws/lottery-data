@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-09-30T17:31:15.555545Z"
+    "revision": "2026-09-30T19:36:16.555802Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -109,51 +109,51 @@
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
-      "latest_draw": 3210,
+      "latest_draw": 3211,
       "latest_draw_date": null,
-      "rows": 3242,
-      "sha256": "b1ce96bad556ca105ca77e92fab97de0bc86164746b3eff4e118a1824bac3247",
-      "size_bytes": 68371
+      "rows": 3244,
+      "sha256": "de16e43a66d423646a686cf207cb6652212fcdab08b4402b854b0725d119c5ba",
+      "size_bytes": 68499
     },
     "lotto_hotpicks_results.csv": {
       "file": "lotto_hotpicks_results.csv",
-      "latest_draw": 3210,
-      "latest_draw_date": "2026-09-26",
-      "rows": 3242,
-      "sha256": "9d5eb99a5b3f9c0c17501530481040c1118546341573dbf9a2ddcbce01c34a02",
-      "size_bytes": 131498
+      "latest_draw": 3211,
+      "latest_draw_date": "2026-09-30",
+      "rows": 3244,
+      "sha256": "a1eae346423d8a140b0e46915fc3cf84666cb616e1d51b8a2eece0d0f4da7886",
+      "size_bytes": 131594
     },
     "lotto_prizes.csv": {
       "file": "lotto_prizes.csv",
-      "latest_draw": 3210,
+      "latest_draw": 3211,
       "latest_draw_date": null,
-      "rows": 3242,
-      "sha256": "54f06ba369ed7916833811d78774a55578040dbe744fbf42642da762c8a889f0",
-      "size_bytes": 122971
+      "rows": 3244,
+      "sha256": "6f1c7c7a31e3fa38cab25e12cde4c824b6c299b0072d53e3288049dddad5d00a",
+      "size_bytes": 123039
     },
     "lotto_results.csv": {
       "file": "lotto_results.csv",
-      "latest_draw": 3210,
-      "latest_draw_date": "2026-09-26",
-      "rows": 3242,
-      "sha256": "1d9b150b70c9376da264ea8b0db9a4865d22e2d3133a1733cf9de98e51688dee",
-      "size_bytes": 200020
+      "latest_draw": 3211,
+      "latest_draw_date": "2026-09-30",
+      "rows": 3244,
+      "sha256": "161439fbdf8a6f1136ab49f30f3644a42f092db85f613b7268aff93a0ba5f88c",
+      "size_bytes": 200128
     },
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-09-29",
-      "rows": 6400,
-      "sha256": "c670725bc0a85936e839e9eba2d878fad27482ebaac1357ede92172783c0589b",
-      "size_bytes": 181532
+      "latest_draw_date": "2026-09-30",
+      "rows": 6401,
+      "sha256": "c64555012edf3e3d1c5ce99ebe4366079812dd0f9ef9a92c924b20048ccadee2",
+      "size_bytes": 181556
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-09-29",
-      "rows": 64319,
-      "sha256": "febaf02667b6e8da2c390949acfdd98d565d952ccfe7d4a65d4c89b1f4a95d85",
-      "size_bytes": 2895630
+      "latest_draw_date": "2026-09-30",
+      "rows": 64339,
+      "sha256": "4e71123cec5fe2fbff992ed9d6822fefb4b00284ab4f2c1018751cc16fb7e63e",
+      "size_bytes": 2896559
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -250,18 +250,18 @@
     "lotto": {
       "display_name": "Lotto",
       "expected_draw_date": "2026-09-26",
-      "latest_draw": 3210,
-      "latest_draw_date": "2026-09-26",
+      "latest_draw": 3211,
+      "latest_draw_date": "2026-09-30",
       "prizes": "current",
       "publication_due_utc": "2026-09-30T21:15:00Z",
-      "results": "current",
-      "status": "not_due"
+      "results": "awaiting",
+      "status": "awaiting_results"
     },
     "lotto-hotpicks": {
       "display_name": "Lotto HotPicks",
       "expected_draw_date": "2026-09-26",
-      "latest_draw": 3210,
-      "latest_draw_date": "2026-09-26",
+      "latest_draw": 3211,
+      "latest_draw_date": "2026-09-30",
       "prizes": "current",
       "publication_due_utc": "2026-09-30T21:15:00Z",
       "results": "current",
@@ -269,13 +269,13 @@
     },
     "postcode-lottery": {
       "display_name": "Postcode Lottery",
-      "expected_draw_date": "2026-09-29",
+      "expected_draw_date": "2026-09-30",
       "latest_draw": null,
-      "latest_draw_date": "2026-09-29",
+      "latest_draw_date": "2026-09-30",
       "prizes": "current",
       "publication_due_utc": "2026-09-30T20:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -308,12 +308,12 @@
       "status": "not_due"
     }
   },
-  "generated_utc": "2026-09-30T17:31:15.555545Z",
+  "generated_utc": "2026-09-30T19:36:16.555802Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
     "message": "Build 1839 Now Available for BETA Testers, Please check your email.",
     "motd_number": 102
   },
-  "status": "current"
+  "status": "partial"
 }
