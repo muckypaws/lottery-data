@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-09-30",
+  "draw_date": "2026-10-01",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Truro",
-      "postcode": "TR1 1QB",
+      "location": "Watford (Watford)",
+      "postcode": "WD19 4QQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "South Brent",
-      "postcode": "TQ10 9DL",
+      "location": "Stoke Gabriel",
+      "postcode": "TQ9 6JF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Clay Cross",
-      "postcode": "S45 9HD",
+      "location": "Milverton",
+      "postcode": "TA4 1BX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Horley (Reigate and Banstead)",
-      "postcode": "RH6 9TA",
+      "location": "Lewisham",
+      "postcode": "SE13 6SX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Crawley Down",
-      "postcode": "RH10 4JA",
+      "location": "Barnsley",
+      "postcode": "S75 2BW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Basingstoke",
-      "postcode": "RG21 8ST",
+      "location": "Plymouth",
+      "postcode": "PL7 4RD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bodmin",
-      "postcode": "PL31 2BN",
+      "location": "Langstone",
+      "postcode": "NP18 2EL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Nottingham",
-      "postcode": "NG6 8SQ",
+      "location": "South Shields",
+      "postcode": "NE33 3HD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Larkhall",
-      "postcode": "ML9 2QL",
+      "location": "Haringey",
+      "postcode": "N22 6JH",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Biggar",
+      "postcode": "ML12 6PB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Salford",
-      "postcode": "M5 3FG",
+      "postcode": "M5 3LF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Luton",
-      "postcode": "LU4 8LF",
+      "location": "Tyldesley",
+      "postcode": "M29 8LY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bo'ness",
-      "postcode": "EH51 9NZ",
+      "location": "Ewell",
+      "postcode": "KT19 9BY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Gorebridge and Mayfield",
-      "postcode": "EH22 4QQ",
+      "location": "Cheltenham",
+      "postcode": "GL51 8AF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Edinburgh",
-      "postcode": "EH16 4UG",
+      "location": "Barnard Castle",
+      "postcode": "DL12 8AG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Stourbridge",
-      "postcode": "DY9 0RU",
+      "location": "Consett",
+      "postcode": "DH8 5BP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bishop Auckland",
-      "postcode": "DL14 9SR",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Fence Houses",
-      "postcode": "DH4 6PX",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Derby",
-      "postcode": "DE24 9LD",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Chartham",
-      "postcode": "CT4 7TF",
+      "location": "Holywell (Flintshire)",
+      "postcode": "CH8 7HD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Brighton and Hove",
-      "postcode": "BN2 6SF",
+      "postcode": "BN1 2HS",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Bradford",
+      "postcode": "BD2 1DG",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Trowbridge",
+      "postcode": "BA14 7XB",
       "prize": 1000.0
     }
   ]
