@@ -1,23 +1,23 @@
 {
   "data": {
-    "revision": "2026-10-02T19:35:39.869862Z"
+    "revision": "2026-10-02T21:08:58.891052Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
       "file": "euromillions_hotpicks_prizes.csv",
-      "latest_draw": 1985,
+      "latest_draw": 1986,
       "latest_draw_date": null,
-      "rows": 1985,
-      "sha256": "a5f1f3f98363ca1a50a8113a947e40029a7d197df5ce55f0697aa53130584f94",
-      "size_bytes": 41916
+      "rows": 1986,
+      "sha256": "5ce8bfd0f21a91375176a535256c245f6b12076e3027609730413534dc69d8a4",
+      "size_bytes": 41987
     },
     "euromillions_hotpicks_results.csv": {
       "file": "euromillions_hotpicks_results.csv",
-      "latest_draw": 1985,
-      "latest_draw_date": "2026-09-29",
-      "rows": 1985,
-      "sha256": "a646ab9dd9cf4c0ca6c0b60da7854ccb143b1fc85b6bf616e47da8ea5a7cb6f8",
-      "size_bytes": 72557
+      "latest_draw": 1986,
+      "latest_draw_date": "2026-10-02",
+      "rows": 1986,
+      "sha256": "fac822ba6c1cc5f53f622afc4c0fd03f96b322a976307e68fb97f4b0a3aa41b2",
+      "size_bytes": 72600
     },
     "euromillions_prizes.csv": {
       "file": "euromillions_prizes.csv",
@@ -189,33 +189,33 @@
     },
     "thunderball_results.csv": {
       "file": "thunderball_results.csv",
-      "latest_draw": 3983,
-      "latest_draw_date": "2026-09-30",
-      "rows": 3983,
-      "sha256": "fad56a5dda6c6418dcee2ddbf04836b24de4dac4b94ecee3e2a58179a1d7822d",
-      "size_bytes": 248584
+      "latest_draw": 3984,
+      "latest_draw_date": "2026-10-02",
+      "rows": 3984,
+      "sha256": "987d1b01d93c528644b74c9351c843a52d444171735fc0abdebaa55e73c060e9",
+      "size_bytes": 248642
     }
   },
   "games": {
     "euromillions": {
       "display_name": "EuroMillions",
-      "expected_draw_date": "2026-09-29",
+      "expected_draw_date": "2026-10-02",
       "latest_draw": 1985,
       "latest_draw_date": "2026-09-29",
       "prizes": "current",
       "publication_due_utc": "2026-10-02T22:15:00Z",
-      "results": "current",
-      "status": "not_due"
+      "results": "awaiting",
+      "status": "awaiting_results"
     },
     "euromillions-hotpicks": {
       "display_name": "EuroMillions HotPicks",
-      "expected_draw_date": "2026-09-29",
-      "latest_draw": 1985,
-      "latest_draw_date": "2026-09-29",
+      "expected_draw_date": "2026-10-02",
+      "latest_draw": 1986,
+      "latest_draw_date": "2026-10-02",
       "prizes": "current",
       "publication_due_utc": "2026-10-02T22:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "irish-lotto": {
       "display_name": "Irish Lotto",
@@ -299,21 +299,21 @@
     },
     "thunderball": {
       "display_name": "Thunderball",
-      "expected_draw_date": "2026-09-30",
-      "latest_draw": 3983,
-      "latest_draw_date": "2026-09-30",
+      "expected_draw_date": "2026-10-02",
+      "latest_draw": 3984,
+      "latest_draw_date": "2026-10-02",
       "prizes": "not_applicable",
       "publication_due_utc": "2026-10-02T21:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     }
   },
-  "generated_utc": "2026-10-02T19:35:39.869862Z",
+  "generated_utc": "2026-10-02T21:08:58.891052Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
     "message": "Build 1839 Now Available for BETA Testers, Please check your email.",
     "motd_number": 102
   },
-  "status": "current"
+  "status": "partial"
 }
