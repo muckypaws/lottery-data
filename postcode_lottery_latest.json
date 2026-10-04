@@ -1,131 +1,125 @@
 {
-  "draw_date": "2026-10-03",
-  "winner_count": 21,
+  "draw_date": "2026-10-04",
+  "winner_count": 20,
   "winners": [
     {
-      "category": "Millionaire Street",
-      "location": "Melton Mowbray",
-      "postcode": "LE13 0LN",
-      "prize": 90909.0
-    },
-    {
       "category": "Daily",
-      "location": "Upper Poppleton",
-      "postcode": "YO26 6HS",
+      "location": "Watford (Watford)",
+      "postcode": "WD25 9SZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Appley Bridge",
-      "postcode": "WN6 9LG",
+      "location": "Watford (Watford)",
+      "postcode": "WD18 6SD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Newquay",
-      "postcode": "TR7 1LE",
+      "location": "Eccleshall",
+      "postcode": "ST21 6QQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wadhurst",
-      "postcode": "TN5 6EH",
+      "location": "Sunderland",
+      "postcode": "SR4 0HQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Lambeth",
-      "postcode": "SW16 2DA",
+      "location": "Stockport",
+      "postcode": "SK4 3AB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wandsworth",
-      "postcode": "SW15 5GD",
+      "location": "Newbury",
+      "postcode": "RG14 6SH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Peterlee",
-      "postcode": "SR8 5PB",
+      "location": "Liskeard",
+      "postcode": "PL14 6RH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Maidenhead",
-      "postcode": "SL6 2QT",
+      "location": "Great Yarmouth",
+      "postcode": "NR30 4DB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Cwmavon",
-      "postcode": "SA12 9AZ",
+      "location": "Long Stratton",
+      "postcode": "NR15 2XB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Thrybergh and Dalton",
-      "postcode": "S65 4GH",
+      "location": "Thrapston",
+      "postcode": "NN14 4TB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Saltash",
-      "postcode": "PL12 6HZ",
+      "location": "Leysdown-on-Sea",
+      "postcode": "ME12 4HD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Witney",
-      "postcode": "OX28 1JD",
+      "location": "Hereford",
+      "postcode": "HR2 7XD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Anstey",
-      "postcode": "LE7 7HA",
+      "location": "Moreton-in-Marsh",
+      "postcode": "GL56 9NE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Beaconsfield",
-      "postcode": "HP9 1AT",
+      "location": "Enfield",
+      "postcode": "EN1 3QN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Knaresborough",
-      "postcode": "HG5 0BX",
+      "location": "Cleethorpes",
+      "postcode": "DN35 0LB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hillingdon",
-      "postcode": "HA4 7QB",
+      "location": "Hilton (South Derbyshire)",
+      "postcode": "DE65 5RN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Alresford",
-      "postcode": "CO7 8LH",
+      "location": "Coventry",
+      "postcode": "CV2 3BZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ynysybwl",
-      "postcode": "CF37 3JG",
+      "location": "Cardiff",
+      "postcode": "CF24 0HF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Carlisle",
-      "postcode": "CA1 2JW",
+      "location": "Frampton Cotterell and Winterbourne",
+      "postcode": "BS36 1HS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ringwood",
-      "postcode": "BH24 1DT",
+      "location": "Poole",
+      "postcode": "BH15 4QZ",
       "prize": 1000.0
     }
   ]
