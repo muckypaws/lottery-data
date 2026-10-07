@@ -65,6 +65,7 @@ footer{max-width:1200px;margin:0 auto;padding:1rem;font-size:.86rem;opacity:.82}
 .legend-row{display:flex;align-items:center;gap:.45rem}
 .legend-dot{width:12px;height:12px;border-radius:50%;display:inline-block}
 .popup-title{font-weight:800;font-size:1.05rem;margin-bottom:.2rem}
+.popup-millionaire{margin:.35rem 0;padding:.35rem .5rem;border:2px solid #b7791f;border-radius:.4rem;background:#fff4b8;color:#3b2600;font-weight:800}
 .popup-location{margin-bottom:.4rem}
 .popup-summary{margin:.35rem 0 .55rem}
 .popup-repeat{margin:.45rem 0;padding:.4rem .5rem;border-radius:.4rem;background:rgba(127,127,127,.12)}
@@ -158,7 +159,10 @@ function uniqueDrawWins(wins){
          * duplicate source records for the same postcode/date being shown
          * as separate historical wins.
          */
-        if(!byDate.has(win.date)){
+        if(
+            !byDate.has(win.date)||
+            (isMillionaireWin(win)&&!isMillionaireWin(byDate.get(win.date)))
+        ){
             byDate.set(win.date,win);
         }
     }
@@ -279,9 +283,14 @@ function markerColour(latestWin){
     return "#2563eb";
 }
 
+function isMillionaireWin(win){
+    return String(win?.category||"").toLowerCase().includes("millionaire");
+}
+
 function popupHtml(row){
     const wins=uniqueDrawWins(row.filteredWins||row.wins||[]);
     const winCount=wins.length;
+    const hasMillionaireWin=wins.some(isMillionaireWin);
 
     let knownTotal=0;
     let knownCount=0;
@@ -342,6 +351,9 @@ function popupHtml(row){
         '<div class="popup-title">'+escapeHtml(row.postcode)+'</div>'+
         (row.location
             ? '<div class="popup-location">'+escapeHtml(row.location)+'</div>'
+            : '')+
+        (hasMillionaireWin
+            ? '<div class="popup-millionaire">★ Millionaire-winning postcode</div>'
             : '')+
         summaryHtml+
         (wins.length>1
@@ -405,6 +417,7 @@ async function render(){
             row.latest_win;
 
         const winCount=uniqueWins.length;
+        const hasMillionaireWin=uniqueWins.some(isMillionaireWin);
 
         /*
          * Repeat-winning postcodes receive progressively larger markers.
@@ -415,16 +428,17 @@ async function render(){
             6+Math.sqrt(Math.max(1,winCount))*2
         );
 
-        const colour=markerColour(latestWin);
+        const colour=hasMillionaireWin?"#f6c453":markerColour(latestWin);
+        const outline=hasMillionaireWin?"#6b4300":colour;
 
         const marker=L.circleMarker(
             [coordinate.lat,coordinate.lng],
             {
                 radius:radius,
-                color:colour,
+                color:outline,
                 fillColor:colour,
-                fillOpacity:.72,
-                weight:winCount>1?3:2
+                fillOpacity:hasMillionaireWin ? .95 : .72,
+                weight:hasMillionaireWin?4:(winCount>1?3:2)
             }
         );
 
@@ -515,7 +529,9 @@ legend.onAdd=function(){
     );
 
     div.innerHTML=
-        "<strong>Latest recorded win</strong>"+
+        "<strong>Prize type</strong>"+
+        '<div class="legend-row"><span class="legend-dot" style="background:#f6c453;border:2px solid #6b4300"></span>Millionaire winner</div>'+
+        '<div class="small" style="margin:.3rem 0">Other colours show the latest £1,000 win:</div>'+
         '<div class="legend-row"><span class="legend-dot" style="background:#dc2626"></span>Last 7 days</div>'+
         '<div class="legend-row"><span class="legend-dot" style="background:#f97316"></span>8–30 days</div>'+
         '<div class="legend-row"><span class="legend-dot" style="background:#eab308"></span>31–90 days</div>'+
