@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-10-10T21:39:10.909745Z"
+    "revision": "2026-10-10T23:02:03.822714Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -128,16 +128,16 @@
       "latest_draw": 3214,
       "latest_draw_date": null,
       "rows": 3250,
-      "sha256": "c5ab3b39af183f9abda16866e403685086c0f5c7b5ed3323b7758024959a2920",
-      "size_bytes": 123247
+      "sha256": "6be879539c205d7c4fa688c60e28b6e7d0c3cf24e316f67a2ef6b128125a5fc1",
+      "size_bytes": 123257
     },
     "lotto_results.csv": {
       "file": "lotto_results.csv",
       "latest_draw": 3214,
       "latest_draw_date": "2026-10-10",
       "rows": 3250,
-      "sha256": "ec6d08100d5d5c325859f5d45617a570d6e3dd53e0724c93b6f6f601ef9e1e7e",
-      "size_bytes": 200501
+      "sha256": "1b16a50327c09311af39b74a90bdcb2b6e40e6d040884f897284afe1332826d7",
+      "size_bytes": 200517
     },
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
@@ -254,8 +254,8 @@
       "latest_draw_date": "2026-10-10",
       "prizes": "current",
       "publication_due_utc": "2026-10-10T21:15:00Z",
-      "results": "awaiting",
-      "status": "awaiting_results"
+      "results": "current",
+      "status": "current"
     },
     "lotto-hotpicks": {
       "display_name": "Lotto HotPicks",
@@ -273,9 +273,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-10-10",
       "prizes": "current",
-      "publication_due_utc": "2026-10-10T20:15:00Z",
+      "publication_due_utc": "2026-10-11T20:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -283,9 +283,9 @@
       "latest_draw": 34,
       "latest_draw_date": "2026-10-08",
       "prizes": "current",
-      "publication_due_utc": "2026-10-08T12:15:00Z",
+      "publication_due_utc": "2026-10-11T12:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "set-for-life": {
       "display_name": "Set For Life",
@@ -308,12 +308,12 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-10-10T21:39:10.909745Z",
+  "generated_utc": "2026-10-10T23:02:03.822714Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
     "message": "There's a know issue with the server providing the results to the software this evening 6th October 2026, engineers are working on resolving the issue.",
     "motd_number": 103
   },
-  "status": "partial"
+  "status": "current"
 }
