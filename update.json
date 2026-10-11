@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-10-11T07:32:31.071329Z"
+    "revision": "2026-10-11T21:01:45.901310Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -142,18 +142,18 @@
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-10",
-      "rows": 6413,
-      "sha256": "bd390e5c282a901098455f77376f7c848661f40defd89141de190c6986d3e28a",
-      "size_bytes": 181872
+      "latest_draw_date": "2026-10-11",
+      "rows": 6414,
+      "sha256": "05c7a0069369b5e08f9cf86a157418aa3d56c5529ae255f2dd9d9cf208946abd",
+      "size_bytes": 181896
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-10",
-      "rows": 64541,
-      "sha256": "e78558680d0abcf4d9c42967bae727a9cefda206d65e038f511952315a1c4233",
-      "size_bytes": 2905928
+      "latest_draw_date": "2026-10-11",
+      "rows": 64561,
+      "sha256": "1a582c7f5c61a982c66a235857e1ed1adf6b09735ba24b2f8d4a936356fdc5bf",
+      "size_bytes": 2906881
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -269,23 +269,23 @@
     },
     "postcode-lottery": {
       "display_name": "Postcode Lottery",
-      "expected_draw_date": "2026-10-10",
+      "expected_draw_date": "2026-10-11",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-10",
+      "latest_draw_date": "2026-10-11",
       "prizes": "current",
       "publication_due_utc": "2026-10-11T20:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "powerball": {
       "display_name": "Powerball",
-      "expected_draw_date": "2026-10-08",
+      "expected_draw_date": "2026-10-11",
       "latest_draw": 35,
       "latest_draw_date": "2026-10-11",
       "prizes": "current",
       "publication_due_utc": "2026-10-11T12:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "set-for-life": {
       "display_name": "Set For Life",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-10-11T07:32:31.071329Z",
+  "generated_utc": "2026-10-11T21:01:45.901310Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
