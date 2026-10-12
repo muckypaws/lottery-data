@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-10-12T21:05:48.241294Z"
+    "revision": "2026-10-12T23:01:37.410380Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -203,9 +203,9 @@
       "latest_draw": 1988,
       "latest_draw_date": "2026-10-09",
       "prizes": "current",
-      "publication_due_utc": "2026-10-09T22:15:00Z",
+      "publication_due_utc": "2026-10-13T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "euromillions-hotpicks": {
       "display_name": "EuroMillions HotPicks",
@@ -213,9 +213,9 @@
       "latest_draw": 1988,
       "latest_draw_date": "2026-10-09",
       "prizes": "current",
-      "publication_due_utc": "2026-10-09T22:15:00Z",
+      "publication_due_utc": "2026-10-13T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "irish-lotto": {
       "display_name": "Irish Lotto",
@@ -273,9 +273,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-10-12",
       "prizes": "current",
-      "publication_due_utc": "2026-10-12T20:15:00Z",
+      "publication_due_utc": "2026-10-13T20:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -283,9 +283,9 @@
       "latest_draw": 35,
       "latest_draw_date": "2026-10-11",
       "prizes": "current",
-      "publication_due_utc": "2026-10-11T12:15:00Z",
+      "publication_due_utc": "2026-10-13T12:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "set-for-life": {
       "display_name": "Set For Life",
@@ -303,12 +303,12 @@
       "latest_draw": 3989,
       "latest_draw_date": "2026-10-10",
       "prizes": "not_applicable",
-      "publication_due_utc": "2026-10-10T21:15:00Z",
+      "publication_due_utc": "2026-10-13T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     }
   },
-  "generated_utc": "2026-10-12T21:05:48.241294Z",
+  "generated_utc": "2026-10-12T23:01:37.410380Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
