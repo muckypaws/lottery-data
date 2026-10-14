@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-10-13",
+  "draw_date": "2026-10-14",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Shrewsbury",
-      "postcode": "SY3 7HB",
+      "location": "St Helens (St. Helens)",
+      "postcode": "WA10 2SW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bromley",
-      "postcode": "SE9 4LF",
+      "location": "Wandsworth",
+      "postcode": "SW8 3AD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Gowerton",
-      "postcode": "SA4 3LF",
+      "location": "Greenwich",
+      "postcode": "SE2 9LS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Horley (Reigate and Banstead)",
-      "postcode": "RH6 8JF",
+      "location": "Sheffield",
+      "postcode": "S8 8SL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Southport",
-      "postcode": "PR8 3AG",
+      "location": "Dorking",
+      "postcode": "RH4 1UT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Fareham",
-      "postcode": "PO14 1EG",
+      "location": "Haywards Heath",
+      "postcode": "RH16 3PE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Holbeach",
-      "postcode": "PE12 8PN",
+      "location": "Billingshurst",
+      "postcode": "RH14 9BG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Rochdale",
-      "postcode": "OL11 2XZ",
+      "location": "Cowes",
+      "postcode": "PO31 7QB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Barnet",
-      "postcode": "NW7 1DJ",
+      "location": "Wittering",
+      "postcode": "PE8 6RF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Llandudno",
-      "postcode": "LL30 2BG",
+      "location": "Monmouth",
+      "postcode": "NP25 4AW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Cowdenbeath",
-      "postcode": "KY4 9PD",
+      "location": "Long Bennington",
+      "postcode": "NG23 5FW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Harrow",
-      "postcode": "HA5 5QU",
+      "location": "Bardney",
+      "postcode": "LN3 5BF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Dumbarton",
-      "postcode": "G82 4QY",
+      "location": "Dunfermline",
+      "postcode": "KY11 3BS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Waltham",
-      "postcode": "DN37 0XD",
+      "location": "Waltham Forest",
+      "postcode": "IG8 9HN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Pontycymer",
-      "postcode": "CF32 8HN",
+      "location": "Redbridge",
+      "postcode": "IG4 5PH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Eastbourne",
-      "postcode": "BN20 7EB",
+      "location": "Mayfield (East Staffordshire)",
+      "postcode": "DE6 2DG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Brighton and Hove",
-      "postcode": "BN2 5RQ",
+      "location": "Dundee",
+      "postcode": "DD2 4NA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bury (Bury)",
-      "postcode": "BL9 7TA",
+      "location": "Shavington",
+      "postcode": "CW2 5BX",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Harwich",
+      "postcode": "CO12 4BN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Bournemouth",
-      "postcode": "BH8 9PF",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Birmingham",
-      "postcode": "B26 3AS",
+      "postcode": "BH3 7HG",
       "prize": 1000.0
     }
   ]
