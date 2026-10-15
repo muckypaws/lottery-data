@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-10-15T19:32:15.359765Z"
+    "revision": "2026-10-15T21:01:41.914923Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -289,13 +289,13 @@
     },
     "set-for-life": {
       "display_name": "Set For Life",
-      "expected_draw_date": "2026-10-12",
+      "expected_draw_date": "2026-10-15",
       "latest_draw": 792,
       "latest_draw_date": "2026-10-15",
       "prizes": "current",
       "publication_due_utc": "2026-10-15T21:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "thunderball": {
       "display_name": "Thunderball",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-10-15T19:32:15.359765Z",
+  "generated_utc": "2026-10-15T21:01:41.914923Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
