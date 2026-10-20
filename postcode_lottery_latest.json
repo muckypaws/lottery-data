@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-10-19",
+  "draw_date": "2026-10-20",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Wolverhampton",
-      "postcode": "WV3 8NF",
+      "location": "Welshpool",
+      "postcode": "SY21 8PP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Middlesbrough",
-      "postcode": "TS1 3JR",
+      "location": "Lyneham",
+      "postcode": "SN15 4ST",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Probus",
-      "postcode": "TR2 4AU",
+      "location": "Maidenhead",
+      "postcode": "SL6 1DB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Slough",
-      "postcode": "SL1 2XL",
+      "location": "Tacolneston",
+      "postcode": "NR16 1LQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hucknall",
-      "postcode": "NG15 6GS",
+      "location": "Tynemouth",
+      "postcode": "NE30 3HR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wateringbury",
-      "postcode": "ME18 5AJ",
+      "location": "Haringey",
+      "postcode": "N8 8LT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Denbigh",
-      "postcode": "LL16 4BB",
+      "location": "Enfield",
+      "postcode": "N18 2LT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Leicester",
-      "postcode": "LE1 4PJ",
+      "location": "Maidstone",
+      "postcode": "ME15 8HQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Felixstowe",
-      "postcode": "IP11 9LN",
+      "location": "Eaton Bray and Edlesborough",
+      "postcode": "LU6 2QE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Cheltenham",
-      "postcode": "GL52 3PQ",
+      "location": "Leeds",
+      "postcode": "LS4 2PD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Waltham Forest",
-      "postcode": "E17 8AG",
+      "location": "Ulverston",
+      "postcode": "LA12 9JE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Grimsby",
-      "postcode": "DN37 9NJ",
+      "location": "Kingston upon Hull",
+      "postcode": "HU4 6XU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wigtown",
-      "postcode": "DG8 9PP",
+      "location": "Stonehouse (Stroud)",
+      "postcode": "GL10 2BS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "West Bergholt",
-      "postcode": "CO6 3TA",
+      "location": "Enfield",
+      "postcode": "EN3 5BS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Cardiff",
-      "postcode": "CF5 2RR",
+      "location": "Edinburgh",
+      "postcode": "EH12 5AL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Kingswood and Fishponds",
-      "postcode": "BS5 7QU",
+      "location": "Bebington",
+      "postcode": "CH63 0HU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Herstmonceux",
-      "postcode": "BN27 4LW",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Eastbourne",
-      "postcode": "BN20 8AT",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Verwood",
-      "postcode": "BH31 6BL",
+      "location": "Knowle and Dorridge",
+      "postcode": "B93 9LY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Royal Sutton Coldfield",
-      "postcode": "B76 2UX",
+      "postcode": "B73 6BD",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Birmingham",
+      "postcode": "B34 7RB",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Longside",
+      "postcode": "AB42 4JA",
       "prize": 1000.0
     }
   ]
