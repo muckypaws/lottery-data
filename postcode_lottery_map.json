@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-10-22T19:33:02.713758Z",
-  "latest_draw_date": "2026-10-22",
+  "generated_utc": "2026-10-23T19:35:51.954066Z",
+  "latest_draw_date": "2026-10-23",
   "note": "Historical winning postcode frequency is not a measure of winning odds; ticket participation by postcode is not represented in this dataset.",
   "postcodes": [
     {
@@ -48135,6 +48135,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 52.297118,
+      "location": "Redditch",
+      "longitude": -1.886585,
+      "postcode": "B98 0AT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2024-06-26",
       "latest_win": "2024-06-26",
       "latitude": 52.295148,
@@ -86464,6 +86484,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 50.751745,
+      "location": "Christchurch",
+      "longitude": -1.789778,
+      "postcode": "BH23 2TH",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2021-03-13",
       "latest_win": "2021-03-13",
       "latitude": 50.744219,
@@ -93819,6 +93859,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 53.583784,
+      "location": "Bolton (Bolton)",
+      "longitude": -2.386208,
+      "postcode": "BL2 6PL",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-04-18",
       "latest_win": "2025-04-18",
       "latitude": 53.582459,
@@ -95146,6 +95206,26 @@
         {
           "category": "Daily",
           "date": "2017-09-28",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 53.548388,
+      "location": "Farnworth",
+      "longitude": -2.410381,
+      "postcode": "BL4 0AB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
           "prize": 1000.0
         }
       ]
@@ -134788,6 +134868,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 51.59087,
+      "location": "Alveston",
+      "longitude": -2.53751,
+      "postcode": "BS35 3PT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2021-06-02",
       "latest_win": "2021-06-02",
       "latitude": 51.586628,
@@ -166576,6 +166676,26 @@
         {
           "category": "Daily",
           "date": "2023-01-05",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 51.569257,
+      "location": "Church Village",
+      "longitude": -3.320703,
+      "postcode": "CF38 1DN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
           "prize": 1000.0
         }
       ]
@@ -269486,6 +269606,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 56.470452,
+      "location": "Invergowrie",
+      "longitude": -3.068957,
+      "postcode": "DD2 5GX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2019-06-25",
       "latest_win": "2024-10-10",
       "latitude": 56.458304,
@@ -360266,6 +360406,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 55.852152,
+      "location": "Humbie",
+      "longitude": -2.860367,
+      "postcode": "EH36 5PX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2025-08-24",
       "latest_win": "2025-08-24",
       "latitude": 55.792836,
@@ -422203,6 +422363,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 55.793015,
+      "location": "Blantyre",
+      "longitude": -4.092279,
+      "postcode": "G72 0AY",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2021-02-08",
       "latest_win": "2021-02-08",
       "latitude": 55.79218,
@@ -479484,6 +479664,26 @@
         {
           "category": "Daily",
           "date": "2017-09-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 51.807466,
+      "location": "Tring",
+      "longitude": -0.671787,
+      "postcode": "HP23 4NR",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
           "prize": 1000.0
         }
       ]
@@ -569472,6 +569672,26 @@
         {
           "category": "Daily",
           "date": "2026-02-17",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 54.033515,
+      "location": "Lancaster",
+      "longitude": -2.784211,
+      "postcode": "LA1 4HT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
           "prize": 1000.0
         }
       ]
@@ -674528,6 +674748,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 51.204183,
+      "location": "Maidstone",
+      "longitude": 0.616501,
+      "postcode": "ME17 3EA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2018-10-19",
       "latest_win": "2018-10-19",
       "latitude": 51.233623,
@@ -722824,6 +723064,26 @@
         {
           "category": "Daily",
           "date": "2026-08-27",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 54.973067,
+      "location": "Hebburn",
+      "longitude": -1.506317,
+      "postcode": "NE31 2SE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
           "prize": 1000.0
         }
       ]
@@ -821702,6 +821962,26 @@
         {
           "category": "Daily",
           "date": "2021-08-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 51.726601,
+      "location": "Bampton (West Oxfordshire)",
+      "longitude": -1.503642,
+      "postcode": "OX18 2DZ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
           "prize": 1000.0
         }
       ]
@@ -1013899,6 +1014179,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 52.093052,
+      "location": "Royston (North Hertfordshire)",
+      "longitude": 0.073001,
+      "postcode": "SG8 7SR",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2021-10-18",
       "latest_win": "2021-10-18",
       "latitude": 52.092921,
@@ -1055314,6 +1055614,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 50.973783,
+      "location": "Bishop's Waltham",
+      "longitude": -1.256618,
+      "postcode": "SO32 1HJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2020-03-30",
       "latest_win": "2020-03-30",
       "latitude": 50.951316,
@@ -1093559,6 +1093879,26 @@
         {
           "category": "Daily",
           "date": "2022-12-10",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 52.953943,
+      "location": "Keele",
+      "longitude": -2.310867,
+      "postcode": "ST5 5EB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
           "prize": 1000.0
         }
       ]
@@ -1195203,6 +1195543,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 51.489372,
+      "location": "Hounslow",
+      "longitude": -0.256841,
+      "postcode": "W4 2BU",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2020-01-10",
       "latest_win": "2020-01-10",
       "latitude": 51.489897,
@@ -1197025,6 +1197385,26 @@
         {
           "category": "Daily",
           "date": "2022-12-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 51.525325,
+      "location": "City of Westminster",
+      "longitude": -0.197934,
+      "postcode": "W9 2AE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
           "prize": 1000.0
         }
       ]
@@ -1261932,6 +1262312,26 @@
         {
           "category": "Daily",
           "date": "2022-02-16",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-23",
+      "latest_win": "2026-10-23",
+      "latitude": 53.962824,
+      "location": "York",
+      "longitude": -1.102399,
+      "postcode": "YO26 4XW",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-23",
           "prize": 1000.0
         }
       ]
