@@ -1,125 +1,131 @@
 {
-  "draw_date": "2026-10-23",
-  "winner_count": 20,
+  "draw_date": "2026-10-24",
+  "winner_count": 21,
   "winners": [
     {
+      "category": "Millionaire Street",
+      "location": "Paignton",
+      "postcode": "TQ4 5LY",
+      "prize": 90909.0
+    },
+    {
       "category": "Daily",
-      "location": "York",
-      "postcode": "YO26 4XW",
+      "location": "Middlesbrough",
+      "postcode": "TS8 9EW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "City of Westminster",
-      "postcode": "W9 2AE",
+      "location": "Market Drayton",
+      "postcode": "TF9 1NU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hounslow",
-      "postcode": "W4 2BU",
+      "location": "Lambeth",
+      "postcode": "SW16 1PS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Keele",
-      "postcode": "ST5 5EB",
+      "location": "Tisbury",
+      "postcode": "SP3 6JL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bishop's Waltham",
-      "postcode": "SO32 1HJ",
+      "location": "Totton",
+      "postcode": "SO40 2NU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Royston (North Hertfordshire)",
-      "postcode": "SG8 7SR",
+      "location": "Corsham",
+      "postcode": "SN13 0NX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bampton (West Oxfordshire)",
-      "postcode": "OX18 2DZ",
+      "location": "Stanstead Abbotts",
+      "postcode": "SG12 8SN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hebburn",
-      "postcode": "NE31 2SE",
+      "location": "Neath",
+      "postcode": "SA11 3PD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Maidstone",
-      "postcode": "ME17 3EA",
+      "location": "Milton Keynes",
+      "postcode": "MK5 8DQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Lancaster",
-      "postcode": "LA1 4HT",
+      "location": "Winslow",
+      "postcode": "MK18 3QB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Tring",
-      "postcode": "HP23 4NR",
+      "location": "Woburn",
+      "postcode": "MK17 9NZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Blantyre",
-      "postcode": "G72 0AY",
+      "location": "Camelon",
+      "postcode": "FK1 4LT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Humbie",
-      "postcode": "EH36 5PX",
+      "location": "Redbridge",
+      "postcode": "E18 1EW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Invergowrie",
-      "postcode": "DD2 5GX",
+      "location": "Shildon",
+      "postcode": "DL4 2JP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Church Village",
-      "postcode": "CF38 1DN",
+      "location": "Gravesend",
+      "postcode": "DA12 4SN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Alveston",
-      "postcode": "BS35 3PT",
+      "location": "Halstead (Braintree)",
+      "postcode": "CO9 2FZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Farnworth",
-      "postcode": "BL4 0AB",
+      "location": "Bristol",
+      "postcode": "BS4 2RD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bolton (Bolton)",
-      "postcode": "BL2 6PL",
+      "location": "Kingston near Lewes",
+      "postcode": "BN7 3AH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Christchurch",
-      "postcode": "BH23 2TH",
+      "location": "Birmingham",
+      "postcode": "B23 7NY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Redditch",
-      "postcode": "B98 0AT",
+      "location": "Birmingham",
+      "postcode": "B23 5GB",
       "prize": 1000.0
     }
   ]
