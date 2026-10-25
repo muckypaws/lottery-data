@@ -1,131 +1,125 @@
 {
-  "draw_date": "2026-10-24",
-  "winner_count": 21,
+  "draw_date": "2026-10-25",
+  "winner_count": 20,
   "winners": [
     {
-      "category": "Millionaire Street",
-      "location": "Paignton",
-      "postcode": "TQ4 5LY",
-      "prize": 90909.0
-    },
-    {
       "category": "Daily",
-      "location": "Middlesbrough",
-      "postcode": "TS8 9EW",
+      "location": "Pontefract",
+      "postcode": "WF8 4LF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Market Drayton",
-      "postcode": "TF9 1NU",
+      "location": "Bomere Heath",
+      "postcode": "SY4 3DJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Lambeth",
-      "postcode": "SW16 1PS",
+      "location": "Redlynch and Woodfalls",
+      "postcode": "SP5 2JZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Tisbury",
-      "postcode": "SP3 6JL",
+      "location": "Reddish",
+      "postcode": "SK5 6NF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Totton",
-      "postcode": "SO40 2NU",
+      "location": "Wath upon Dearne",
+      "postcode": "S63 6EU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Corsham",
-      "postcode": "SN13 0NX",
+      "location": "Barking and Dagenham",
+      "postcode": "RM6 6TD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Stanstead Abbotts",
-      "postcode": "SG12 8SN",
+      "location": "Bracknell",
+      "postcode": "RG12 9FY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Neath",
-      "postcode": "SA11 3PD",
+      "location": "Llanfoist",
+      "postcode": "NP7 9UH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Milton Keynes",
-      "postcode": "MK5 8DQ",
+      "location": "Kendal",
+      "postcode": "LA9 5PZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Winslow",
-      "postcode": "MK18 3QB",
+      "location": "Kilmarnock",
+      "postcode": "KA1 2ET",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Woburn",
-      "postcode": "MK17 9NZ",
+      "location": "Halesworth",
+      "postcode": "IP19 8EQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Camelon",
-      "postcode": "FK1 4LT",
+      "location": "Waltham Forest",
+      "postcode": "E10 6AZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Redbridge",
-      "postcode": "E18 1EW",
+      "location": "Dundee",
+      "postcode": "DD2 3GW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Shildon",
-      "postcode": "DL4 2JP",
+      "location": "Bexley",
+      "postcode": "DA15 9HH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Gravesend",
-      "postcode": "DA12 4SN",
+      "location": "Nuneaton",
+      "postcode": "CV10 9QJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Halstead (Braintree)",
-      "postcode": "CO9 2FZ",
+      "location": "Ramsgate",
+      "postcode": "CT11 0EL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bristol",
-      "postcode": "BS4 2RD",
+      "location": "Shotton",
+      "postcode": "CH5 1LS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Kingston near Lewes",
-      "postcode": "BN7 3AH",
+      "location": "Haverhill",
+      "postcode": "CB9 9NQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Birmingham",
-      "postcode": "B23 7NY",
+      "location": "Brighton and Hove",
+      "postcode": "BN3 4JE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Birmingham",
-      "postcode": "B23 5GB",
+      "location": "Walton (Mendip)",
+      "postcode": "BA16 9QQ",
       "prize": 1000.0
     }
   ]
