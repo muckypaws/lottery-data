@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-10-25",
+  "draw_date": "2026-10-26",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Pontefract",
-      "postcode": "WF8 4LF",
+      "location": "Torquay",
+      "postcode": "TQ1 3LS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bomere Heath",
-      "postcode": "SY4 3DJ",
+      "location": "Jedburgh",
+      "postcode": "TD8 6TZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Redlynch and Woodfalls",
-      "postcode": "SP5 2JZ",
+      "location": "Lambeth",
+      "postcode": "SW9 7NJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Reddish",
-      "postcode": "SK5 6NF",
+      "location": "Southend-on-Sea",
+      "postcode": "SS0 9PX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wath upon Dearne",
-      "postcode": "S63 6EU",
+      "location": "Greenwich",
+      "postcode": "SE3 7JP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Barking and Dagenham",
-      "postcode": "RM6 6TD",
+      "location": "Kidwelly",
+      "postcode": "SA17 4NZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bracknell",
-      "postcode": "RG12 9FY",
+      "location": "Wingerworth",
+      "postcode": "S42 6SN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Llanfoist",
-      "postcode": "NP7 9UH",
+      "location": "Chorley",
+      "postcode": "PR6 0TB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Kendal",
-      "postcode": "LA9 5PZ",
+      "location": "Newport (Isle of Wight)",
+      "postcode": "PO30 1EB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Kilmarnock",
-      "postcode": "KA1 2ET",
+      "location": "Wisbech St Mary",
+      "postcode": "PE13 4AR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Halesworth",
-      "postcode": "IP19 8EQ",
+      "location": "Llanberis",
+      "postcode": "LL55 4AG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Waltham Forest",
-      "postcode": "E10 6AZ",
+      "location": "Stanley (County Durham)",
+      "postcode": "DH9 0PB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Dundee",
-      "postcode": "DD2 3GW",
+      "location": "Borrowash",
+      "postcode": "DE72 3LP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bexley",
-      "postcode": "DA15 9HH",
+      "location": "Woodville",
+      "postcode": "DE11 7LY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Nuneaton",
-      "postcode": "CV10 9QJ",
+      "location": "Forfar",
+      "postcode": "DD8 1XX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ramsgate",
-      "postcode": "CT11 0EL",
+      "location": "Chester",
+      "postcode": "CH1 5UF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Shotton",
-      "postcode": "CH5 1LS",
+      "location": "Cardiff",
+      "postcode": "CF5 5LL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Haverhill",
-      "postcode": "CB9 9NQ",
+      "location": "Nelson (Caerphilly)",
+      "postcode": "CF46 6BE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Brighton and Hove",
-      "postcode": "BN3 4JE",
+      "location": "Bournemouth",
+      "postcode": "BH11 8SJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Walton (Mendip)",
-      "postcode": "BA16 9QQ",
+      "location": "Birmingham",
+      "postcode": "B18 6DZ",
       "prize": 1000.0
     }
   ]
