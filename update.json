@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-10-26T20:32:25.617934Z"
+    "revision": "2026-10-26T22:04:33.281909Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -54,42 +54,42 @@
     "irish_lotto_plus1_prizes.csv": {
       "file": "irish_lotto_plus1_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-24",
-      "rows": 2724,
-      "sha256": "f9aa3fd75cbeee26346d0862ca1069b8255576c7bd450606a7d2ef0eed5df4bf",
-      "size_bytes": 213168
+      "latest_draw_date": "2026-10-26",
+      "rows": 2725,
+      "sha256": "c02adace4f76ac7535169ae6d1748e131d5ac9b727becd2f2f4f6988bbdf672f",
+      "size_bytes": 213269
     },
     "irish_lotto_plus1_results.csv": {
       "file": "irish_lotto_plus1_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-24",
-      "rows": 2724,
-      "sha256": "7f7bf952889a7755842ebb06b18a6ef41300fc11222260639bb1914997deef5e",
-      "size_bytes": 126081
+      "latest_draw_date": "2026-10-26",
+      "rows": 2725,
+      "sha256": "72263ae7352febbe9156ef6c163771a423a6f1db000eeccda6dbb8e4b707db18",
+      "size_bytes": 126128
     },
     "irish_lotto_plus2_prizes.csv": {
       "file": "irish_lotto_plus2_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-24",
-      "rows": 2531,
-      "sha256": "fbbf09c76bd200fee00253d7503db42c256b7422874e6e3e8f6a927d304f9da9",
-      "size_bytes": 197704
+      "latest_draw_date": "2026-10-26",
+      "rows": 2532,
+      "sha256": "5471dd279c922af6781cd1e7d396aa3c3d169d5f40e718b25ae2f7bd5f6e3e6d",
+      "size_bytes": 197806
     },
     "irish_lotto_plus2_results.csv": {
       "file": "irish_lotto_plus2_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-24",
-      "rows": 2531,
-      "sha256": "8d16d83874e7a2386dc42c7922ef44a7f0ac4184ea6c512220ccde1dcf70b8da",
-      "size_bytes": 117234
+      "latest_draw_date": "2026-10-26",
+      "rows": 2532,
+      "sha256": "63575819b5f00b7934e6ec12fac34ad9975525f633a3505cd95b84d1b4c6396d",
+      "size_bytes": 117281
     },
     "irish_lotto_prizes.csv": {
       "file": "irish_lotto_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-24",
-      "rows": 3917,
-      "sha256": "7810fd93ac6148ae6d919ec8bf695218a01560353ffb25a17475a4e89ac6b1a7",
-      "size_bytes": 301955
+      "latest_draw_date": "2026-10-26",
+      "rows": 3918,
+      "sha256": "7e7d0ecaba02bc1fc7e39fecd2ef0ab53b9bc5f20a5b6b19cdf9f8ab7ee9c179",
+      "size_bytes": 302067
     },
     "irish_lotto_raffles.csv": {
       "file": "irish_lotto_raffles.csv",
@@ -102,10 +102,10 @@
     "irish_lotto_results.csv": {
       "file": "irish_lotto_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-24",
-      "rows": 3917,
-      "sha256": "16bbd30031bc779ce5fa89b4d47419e3a6d84f475dca431047428e9d346f3580",
-      "size_bytes": 222786
+      "latest_draw_date": "2026-10-26",
+      "rows": 3918,
+      "sha256": "82f3bcf73b27cf6175fc86b9c17c6d619d1d10b5900b278cc68a52186c05fcd9",
+      "size_bytes": 222844
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
@@ -221,7 +221,7 @@
       "display_name": "Irish Lotto",
       "expected_draw_date": "2026-10-24",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-24",
+      "latest_draw_date": "2026-10-26",
       "prizes": "current",
       "publication_due_utc": "2026-10-24T21:15:00Z",
       "results": "current",
@@ -231,7 +231,7 @@
       "display_name": "Irish Lotto Plus 1",
       "expected_draw_date": "2026-10-24",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-24",
+      "latest_draw_date": "2026-10-26",
       "prizes": "current",
       "publication_due_utc": "2026-10-24T21:15:00Z",
       "results": "current",
@@ -241,7 +241,7 @@
       "display_name": "Irish Lotto Plus 2",
       "expected_draw_date": "2026-10-24",
       "latest_draw": null,
-      "latest_draw_date": "2026-10-24",
+      "latest_draw_date": "2026-10-26",
       "prizes": "current",
       "publication_due_utc": "2026-10-24T21:15:00Z",
       "results": "current",
@@ -289,13 +289,13 @@
     },
     "set-for-life": {
       "display_name": "Set For Life",
-      "expected_draw_date": "2026-10-22",
+      "expected_draw_date": "2026-10-26",
       "latest_draw": 795,
       "latest_draw_date": "2026-10-26",
       "prizes": "current",
       "publication_due_utc": "2026-10-26T22:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "thunderball": {
       "display_name": "Thunderball",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-10-26T20:32:25.617934Z",
+  "generated_utc": "2026-10-26T22:04:33.281909Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
