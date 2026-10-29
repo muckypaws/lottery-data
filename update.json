@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-10-29T00:02:32.453142Z"
+    "revision": "2026-10-29T08:32:51.197767Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -157,19 +157,19 @@
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
-      "latest_draw": 42,
+      "latest_draw": 43,
       "latest_draw_date": null,
-      "rows": 42,
-      "sha256": "490791964336f8eac305460af40ec4328f8b43770cab15e2708e6bda901cc766",
-      "size_bytes": 7021
+      "rows": 43,
+      "sha256": "4b4d86656b09270a350a2e42d0867a6a8136a9d3206b24e1a79103dd71810269",
+      "size_bytes": 7187
     },
     "powerball_results.csv": {
       "file": "powerball_results.csv",
-      "latest_draw": 42,
-      "latest_draw_date": "2026-10-27",
-      "rows": 42,
-      "sha256": "db2c0f7edbc1c0163b5bc8ba632aa310564b7b29794bc343437edfcd56b4d29f",
-      "size_bytes": 2421
+      "latest_draw": 43,
+      "latest_draw_date": "2026-10-29",
+      "rows": 43,
+      "sha256": "d2edaa85cb11606d605f89554a243164a1b631c6c7233a8df49a064292390e35",
+      "size_bytes": 2479
     },
     "set_for_life_prizes.csv": {
       "file": "set_for_life_prizes.csv",
@@ -280,8 +280,8 @@
     "powerball": {
       "display_name": "Powerball",
       "expected_draw_date": "2026-10-27",
-      "latest_draw": 42,
-      "latest_draw_date": "2026-10-27",
+      "latest_draw": 43,
+      "latest_draw_date": "2026-10-29",
       "prizes": "current",
       "publication_due_utc": "2026-10-29T13:15:00Z",
       "results": "current",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-10-29T00:02:32.453142Z",
+  "generated_utc": "2026-10-29T08:32:51.197767Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
