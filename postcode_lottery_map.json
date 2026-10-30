@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-10-29T20:33:26.423498Z",
-  "latest_draw_date": "2026-10-29",
+  "generated_utc": "2026-10-30T20:35:33.989075Z",
+  "latest_draw_date": "2026-10-30",
   "note": "Historical winning postcode frequency is not a measure of winning odds; ticket participation by postcode is not represented in this dataset.",
   "postcodes": [
     {
@@ -54311,6 +54311,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 51.380974,
+      "location": "Corston (Bath and North East Somerset)",
+      "longitude": -2.431258,
+      "postcode": "BA2 9DH",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-05-22",
       "latest_win": "2026-05-22",
       "latitude": 50.940271,
@@ -101887,6 +101907,26 @@
     },
     {
       "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 50.818449,
+      "location": "Worthing",
+      "longitude": -0.420427,
+      "postcode": "BN12 6GA",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
         "Street Prize"
       ],
       "first_win": "2020-03-21",
@@ -114824,6 +114864,26 @@
         {
           "category": "Daily",
           "date": "2017-10-16",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 50.835147,
+      "location": "Shoreham-by-Sea",
+      "longitude": -0.251145,
+      "postcode": "BN43 6LG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
           "prize": 1000.0
         }
       ]
@@ -145410,14 +145470,19 @@
         "Daily"
       ],
       "first_win": "2020-06-02",
-      "latest_win": "2020-06-02",
+      "latest_win": "2026-10-30",
       "latitude": 54.578875,
       "location": "Appleby-in-Westmorland",
       "longitude": -2.485504,
       "postcode": "CA16 6JA",
-      "total_known_prize": 1000,
-      "win_count": 1,
+      "total_known_prize": 2000,
+      "win_count": 2,
       "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        },
         {
           "category": "Daily",
           "date": "2020-06-02",
@@ -169216,6 +169281,26 @@
         {
           "category": "Daily",
           "date": "2022-06-27",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 51.6427,
+      "location": "Tylorstown and Pontygwaith",
+      "longitude": -3.442486,
+      "postcode": "CF43 3RW",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
           "prize": 1000.0
         }
       ]
@@ -210142,6 +210227,26 @@
         {
           "category": "Daily",
           "date": "2019-07-04",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 51.936513,
+      "location": "Harwich",
+      "longitude": 1.201553,
+      "postcode": "CO12 5NF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
           "prize": 1000.0
         }
       ]
@@ -330250,6 +330355,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 50.693794,
+      "location": "Charminster",
+      "longitude": -2.668538,
+      "postcode": "DT2 9DN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2023-07-07",
       "latest_win": "2023-07-07",
       "latitude": 50.722735,
@@ -401688,6 +401813,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 53.837387,
+      "location": "Blackpool",
+      "longitude": -3.016998,
+      "postcode": "FY3 7LT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-05-03",
       "latest_win": "2026-05-03",
       "latitude": 53.831567,
@@ -469073,6 +469218,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 53.629143,
+      "location": "Linthwaite and Slaithwaite",
+      "longitude": -1.879417,
+      "postcode": "HD7 5DB",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2020-06-21",
       "latest_win": "2020-06-21",
       "latitude": 53.627227,
@@ -519653,14 +519818,19 @@
         "Daily"
       ],
       "first_win": "2015-07-31",
-      "latest_win": "2015-07-31",
+      "latest_win": "2026-10-30",
       "latitude": 51.970854,
-      "location": "Shotley",
+      "location": "Chelmondiston",
       "longitude": 1.252669,
       "postcode": "IP9 1NW",
-      "total_known_prize": 1000,
-      "win_count": 1,
+      "total_known_prize": 2000,
+      "win_count": 2,
       "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        },
         {
           "category": "Daily",
           "date": "2015-07-31",
@@ -592688,6 +592858,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 52.644988,
+      "location": "Leicester",
+      "longitude": -1.099798,
+      "postcode": "LE5 0NH",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2016-06-28",
       "latest_win": "2016-06-28",
       "latitude": 52.643244,
@@ -622019,6 +622209,26 @@
         {
           "category": "Daily",
           "date": "2026-03-29",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 53.40172,
+      "location": "Binbrook",
+      "longitude": -0.19356,
+      "postcode": "LN8 6AR",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
           "prize": 1000.0
         }
       ]
@@ -763425,6 +763635,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 52.255757,
+      "location": "Daventry",
+      "longitude": -1.165484,
+      "postcode": "NN11 4XZ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-09-04",
       "latest_win": "2026-09-04",
       "latitude": 52.218896,
@@ -788402,6 +788632,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 52.590333,
+      "location": "Acle",
+      "longitude": 1.556939,
+      "postcode": "NR13 3NY",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2019-06-19",
       "latest_win": "2019-06-19",
       "latitude": 52.605531,
@@ -801852,6 +802102,26 @@
           "category": "Street Prize",
           "date": "2017-04-02",
           "prize": 30000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 52.65419,
+      "location": "Norwich",
+      "longitude": 1.336169,
+      "postcode": "NR7 8LS",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
         }
       ]
     },
@@ -856183,6 +856453,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 52.487529,
+      "location": "Yaxley (Huntingdonshire)",
+      "longitude": -0.292412,
+      "postcode": "PE7 3RG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2021-06-03",
       "latest_win": "2021-06-03",
       "latitude": 52.505328,
@@ -865440,6 +865730,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 50.521413,
+      "location": "Pensilva",
+      "longitude": -4.42793,
+      "postcode": "PL14 5AU",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2023-12-12",
       "latest_win": "2023-12-12",
       "latitude": 50.489557,
@@ -868032,6 +868342,26 @@
         {
           "category": "Daily",
           "date": "2025-08-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 50.507277,
+      "location": "Yelverton",
+      "longitude": -4.069364,
+      "postcode": "PL20 6JN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
           "prize": 1000.0
         }
       ]
@@ -1185390,6 +1185720,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 51.428704,
+      "location": "Ashford (Spelthorne)",
+      "longitude": -0.43839,
+      "postcode": "TW15 1PH",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2021-08-21",
       "latest_win": "2021-08-21",
       "latitude": 51.423681,
@@ -1235334,6 +1235684,26 @@
         {
           "category": "Daily",
           "date": "2022-03-02",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-10-30",
+      "latest_win": "2026-10-30",
+      "latitude": 53.548216,
+      "location": "Skelmersdale",
+      "longitude": -2.798273,
+      "postcode": "WN8 8DF",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-10-30",
           "prize": 1000.0
         }
       ]
