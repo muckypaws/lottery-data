@@ -1,131 +1,125 @@
 {
-  "draw_date": "2026-10-31",
-  "winner_count": 21,
+  "draw_date": "2026-11-01",
+  "winner_count": 20,
   "winners": [
     {
-      "category": "Millionaire Street",
-      "location": "Newcastle upon Tyne",
-      "postcode": "NE5 3AH",
-      "prize": 333333.0
-    },
-    {
       "category": "Daily",
-      "location": "Watford (Watford)",
-      "postcode": "WD24 4HW",
+      "location": "Middlesbrough",
+      "postcode": "TS5 5PU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Southampton",
-      "postcode": "SO18 2PN",
+      "location": "Sedgefield",
+      "postcode": "TS21 3DU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Swindon (Swindon)",
-      "postcode": "SN3 1PL",
+      "location": "Redcar",
+      "postcode": "TS10 5EN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Devizes",
-      "postcode": "SN10 1BZ",
+      "location": "Perranporth",
+      "postcode": "TR6 0HZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Stevenage",
-      "postcode": "SG1 5RH",
+      "location": "Bexhill-on-Sea",
+      "postcode": "TN39 5DY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Eccles (Salford)",
-      "postcode": "M30 0EG",
+      "location": "Reddish",
+      "postcode": "SK5 7QN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Prescot",
-      "postcode": "L35 2XP",
+      "location": "Tideswell",
+      "postcode": "SK17 8PU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Shelf and Northowram",
-      "postcode": "HX3 7QS",
+      "location": "Hertford",
+      "postcode": "SG13 7PH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Harrogate",
-      "postcode": "HG2 7NQ",
+      "location": "Oxford",
+      "postcode": "OX4 1DG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Harrow",
-      "postcode": "HA1 1PG",
+      "location": "Mansfield",
+      "postcode": "NG19 6BU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bishop's Cleeve",
-      "postcode": "GL52 7SS",
+      "location": "Ashington (Northumberland)",
+      "postcode": "NE63 8HE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Glasgow",
-      "postcode": "G52 2NG",
+      "location": "Enfield",
+      "postcode": "N18 2AP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Fleetwood",
-      "postcode": "FY7 7AB",
+      "location": "Manchester",
+      "postcode": "M21 0RA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Tower Hamlets",
-      "postcode": "E1W 2QR",
+      "location": "Leiston",
+      "postcode": "IP16 4RZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Dartford",
-      "postcode": "DA1 3JP",
+      "location": "Kirkintilloch",
+      "postcode": "G66 5BJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Coventry",
-      "postcode": "CV4 7BG",
+      "location": "Sherborne",
+      "postcode": "DT9 3NT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Woldingham",
-      "postcode": "CR3 7DP",
+      "location": "Derby",
+      "postcode": "DE21 6NX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Carlisle",
-      "postcode": "CA2 5QX",
+      "location": "Margate",
+      "postcode": "CT8 8DQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Yate",
-      "postcode": "BS37 5EP",
+      "location": "Chelmsford",
+      "postcode": "CM2 6DT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Bristol",
-      "postcode": "BS10 6FP",
+      "postcode": "BS5 8RY",
       "prize": 1000.0
     }
   ]
