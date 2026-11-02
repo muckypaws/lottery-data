@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-11-01",
+  "draw_date": "2026-11-02",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Middlesbrough",
-      "postcode": "TS5 5PU",
+      "location": "Normanton (Wakefield)",
+      "postcode": "WF6 2QG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Sedgefield",
-      "postcode": "TS21 3DU",
+      "location": "Helston",
+      "postcode": "TR13 8HR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Redcar",
-      "postcode": "TS10 5EN",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Perranporth",
-      "postcode": "TR6 0HZ",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Bexhill-on-Sea",
-      "postcode": "TN39 5DY",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Reddish",
-      "postcode": "SK5 7QN",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Tideswell",
-      "postcode": "SK17 8PU",
+      "location": "Stoke-on-Trent",
+      "postcode": "ST6 4NJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Hertford",
-      "postcode": "SG13 7PH",
+      "postcode": "SG14 2PQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Oxford",
-      "postcode": "OX4 1DG",
+      "location": "Todmorden",
+      "postcode": "OL14 6NN",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Pontypool",
+      "postcode": "NP4 6BY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Mansfield",
-      "postcode": "NG19 6BU",
+      "postcode": "NG19 6RG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ashington (Northumberland)",
-      "postcode": "NE63 8HE",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Enfield",
-      "postcode": "N18 2AP",
+      "location": "Washington",
+      "postcode": "NE37 1UT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Manchester",
-      "postcode": "M21 0RA",
+      "postcode": "M9 0GG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Leiston",
-      "postcode": "IP16 4RZ",
+      "location": "Little Hulton",
+      "postcode": "M28 0JG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Kirkintilloch",
-      "postcode": "G66 5BJ",
+      "location": "Otley (Leeds)",
+      "postcode": "LS21 3EP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Sherborne",
-      "postcode": "DT9 3NT",
+      "location": "Kirkcaldy",
+      "postcode": "KY2 6PT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Derby",
-      "postcode": "DE21 6NX",
+      "location": "Aston Clinton",
+      "postcode": "HP22 5FW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Margate",
-      "postcode": "CT8 8DQ",
+      "location": "Glasgow",
+      "postcode": "G31 3DB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Chelmsford",
-      "postcode": "CM2 6DT",
+      "location": "Blackpool",
+      "postcode": "FY3 8DR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bristol",
-      "postcode": "BS5 8RY",
+      "location": "Edinburgh",
+      "postcode": "EH16 6JE",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Waltham Forest",
+      "postcode": "E17 9LQ",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Colchester",
+      "postcode": "CO4 0PJ",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Bromley",
+      "postcode": "BR6 7QZ",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Glastonbury",
+      "postcode": "BA6 9FD",
       "prize": 1000.0
     }
   ]
