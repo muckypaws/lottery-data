@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-11-02",
+  "draw_date": "2026-11-03",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Normanton (Wakefield)",
-      "postcode": "WF6 2QG",
+      "location": "Walsall",
+      "postcode": "WS1 2EE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Helston",
-      "postcode": "TR13 8HR",
+      "location": "Middlesbrough",
+      "postcode": "TS5 7DD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Stoke-on-Trent",
-      "postcode": "ST6 4NJ",
+      "location": "Crowborough",
+      "postcode": "TN6 1JA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hertford",
-      "postcode": "SG14 2PQ",
+      "location": "Pontesbury",
+      "postcode": "SY5 0DP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Todmorden",
-      "postcode": "OL14 6NN",
+      "location": "Andover",
+      "postcode": "SP11 8LB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Pontypool",
-      "postcode": "NP4 6BY",
+      "location": "Whaley Bridge",
+      "postcode": "SK23 7GY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Mansfield",
-      "postcode": "NG19 6RG",
+      "location": "Stockport",
+      "postcode": "SK2 5QZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Washington",
-      "postcode": "NE37 1UT",
+      "location": "Greenwich",
+      "postcode": "SE9 5LN",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Sandown",
+      "postcode": "PO36 9DU",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "St Austell",
+      "postcode": "PL25 5ES",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Arnold",
+      "postcode": "NG5 8DP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Manchester",
-      "postcode": "M9 0GG",
+      "postcode": "M19 1QB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Little Hulton",
-      "postcode": "M28 0JG",
+      "location": "Eaton Bray and Edlesborough",
+      "postcode": "LU6 2HT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Otley (Leeds)",
-      "postcode": "LS21 3EP",
+      "location": "Llanfair Pwllgwyngyll",
+      "postcode": "LL61 5AB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Kirkcaldy",
-      "postcode": "KY2 6PT",
+      "location": "Whitwick",
+      "postcode": "LE67 5PN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Aston Clinton",
-      "postcode": "HP22 5FW",
+      "location": "Farncombe",
+      "postcode": "GU7 2NG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Glasgow",
-      "postcode": "G31 3DB",
+      "location": "Thorne",
+      "postcode": "DN8 4JW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Blackpool",
-      "postcode": "FY3 8DR",
+      "location": "Ellesmere Port",
+      "postcode": "CH66 1SZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Edinburgh",
-      "postcode": "EH16 6JE",
+      "location": "Bradford",
+      "postcode": "BD4 0QY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Waltham Forest",
-      "postcode": "E17 9LQ",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Colchester",
-      "postcode": "CO4 0PJ",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Bromley",
-      "postcode": "BR6 7QZ",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Glastonbury",
-      "postcode": "BA6 9FD",
+      "location": "Westbury (Wiltshire)",
+      "postcode": "BA13 2GJ",
       "prize": 1000.0
     }
   ]
