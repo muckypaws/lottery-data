@@ -1,125 +1,131 @@
 {
-  "draw_date": "2026-11-06",
-  "winner_count": 20,
+  "draw_date": "2026-11-07",
+  "winner_count": 21,
   "winners": [
     {
+      "category": "Millionaire Street",
+      "location": "Keighley",
+      "postcode": "BD20 6JL",
+      "prize": 377224.0
+    },
+    {
       "category": "Daily",
-      "location": "Wombourne",
-      "postcode": "WV5 9AA",
+      "location": "Wandsworth",
+      "postcode": "SW17 8QG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hindley",
-      "postcode": "WN2 4HE",
+      "location": "Anna Valley and Upper Clatford",
+      "postcode": "SP11 7LS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Winchelsea Beach",
-      "postcode": "TN36 4BZ",
+      "location": "Thrybergh and Dalton",
+      "postcode": "S65 4QY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ashford (Ashford)",
-      "postcode": "TN24 0RW",
+      "location": "Haywards Heath",
+      "postcode": "RH16 1HW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Waverley and Catcliffe",
-      "postcode": "S60 8GG",
+      "location": "Billingshurst",
+      "postcode": "RH14 9GF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ventnor",
-      "postcode": "PO38 1XF",
+      "location": "Redhill (Reigate and Banstead)",
+      "postcode": "RH1 2EN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Pegswood",
-      "postcode": "NE61 6LN",
+      "location": "Portsmouth",
+      "postcode": "PO6 2DN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Milton Keynes",
-      "postcode": "MK10 9PU",
+      "location": "Peterborough",
+      "postcode": "PE1 5EP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Manchester",
-      "postcode": "M21 0ZN",
+      "location": "Burnopfield",
+      "postcode": "NE16 6NB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Halifax",
-      "postcode": "HX1 2XG",
+      "location": "Gateshead",
+      "postcode": "NE10 0RR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Cottingham",
-      "postcode": "HU16 4PY",
+      "location": "Bletchley",
+      "postcode": "MK3 7PF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Enfield",
-      "postcode": "EN2 7PR",
+      "location": "Tyldesley",
+      "postcode": "M29 7FG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Enfield",
-      "postcode": "EN1 4SW",
+      "location": "Kilbirnie",
+      "postcode": "KA25 7BG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bishop's Stortford",
-      "postcode": "CM23 3SW",
+      "location": "Irvine",
+      "postcode": "KA12 8DS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wallasey",
-      "postcode": "CH46 8UU",
+      "location": "Glasgow",
+      "postcode": "G51 1PS",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Sampford Peverell",
+      "postcode": "EX16 7HJ",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Westwoodside",
+      "postcode": "DN9 2BT",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Colchester",
+      "postcode": "CO4 5WX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Chester",
-      "postcode": "CH3 5LQ",
+      "postcode": "CH1 5XB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bargod",
-      "postcode": "CF81 8LF",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Cockermouth",
-      "postcode": "CA13 9DH",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Shap",
-      "postcode": "CA10 3RE",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Birmingham",
-      "postcode": "B14 4AW",
+      "location": "Crumbles",
+      "postcode": "BN23 5TS",
       "prize": 1000.0
     }
   ]
