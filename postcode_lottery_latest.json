@@ -1,131 +1,125 @@
 {
-  "draw_date": "2026-11-07",
-  "winner_count": 21,
+  "draw_date": "2026-11-08",
+  "winner_count": 20,
   "winners": [
     {
-      "category": "Millionaire Street",
-      "location": "Keighley",
-      "postcode": "BD20 6JL",
-      "prize": 377224.0
-    },
-    {
       "category": "Daily",
-      "location": "Wandsworth",
-      "postcode": "SW17 8QG",
+      "location": "Platt Bridge and Abram",
+      "postcode": "WN2 5LB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Anna Valley and Upper Clatford",
-      "postcode": "SP11 7LS",
+      "location": "Telford",
+      "postcode": "TF2 7HD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Thrybergh and Dalton",
-      "postcode": "S65 4QY",
+      "location": "Southampton",
+      "postcode": "SO16 4HX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Haywards Heath",
-      "postcode": "RH16 1HW",
+      "location": "Corsham",
+      "postcode": "SN13 9EF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Billingshurst",
-      "postcode": "RH14 9GF",
+      "location": "Havering",
+      "postcode": "RM13 8AS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Redhill (Reigate and Banstead)",
-      "postcode": "RH1 2EN",
+      "location": "Terrington St Clement",
+      "postcode": "PE34 4JU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Portsmouth",
-      "postcode": "PO6 2DN",
+      "location": "Spalding",
+      "postcode": "PE11 2LY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Peterborough",
-      "postcode": "PE1 5EP",
+      "location": "Bacup",
+      "postcode": "OL13 9TF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Burnopfield",
-      "postcode": "NE16 6NB",
+      "location": "Grantham",
+      "postcode": "NG31 8SX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Gateshead",
-      "postcode": "NE10 0RR",
+      "postcode": "NE8 2SY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bletchley",
-      "postcode": "MK3 7PF",
+      "location": "Shiremoor",
+      "postcode": "NE27 0TY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Tyldesley",
-      "postcode": "M29 7FG",
+      "location": "Haringey",
+      "postcode": "N15 3JB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Kilbirnie",
-      "postcode": "KA25 7BG",
+      "location": "Gwersyllt",
+      "postcode": "LL11 4DR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Irvine",
-      "postcode": "KA12 8DS",
+      "location": "Wrexham",
+      "postcode": "LL11 2HH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Glasgow",
-      "postcode": "G51 1PS",
+      "location": "Epsom",
+      "postcode": "KT18 5SZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Sampford Peverell",
-      "postcode": "EX16 7HJ",
+      "location": "Sicklesmere",
+      "postcode": "IP30 0HS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Westwoodside",
-      "postcode": "DN9 2BT",
+      "location": "Clydebank",
+      "postcode": "G81 3BX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Colchester",
-      "postcode": "CO4 5WX",
+      "location": "Croydon",
+      "postcode": "CR0 5JP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Chester",
-      "postcode": "CH1 5XB",
+      "location": "Milton (South Cambridgeshire)",
+      "postcode": "CB24 6ED",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Crumbles",
-      "postcode": "BN23 5TS",
+      "location": "Drighlington",
+      "postcode": "BD11 1BD",
       "prize": 1000.0
     }
   ]
