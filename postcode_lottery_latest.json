@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-11-08",
+  "draw_date": "2026-11-09",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Platt Bridge and Abram",
-      "postcode": "WN2 5LB",
+      "location": "Bloxwich",
+      "postcode": "WS3 1SL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Telford",
-      "postcode": "TF2 7HD",
+      "location": "Yarm",
+      "postcode": "TS15 9SZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Southampton",
-      "postcode": "SO16 4HX",
+      "location": "Greenwich",
+      "postcode": "SE9 6AF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Corsham",
-      "postcode": "SN13 9EF",
+      "location": "Ryde",
+      "postcode": "PO33 1JQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Havering",
-      "postcode": "RM13 8AS",
+      "location": "Bicester",
+      "postcode": "OX26 1GE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Terrington St Clement",
-      "postcode": "PE34 4JU",
+      "location": "Blaina",
+      "postcode": "NP13 3EB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Spalding",
-      "postcode": "PE11 2LY",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Bacup",
-      "postcode": "OL13 9TF",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Grantham",
-      "postcode": "NG31 8SX",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Gateshead",
-      "postcode": "NE8 2SY",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Shiremoor",
-      "postcode": "NE27 0TY",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Haringey",
-      "postcode": "N15 3JB",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Gwersyllt",
-      "postcode": "LL11 4DR",
+      "location": "East Boldon and West Boldon",
+      "postcode": "NE36 0UF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Wrexham",
-      "postcode": "LL11 2HH",
+      "postcode": "LL13 9DY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Epsom",
-      "postcode": "KT18 5SZ",
+      "location": "Farncombe",
+      "postcode": "GU7 3RD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Sicklesmere",
-      "postcode": "IP30 0HS",
+      "location": "Coleford (Forest of Dean)",
+      "postcode": "GL16 8JG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Clydebank",
-      "postcode": "G81 3BX",
+      "location": "Ruspidge",
+      "postcode": "GL14 3LD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Croydon",
-      "postcode": "CR0 5JP",
+      "location": "Glasgow",
+      "postcode": "G32 9TF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Milton (South Cambridgeshire)",
-      "postcode": "CB24 6ED",
+      "location": "Sidmouth",
+      "postcode": "EX10 9PY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Drighlington",
-      "postcode": "BD11 1BD",
+      "location": "Edinburgh",
+      "postcode": "EH4 6EQ",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Stranraer",
+      "postcode": "DG9 7DH",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Nuneaton",
+      "postcode": "CV11 6UW",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Mynydd Isa",
+      "postcode": "CH7 6LG",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Bournemouth",
+      "postcode": "BH10 5AQ",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Burnley",
+      "postcode": "BB10 4JP",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Gardenstown",
+      "postcode": "AB45 3LJ",
       "prize": 1000.0
     }
   ]
