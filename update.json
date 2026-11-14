@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-11-14T00:02:20.484788Z"
+    "revision": "2026-11-14T20:36:47.367022Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -109,51 +109,51 @@
     },
     "lotto_hotpicks_prizes.csv": {
       "file": "lotto_hotpicks_prizes.csv",
-      "latest_draw": 3223,
+      "latest_draw": 3224,
       "latest_draw_date": null,
-      "rows": 3268,
-      "sha256": "a24d1cd5e8dec383f4d318f47d5720a5ba575ee0c32d38c00d13dfc012f1499c",
-      "size_bytes": 70099
+      "rows": 3270,
+      "sha256": "7a40a8d377c00d7ae7b3d8b9223a35e63ff9eac096e282e2e42a05a965ff330e",
+      "size_bytes": 70227
     },
     "lotto_hotpicks_results.csv": {
       "file": "lotto_hotpicks_results.csv",
-      "latest_draw": 3223,
-      "latest_draw_date": "2026-11-11",
-      "rows": 3268,
-      "sha256": "92a6176a9f15e8c70dc84f80e8dc83c7263abb837924c7956d5bb0e5047293d5",
-      "size_bytes": 132714
+      "latest_draw": 3224,
+      "latest_draw_date": "2026-11-14",
+      "rows": 3270,
+      "sha256": "90976fd157a39061ff5e93e0a1e42abe46905bf2991d7f15a588f71bcf2de442",
+      "size_bytes": 132808
     },
     "lotto_prizes.csv": {
       "file": "lotto_prizes.csv",
-      "latest_draw": 3223,
+      "latest_draw": 3224,
       "latest_draw_date": null,
-      "rows": 3268,
-      "sha256": "fae8b86d3ae31e2b08a6f242c3022672f649482e2555316dbc583320f9c07cfc",
-      "size_bytes": 123961
+      "rows": 3270,
+      "sha256": "41737d51a0af8f6ff245677f916d1f955806cc9dba5c4421dc46264426241d3f",
+      "size_bytes": 123997
     },
     "lotto_results.csv": {
       "file": "lotto_results.csv",
-      "latest_draw": 3223,
-      "latest_draw_date": "2026-11-11",
-      "rows": 3268,
-      "sha256": "4a46f58e5f16c0bcfdbe8d08f130f0a6ebaff4696c7832a021936aa8d86a2abf",
-      "size_bytes": 201647
+      "latest_draw": 3224,
+      "latest_draw_date": "2026-11-14",
+      "rows": 3270,
+      "sha256": "ce7ff016349ef620deb09b1a73da2e9cd31afb0322a58dba75efe0b976f74cde",
+      "size_bytes": 201755
     },
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-11-13",
-      "rows": 6451,
-      "sha256": "620d02c8c6e7efcd2ccecccc626ae96ef41faa8d060590bbb49ce812d38f6aec",
-      "size_bytes": 182843
+      "latest_draw_date": "2026-11-14",
+      "rows": 6453,
+      "sha256": "4d706025efd7c7f1885788c1f944ca70e93bb3c857942586f085979660abe5a3",
+      "size_bytes": 182906
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-11-13",
-      "rows": 65225,
-      "sha256": "3f0e9a4128c744d8ee9ea8176f44d64a67193aec670f06ffbc8ef5517b31492d",
-      "size_bytes": 2937716
+      "latest_draw_date": "2026-11-14",
+      "rows": 65246,
+      "sha256": "42e182df3a7852ed346355559ea25b4f801ebae4840060569116a8958c764542",
+      "size_bytes": 2938672
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -189,11 +189,11 @@
     },
     "thunderball_results.csv": {
       "file": "thunderball_results.csv",
-      "latest_draw": 4008,
-      "latest_draw_date": "2026-11-13",
-      "rows": 4008,
-      "sha256": "17b65a1ce1e3589e12eb6bbc659059e28554e0ea8efe19d84be59bf43d3e7793",
-      "size_bytes": 250088
+      "latest_draw": 4009,
+      "latest_draw_date": "2026-11-14",
+      "rows": 4009,
+      "sha256": "e4efbd3cfbe24eb85558684180b1ee3548302babb9cf887c6726bd84f7a437b3",
+      "size_bytes": 250148
     }
   },
   "games": {
@@ -250,18 +250,18 @@
     "lotto": {
       "display_name": "Lotto",
       "expected_draw_date": "2026-11-11",
-      "latest_draw": 3223,
-      "latest_draw_date": "2026-11-11",
-      "prizes": "current",
+      "latest_draw": 3224,
+      "latest_draw_date": "2026-11-14",
+      "prizes": "awaiting",
       "publication_due_utc": "2026-11-14T22:15:00Z",
-      "results": "current",
-      "status": "not_due"
+      "results": "awaiting",
+      "status": "awaiting_results"
     },
     "lotto-hotpicks": {
       "display_name": "Lotto HotPicks",
       "expected_draw_date": "2026-11-11",
-      "latest_draw": 3223,
-      "latest_draw_date": "2026-11-11",
+      "latest_draw": 3224,
+      "latest_draw_date": "2026-11-14",
       "prizes": "current",
       "publication_due_utc": "2026-11-14T22:15:00Z",
       "results": "current",
@@ -269,13 +269,13 @@
     },
     "postcode-lottery": {
       "display_name": "Postcode Lottery",
-      "expected_draw_date": "2026-11-13",
+      "expected_draw_date": "2026-11-14",
       "latest_draw": null,
-      "latest_draw_date": "2026-11-13",
+      "latest_draw_date": "2026-11-14",
       "prizes": "current",
       "publication_due_utc": "2026-11-14T21:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -300,20 +300,20 @@
     "thunderball": {
       "display_name": "Thunderball",
       "expected_draw_date": "2026-11-13",
-      "latest_draw": 4008,
-      "latest_draw_date": "2026-11-13",
+      "latest_draw": 4009,
+      "latest_draw_date": "2026-11-14",
       "prizes": "not_applicable",
       "publication_due_utc": "2026-11-14T22:15:00Z",
       "results": "current",
       "status": "not_due"
     }
   },
-  "generated_utc": "2026-11-14T00:02:20.484788Z",
+  "generated_utc": "2026-11-14T20:36:47.367022Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
     "message": "There's a know issue with the server providing the results to the software this evening 6th October 2026, engineers are working on resolving the issue.",
     "motd_number": 103
   },
-  "status": "current"
+  "status": "partial"
 }

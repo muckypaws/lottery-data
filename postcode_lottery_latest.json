@@ -1,125 +1,131 @@
 {
-  "draw_date": "2026-11-13",
-  "winner_count": 20,
+  "draw_date": "2026-11-14",
+  "winner_count": 21,
   "winners": [
     {
+      "category": "Millionaire Street",
+      "location": "Normanton (Wakefield)",
+      "postcode": "WF6 2ST",
+      "prize": 125000.0
+    },
+    {
       "category": "Daily",
-      "location": "Scarborough",
-      "postcode": "YO12 6DQ",
+      "location": "Willenhall",
+      "postcode": "WV13 2HH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Badsey",
-      "postcode": "WR11 7UW",
+      "location": "Etchingham",
+      "postcode": "TN19 7QD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hullbridge",
-      "postcode": "SS5 6NB",
+      "location": "Much Wenlock",
+      "postcode": "TF13 6BU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Lymington",
-      "postcode": "SO41 8BJ",
+      "location": "Basildon",
+      "postcode": "SS13 2EG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Havering",
-      "postcode": "RM12 6SA",
+      "location": "King's Somborne",
+      "postcode": "SO20 6EU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Tadley",
-      "postcode": "RG26 4LP",
+      "location": "Slough",
+      "postcode": "SL2 1QF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Nottingham",
-      "postcode": "NG2 4AY",
+      "location": "Dronfield",
+      "postcode": "S18 2LB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Cotgrave",
-      "postcode": "NG12 3EY",
+      "location": "Paisley",
+      "postcode": "PA2 9JT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Barwick in Elmet",
-      "postcode": "LS15 4PB",
+      "location": "Oxford",
+      "postcode": "OX3 8NF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Horncastle",
-      "postcode": "LN9 6JD",
+      "location": "Tynemouth",
+      "postcode": "NE29 6RG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Leicester",
-      "postcode": "LE5 6AB",
+      "location": "Faversham",
+      "postcode": "ME13 8YS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Clayton West and Scissett",
-      "postcode": "HD8 9WF",
+      "location": "Leeds",
+      "postcode": "LS10 3DB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Broadwell and Coalway",
-      "postcode": "GL16 7JD",
+      "location": "Wrexham",
+      "postcode": "LL11 2DH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Glasgow",
-      "postcode": "G51 4UQ",
+      "location": "Cheltenham",
+      "postcode": "GL51 6SL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Waltham Forest",
-      "postcode": "E4 9NF",
+      "location": "Consett",
+      "postcode": "DH8 0SH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hurworth-on-Tees",
-      "postcode": "DL2 2TW",
+      "location": "Dumfries",
+      "postcode": "DG1 1GQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bexley",
-      "postcode": "DA17 5JB",
+      "location": "Ilkeston",
+      "postcode": "DE7 8PW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Winsford",
-      "postcode": "CW7 1LL",
+      "location": "Derby",
+      "postcode": "DE21 6RT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bebington",
-      "postcode": "CH62 9EG",
+      "location": "Chipping Sodbury",
+      "postcode": "BS37 6DR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Birkenhead",
-      "postcode": "CH43 9JG",
+      "location": "Darwen",
+      "postcode": "BB3 3AA",
       "prize": 1000.0
     }
   ]
