@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-11-17T08:32:49.202077Z"
+    "revision": "2026-11-17T20:37:35.325436Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -142,18 +142,18 @@
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-11-16",
-      "rows": 6455,
-      "sha256": "e4fc8d99ed8fe53cfdde2dec24b68ff12db442cb304c7a672eb4c34cec3939e9",
-      "size_bytes": 182954
+      "latest_draw_date": "2026-11-17",
+      "rows": 6456,
+      "sha256": "eefc2932e122bbffacbfcd125a1c14285f4603e1ce410ba5fba896d75a161df5",
+      "size_bytes": 182978
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-11-16",
-      "rows": 65286,
-      "sha256": "842b1e1de0ed9b6b6078f8ad3486e7d010357438b304eedeb26789a8fa9f7bec",
-      "size_bytes": 2940496
+      "latest_draw_date": "2026-11-17",
+      "rows": 65306,
+      "sha256": "0aa1dc68f089d7742127cafa41bf4e381bcd4a834c3e5c701ec49c31eeca1f9f",
+      "size_bytes": 2941398
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -189,11 +189,11 @@
     },
     "thunderball_results.csv": {
       "file": "thunderball_results.csv",
-      "latest_draw": 4009,
-      "latest_draw_date": "2026-11-14",
-      "rows": 4009,
-      "sha256": "e4efbd3cfbe24eb85558684180b1ee3548302babb9cf887c6726bd84f7a437b3",
-      "size_bytes": 250148
+      "latest_draw": 4010,
+      "latest_draw_date": "2026-11-17",
+      "rows": 4010,
+      "sha256": "3b07092efe7328d7847334dda7ae94839a13f495f702ae5f9c9de7cf4063ba68",
+      "size_bytes": 250207
     }
   },
   "games": {
@@ -269,23 +269,23 @@
     },
     "postcode-lottery": {
       "display_name": "Postcode Lottery",
-      "expected_draw_date": "2026-11-16",
+      "expected_draw_date": "2026-11-17",
       "latest_draw": null,
-      "latest_draw_date": "2026-11-16",
+      "latest_draw_date": "2026-11-17",
       "prizes": "current",
       "publication_due_utc": "2026-11-17T21:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "powerball": {
       "display_name": "Powerball",
-      "expected_draw_date": "2026-11-15",
+      "expected_draw_date": "2026-11-17",
       "latest_draw": 51,
       "latest_draw_date": "2026-11-17",
       "prizes": "current",
       "publication_due_utc": "2026-11-17T13:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "set-for-life": {
       "display_name": "Set For Life",
@@ -300,15 +300,15 @@
     "thunderball": {
       "display_name": "Thunderball",
       "expected_draw_date": "2026-11-14",
-      "latest_draw": 4009,
-      "latest_draw_date": "2026-11-14",
+      "latest_draw": 4010,
+      "latest_draw_date": "2026-11-17",
       "prizes": "not_applicable",
       "publication_due_utc": "2026-11-17T22:15:00Z",
       "results": "current",
       "status": "not_due"
     }
   },
-  "generated_utc": "2026-11-17T08:32:49.202077Z",
+  "generated_utc": "2026-11-17T20:37:35.325436Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
