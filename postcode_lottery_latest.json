@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-11-17",
+  "draw_date": "2026-11-18",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Liversedge",
-      "postcode": "WF15 7LN",
+      "location": "Burntwood",
+      "postcode": "WS7 9BY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Widnes",
-      "postcode": "WA8 0WL",
+      "location": "Ealing",
+      "postcode": "UB6 0NF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hillingdon",
-      "postcode": "UB9 6AH",
+      "location": "Redcar",
+      "postcode": "TS10 5FB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Trimdon",
-      "postcode": "TS29 6HP",
+      "location": "West Kingsdown",
+      "postcode": "TN15 6AU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Falmouth",
-      "postcode": "TR11 5SE",
+      "location": "Sheffield",
+      "postcode": "S12 2UB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Telford",
-      "postcode": "TF4 2EU",
+      "location": "Horrabridge",
+      "postcode": "PL20 7QQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Adlington (Chorley)",
-      "postcode": "PR7 4QE",
+      "location": "Plymouth",
+      "postcode": "PL2 3DZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Camden",
-      "postcode": "NW3 7SB",
+      "location": "Arnold",
+      "postcode": "NG5 6QL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Newport (Newport)",
-      "postcode": "NP20 4DE",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Newport (Newport)",
-      "postcode": "NP19 4PE",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Kettering",
-      "postcode": "NN16 9AD",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Kettering",
-      "postcode": "NN15 6WH",
-      "prize": 1000.0
-    },
-    {
-      "category": "Daily",
-      "location": "Hackney",
-      "postcode": "N1 5AQ",
+      "location": "Yalding",
+      "postcode": "ME18 6DL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
       "location": "Leeds",
-      "postcode": "LS12 4SP",
+      "postcode": "LS9 7RT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Leicester",
-      "postcode": "LE3 0SH",
+      "location": "Wetherby",
+      "postcode": "LS22 7GA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Waltham Forest",
-      "postcode": "E4 6EX",
+      "location": "Coedpoeth",
+      "postcode": "LL11 3RG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Coventry",
-      "postcode": "CV5 6LH",
+      "location": "Ewell",
+      "postcode": "KT19 9GJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Harlow",
-      "postcode": "CM17 9AT",
+      "location": "Bromyard",
+      "postcode": "HR7 4SE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Birkenhead",
-      "postcode": "CH42 8PY",
+      "location": "Stourbridge",
+      "postcode": "DY8 4RT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Accrington",
-      "postcode": "BB5 2TQ",
+      "location": "Carnoustie",
+      "postcode": "DD7 7QZ",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Middlewich",
+      "postcode": "CW10 0RW",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Wallasey",
+      "postcode": "CH46 6BW",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Bristol",
+      "postcode": "BS3 1AR",
+      "prize": 1000.0
+    },
+    {
+      "category": "Daily",
+      "location": "Atherton",
+      "postcode": "BL5 1ET",
       "prize": 1000.0
     }
   ]
