@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-11-19T00:02:17.806634Z"
+    "revision": "2026-11-19T08:33:17.474616Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -128,7 +128,7 @@
       "latest_draw": 3225,
       "latest_draw_date": null,
       "rows": 3272,
-      "sha256": "caf56eb1424309481f4421182534f1a1ae1139346b953ac1bbf89f1cf32f0937",
+      "sha256": "55f310267b50e23397d2d2ac1e5f46e50db6498e1806264dafe5f6bf059b5638",
       "size_bytes": 124115
     },
     "lotto_results.csv": {
@@ -157,19 +157,19 @@
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
-      "latest_draw": 51,
+      "latest_draw": 52,
       "latest_draw_date": null,
-      "rows": 51,
-      "sha256": "e447806a8483b75d1da9c0ed7fe4d6654dd5cdd1fdcb02556a5c0083b55391e0",
-      "size_bytes": 8431
+      "rows": 52,
+      "sha256": "e8f4f1424e7e497f335032ed38b4c17bdc33f991845d9009004f040e3a3eeab3",
+      "size_bytes": 8573
     },
     "powerball_results.csv": {
       "file": "powerball_results.csv",
-      "latest_draw": 51,
-      "latest_draw_date": "2026-11-17",
-      "rows": 51,
-      "sha256": "05da052080a0415e6cc9370c8d8b9dbbb3091fc53f5f279b40dc45688800f53f",
-      "size_bytes": 2927
+      "latest_draw": 52,
+      "latest_draw_date": "2026-11-19",
+      "rows": 52,
+      "sha256": "844550131b17599f3752e51e93d9c5ef9874b3ed974a47633eae5114fdc2acc4",
+      "size_bytes": 2984
     },
     "set_for_life_prizes.csv": {
       "file": "set_for_life_prizes.csv",
@@ -280,8 +280,8 @@
     "powerball": {
       "display_name": "Powerball",
       "expected_draw_date": "2026-11-17",
-      "latest_draw": 51,
-      "latest_draw_date": "2026-11-17",
+      "latest_draw": 52,
+      "latest_draw_date": "2026-11-19",
       "prizes": "current",
       "publication_due_utc": "2026-11-19T13:15:00Z",
       "results": "current",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-11-19T00:02:17.806634Z",
+  "generated_utc": "2026-11-19T08:33:17.474616Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
