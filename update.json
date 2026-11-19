@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-11-19T08:33:17.474616Z"
+    "revision": "2026-11-19T20:33:00.607318Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -128,7 +128,7 @@
       "latest_draw": 3225,
       "latest_draw_date": null,
       "rows": 3272,
-      "sha256": "55f310267b50e23397d2d2ac1e5f46e50db6498e1806264dafe5f6bf059b5638",
+      "sha256": "caf56eb1424309481f4421182534f1a1ae1139346b953ac1bbf89f1cf32f0937",
       "size_bytes": 124115
     },
     "lotto_results.csv": {
@@ -136,24 +136,24 @@
       "latest_draw": 3225,
       "latest_draw_date": "2026-11-18",
       "rows": 3272,
-      "sha256": "f78c6dacf1cc66845eb0cd95232e751c47f88cb70332d8619be2bba69689b006",
+      "sha256": "33f3938e04b8475931b7d859a4c41e38a001eea09b4379c58eaaa899680181ff",
       "size_bytes": 201898
     },
     "postcode_lottery_prizes.csv": {
       "file": "postcode_lottery_prizes.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-11-18",
-      "rows": 6457,
-      "sha256": "f72a8e744305afddb508d5e007df30b15d6b21829237e74e7c672298f8351906",
-      "size_bytes": 183002
+      "latest_draw_date": "2026-11-19",
+      "rows": 6458,
+      "sha256": "e724893d8460f909235b09dad642feeaab6460b9cead3959da69bccf72e177f2",
+      "size_bytes": 183026
     },
     "postcode_lottery_results.csv": {
       "file": "postcode_lottery_results.csv",
       "latest_draw": null,
-      "latest_draw_date": "2026-11-18",
-      "rows": 65326,
-      "sha256": "bfcc0877f06fd193a0dfdf7a5f670a9daa0a618dac491706a1f52b808f34a397",
-      "size_bytes": 2942272
+      "latest_draw_date": "2026-11-19",
+      "rows": 65346,
+      "sha256": "cac6166bf91f52d0d34db46dae23561df77cd07e83e90bd46b82f103aa1b81c7",
+      "size_bytes": 2943191
     },
     "powerball_prizes.csv": {
       "file": "powerball_prizes.csv",
@@ -173,19 +173,19 @@
     },
     "set_for_life_prizes.csv": {
       "file": "set_for_life_prizes.csv",
-      "latest_draw": 801,
+      "latest_draw": 802,
       "latest_draw_date": null,
-      "rows": 801,
-      "sha256": "281caf2b9fcfc1e96ef2bb73543cccff6f73792daa3701962701f069309f0979",
-      "size_bytes": 94446
+      "rows": 802,
+      "sha256": "f95dd37d95842646978a4faedd406b61bf81b8fd91bed23f26dc792036470517",
+      "size_bytes": 94563
     },
     "set_for_life_results.csv": {
       "file": "set_for_life_results.csv",
-      "latest_draw": 801,
-      "latest_draw_date": "2026-11-16",
-      "rows": 801,
-      "sha256": "a0e97e41cfff57522f9241071c6646fa437fd8fba6824205834cc214d5565825",
-      "size_bytes": 50190
+      "latest_draw": 802,
+      "latest_draw_date": "2026-11-19",
+      "rows": 802,
+      "sha256": "8818aae296c0c39a1ad1d356cb1ec9d6d967e09ff752cdd862e2af49e5da9ea5",
+      "size_bytes": 50252
     },
     "thunderball_results.csv": {
       "file": "thunderball_results.csv",
@@ -269,29 +269,29 @@
     },
     "postcode-lottery": {
       "display_name": "Postcode Lottery",
-      "expected_draw_date": "2026-11-18",
+      "expected_draw_date": "2026-11-19",
       "latest_draw": null,
-      "latest_draw_date": "2026-11-18",
+      "latest_draw_date": "2026-11-19",
       "prizes": "current",
       "publication_due_utc": "2026-11-19T21:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "powerball": {
       "display_name": "Powerball",
-      "expected_draw_date": "2026-11-17",
+      "expected_draw_date": "2026-11-19",
       "latest_draw": 52,
       "latest_draw_date": "2026-11-19",
       "prizes": "current",
       "publication_due_utc": "2026-11-19T13:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "set-for-life": {
       "display_name": "Set For Life",
       "expected_draw_date": "2026-11-16",
-      "latest_draw": 801,
-      "latest_draw_date": "2026-11-16",
+      "latest_draw": 802,
+      "latest_draw_date": "2026-11-19",
       "prizes": "current",
       "publication_due_utc": "2026-11-19T22:15:00Z",
       "results": "current",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-11-19T08:33:17.474616Z",
+  "generated_utc": "2026-11-19T20:33:00.607318Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
