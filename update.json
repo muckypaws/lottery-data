@@ -1,55 +1,55 @@
 {
   "data": {
-    "revision": "2026-11-20T20:36:25.306715Z"
+    "revision": "2026-11-20T22:07:53.510948Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
       "file": "euromillions_hotpicks_prizes.csv",
-      "latest_draw": 1999,
+      "latest_draw": 2000,
       "latest_draw_date": null,
-      "rows": 1999,
-      "sha256": "7a067ca433a49e44844b3955fcc01547c34a012558ae0dc4fd38520084acb5bd",
-      "size_bytes": 42885
+      "rows": 2000,
+      "sha256": "b718caa1896ba31a1e7bf66243d0282d516a5be067d1fdd814b6d521d3a6e952",
+      "size_bytes": 42956
     },
     "euromillions_hotpicks_results.csv": {
       "file": "euromillions_hotpicks_results.csv",
-      "latest_draw": 1999,
-      "latest_draw_date": "2026-11-17",
-      "rows": 1999,
-      "sha256": "5885d6367021ee8af6df7342efc055b7de3c09d15cf22c909fec3cc9c3361403",
-      "size_bytes": 73189
+      "latest_draw": 2000,
+      "latest_draw_date": "2026-11-20",
+      "rows": 2000,
+      "sha256": "459fa87b242049eb2ba9858008474c7fbe18405bb073565e6857cfd3308785c8",
+      "size_bytes": 73234
     },
     "euromillions_prizes.csv": {
       "file": "euromillions_prizes.csv",
-      "latest_draw": 1999,
+      "latest_draw": 2000,
       "latest_draw_date": null,
-      "rows": 1999,
-      "sha256": "eaebec9bd61940268f31320049ec4be42601bfe6ecc1b860665459ebf5e0c7a1",
-      "size_bytes": 165235
+      "rows": 2000,
+      "sha256": "fba64d86d0f0f29b14d5eda795c64a445277d03a1f7acbd8f60890480fdfcb65",
+      "size_bytes": 165310
     },
     "euromillions_raffles.csv": {
       "file": "euromillions_raffles.csv",
-      "latest_draw": 1999,
+      "latest_draw": 2000,
       "latest_draw_date": null,
-      "rows": 3283,
-      "sha256": "e50008e08c7349111191b77a13b0b3c61022d92812972a9b87727e8a9f634476",
-      "size_bytes": 55173
+      "rows": 3284,
+      "sha256": "520158023d0b44db7594a130ca354b39c5c866a19e42fac7ee43e4ea5c4f6ec1",
+      "size_bytes": 55190
     },
     "euromillions_results.csv": {
       "file": "euromillions_results.csv",
-      "latest_draw": 1999,
-      "latest_draw_date": "2026-11-17",
-      "rows": 1999,
-      "sha256": "ec39555d0335f0fc9f61699145f921784ff17c69a3c7fe3616899742d9eeea86",
-      "size_bytes": 99699
+      "latest_draw": 2000,
+      "latest_draw_date": "2026-11-20",
+      "rows": 2000,
+      "sha256": "4b869863ce817c2d59513ad7a898c88065c8a57070fccd5707da35f31e07c099",
+      "size_bytes": 99752
     },
     "euromillions_winners.csv": {
       "file": "euromillions_winners.csv",
-      "latest_draw": 1999,
+      "latest_draw": 2000,
       "latest_draw_date": null,
-      "rows": 1999,
-      "sha256": "df367695ad833e7e2fd9de9f5713e4b175572bb0417776355e097017fe638eb7",
-      "size_bytes": 134852
+      "rows": 2000,
+      "sha256": "f97f383f4a6cd4c3f6d07e9bc8ad9c65bd18908bf4fdb29077d831061b8af9e1",
+      "size_bytes": 134920
     },
     "irish_lotto_plus1_prizes.csv": {
       "file": "irish_lotto_plus1_prizes.csv",
@@ -199,23 +199,23 @@
   "games": {
     "euromillions": {
       "display_name": "EuroMillions",
-      "expected_draw_date": "2026-11-17",
-      "latest_draw": 1999,
-      "latest_draw_date": "2026-11-17",
+      "expected_draw_date": "2026-11-20",
+      "latest_draw": 2000,
+      "latest_draw_date": "2026-11-20",
       "prizes": "current",
       "publication_due_utc": "2026-11-20T23:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "euromillions-hotpicks": {
       "display_name": "EuroMillions HotPicks",
-      "expected_draw_date": "2026-11-17",
-      "latest_draw": 1999,
-      "latest_draw_date": "2026-11-17",
+      "expected_draw_date": "2026-11-20",
+      "latest_draw": 2000,
+      "latest_draw_date": "2026-11-20",
       "prizes": "current",
       "publication_due_utc": "2026-11-20T23:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     },
     "irish-lotto": {
       "display_name": "Irish Lotto",
@@ -299,16 +299,16 @@
     },
     "thunderball": {
       "display_name": "Thunderball",
-      "expected_draw_date": "2026-11-18",
+      "expected_draw_date": "2026-11-20",
       "latest_draw": 4012,
       "latest_draw_date": "2026-11-20",
       "prizes": "not_applicable",
       "publication_due_utc": "2026-11-20T22:15:00Z",
       "results": "current",
-      "status": "not_due"
+      "status": "current"
     }
   },
-  "generated_utc": "2026-11-20T20:36:25.306715Z",
+  "generated_utc": "2026-11-20T22:07:53.510948Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
