@@ -1,125 +1,131 @@
 {
-  "draw_date": "2026-11-20",
-  "winner_count": 20,
+  "draw_date": "2026-11-21",
+  "winner_count": 21,
   "winners": [
     {
+      "category": "Millionaire Street",
+      "location": "Hyde (Tameside)",
+      "postcode": "SK14 4GS",
+      "prize": 62500.0
+    },
+    {
       "category": "Daily",
-      "location": "Willenhall",
-      "postcode": "WV13 1DJ",
+      "location": "Chagford",
+      "postcode": "TQ13 8DJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Warrington",
-      "postcode": "WA4 6LZ",
+      "location": "Newton Abbot",
+      "postcode": "TQ12 1PB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Billingham",
-      "postcode": "TS23 3EB",
+      "location": "Wandsworth",
+      "postcode": "SW19 6BH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Redcar",
-      "postcode": "TS10 4GG",
+      "location": "East Grinstead",
+      "postcode": "RH19 1EY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Helston",
-      "postcode": "TR13 0AW",
+      "location": "Docking",
+      "postcode": "PE31 8RH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hastings",
-      "postcode": "TN38 0XX",
+      "location": "Atherton",
+      "postcode": "M46 9NG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Southampton",
-      "postcode": "SO16 5GJ",
+      "location": "Barrow-in-Furness",
+      "postcode": "LA13 9BN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Chippenham (Wiltshire)",
-      "postcode": "SN14 6QF",
+      "location": "Walton-on-Thames",
+      "postcode": "KT12 3JX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Milford Haven",
-      "postcode": "SA73 3DN",
+      "location": "Willerby and Anlaby",
+      "postcode": "HU10 7AJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Sheffield",
-      "postcode": "S6 4DD",
+      "location": "Barnet",
+      "postcode": "HA8 0NQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Reading",
-      "postcode": "RG1 3FH",
+      "location": "Ottery St Mary",
+      "postcode": "EX11 1RX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Perth",
-      "postcode": "PH2 0DA",
+      "location": "Tipton",
+      "postcode": "DY4 0QD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Milton Keynes",
-      "postcode": "MK11 2BB",
+      "location": "Leeming Bar",
+      "postcode": "DL7 9PL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Luton",
-      "postcode": "LU3 3QQ",
+      "location": "Coventry",
+      "postcode": "CV6 4NH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Kingston upon Thames",
-      "postcode": "KT3 5TA",
+      "location": "Clacton-on-Sea",
+      "postcode": "CO15 5SG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Maybole",
-      "postcode": "KA19 8DF",
+      "location": "Stansted Mountfitchet",
+      "postcode": "CM24 8XH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Huddersfield",
-      "postcode": "HD3 4BE",
+      "location": "Aberbargoed",
+      "postcode": "CF81 9FQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Cam",
-      "postcode": "GL11 6HT",
+      "location": "Maryport",
+      "postcode": "CA15 6BE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ystrad Mynach",
-      "postcode": "CF82 7AQ",
+      "location": "Seaton (Allerdale)",
+      "postcode": "CA14 1DT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "West Bromwich",
-      "postcode": "B71 4DS",
+      "location": "Torphins",
+      "postcode": "AB31 4BE",
       "prize": 1000.0
     }
   ]
