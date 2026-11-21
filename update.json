@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-11-20T22:07:53.510948Z"
+    "revision": "2026-11-21T00:02:41.611740Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -223,9 +223,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-11-18",
       "prizes": "current",
-      "publication_due_utc": "2026-11-18T22:15:00Z",
+      "publication_due_utc": "2026-11-21T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "irish-lotto-plus1": {
       "display_name": "Irish Lotto Plus 1",
@@ -233,9 +233,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-11-18",
       "prizes": "current",
-      "publication_due_utc": "2026-11-18T22:15:00Z",
+      "publication_due_utc": "2026-11-21T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "irish-lotto-plus2": {
       "display_name": "Irish Lotto Plus 2",
@@ -243,9 +243,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-11-18",
       "prizes": "current",
-      "publication_due_utc": "2026-11-18T22:15:00Z",
+      "publication_due_utc": "2026-11-21T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "lotto": {
       "display_name": "Lotto",
@@ -253,9 +253,9 @@
       "latest_draw": 3225,
       "latest_draw_date": "2026-11-18",
       "prizes": "current",
-      "publication_due_utc": "2026-11-18T22:15:00Z",
+      "publication_due_utc": "2026-11-21T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "lotto-hotpicks": {
       "display_name": "Lotto HotPicks",
@@ -263,9 +263,9 @@
       "latest_draw": 3225,
       "latest_draw_date": "2026-11-18",
       "prizes": "current",
-      "publication_due_utc": "2026-11-18T22:15:00Z",
+      "publication_due_utc": "2026-11-21T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "postcode-lottery": {
       "display_name": "Postcode Lottery",
@@ -273,9 +273,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-11-20",
       "prizes": "current",
-      "publication_due_utc": "2026-11-20T21:15:00Z",
+      "publication_due_utc": "2026-11-21T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -303,12 +303,12 @@
       "latest_draw": 4012,
       "latest_draw_date": "2026-11-20",
       "prizes": "not_applicable",
-      "publication_due_utc": "2026-11-20T22:15:00Z",
+      "publication_due_utc": "2026-11-21T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     }
   },
-  "generated_utc": "2026-11-20T22:07:53.510948Z",
+  "generated_utc": "2026-11-21T00:02:41.611740Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
