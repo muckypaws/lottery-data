@@ -1,131 +1,125 @@
 {
-  "draw_date": "2026-11-21",
-  "winner_count": 21,
+  "draw_date": "2026-11-22",
+  "winner_count": 20,
   "winners": [
     {
-      "category": "Millionaire Street",
-      "location": "Hyde (Tameside)",
-      "postcode": "SK14 4GS",
-      "prize": 62500.0
-    },
-    {
       "category": "Daily",
-      "location": "Chagford",
-      "postcode": "TQ13 8DJ",
+      "location": "Hastings",
+      "postcode": "TN34 2LW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Newton Abbot",
-      "postcode": "TQ12 1PB",
+      "location": "Shrewsbury",
+      "postcode": "SY2 5WN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wandsworth",
-      "postcode": "SW19 6BH",
+      "location": "Stoke-on-Trent",
+      "postcode": "ST3 5JB",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "East Grinstead",
-      "postcode": "RH19 1EY",
+      "location": "Stratton St Margaret",
+      "postcode": "SN3 4AP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Docking",
-      "postcode": "PE31 8RH",
+      "location": "Southwark",
+      "postcode": "SE15 2DR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Atherton",
-      "postcode": "M46 9NG",
+      "location": "Castle Acre",
+      "postcode": "PE32 2TF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Barrow-in-Furness",
-      "postcode": "LA13 9BN",
+      "location": "Heacham",
+      "postcode": "PE31 7SJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Walton-on-Thames",
-      "postcode": "KT12 3JX",
+      "location": "Chadderton",
+      "postcode": "OL9 9PQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Willerby and Anlaby",
-      "postcode": "HU10 7AJ",
+      "location": "Camden",
+      "postcode": "NW6 2BL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Barnet",
-      "postcode": "HA8 0NQ",
+      "location": "Gateshead",
+      "postcode": "NE10 9AU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ottery St Mary",
-      "postcode": "EX11 1RX",
+      "location": "Wishaw",
+      "postcode": "ML2 8SN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Tipton",
-      "postcode": "DY4 0QD",
+      "location": "Cherry Willingham",
+      "postcode": "LN3 4HZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Leeming Bar",
-      "postcode": "DL7 9PL",
+      "location": "Denbigh",
+      "postcode": "LL16 5UF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Coventry",
-      "postcode": "CV6 4NH",
+      "location": "Huyton with Roby",
+      "postcode": "L35 1QE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Clacton-on-Sea",
-      "postcode": "CO15 5SG",
+      "location": "Hoddesdon",
+      "postcode": "EN10 7NT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Stansted Mountfitchet",
-      "postcode": "CM24 8XH",
+      "location": "Dundee",
+      "postcode": "DD2 2LZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Aberbargoed",
-      "postcode": "CF81 9FQ",
+      "location": "Birkenhead",
+      "postcode": "CH43 2LQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Maryport",
-      "postcode": "CA15 6BE",
+      "location": "Caerphilly",
+      "postcode": "CF83 1GA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Seaton (Allerdale)",
-      "postcode": "CA14 1DT",
+      "location": "Frome",
+      "postcode": "BA11 4LS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Torphins",
-      "postcode": "AB31 4BE",
+      "location": "Halesowen",
+      "postcode": "B62 9LE",
       "prize": 1000.0
     }
   ]
