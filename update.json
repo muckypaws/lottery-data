@@ -1,6 +1,6 @@
 {
   "data": {
-    "revision": "2026-11-22T22:02:42.514952Z"
+    "revision": "2026-11-23T00:02:30.039928Z"
   },
   "files": {
     "euromillions_hotpicks_prizes.csv": {
@@ -273,9 +273,9 @@
       "latest_draw": null,
       "latest_draw_date": "2026-11-22",
       "prizes": "current",
-      "publication_due_utc": "2026-11-22T21:15:00Z",
+      "publication_due_utc": "2026-11-23T21:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "powerball": {
       "display_name": "Powerball",
@@ -293,9 +293,9 @@
       "latest_draw": 802,
       "latest_draw_date": "2026-11-19",
       "prizes": "current",
-      "publication_due_utc": "2026-11-19T22:15:00Z",
+      "publication_due_utc": "2026-11-23T22:15:00Z",
       "results": "current",
-      "status": "current"
+      "status": "not_due"
     },
     "thunderball": {
       "display_name": "Thunderball",
@@ -308,7 +308,7 @@
       "status": "current"
     }
   },
-  "generated_utc": "2026-11-22T22:02:42.514952Z",
+  "generated_utc": "2026-11-23T00:02:30.039928Z",
   "schema_version": 3,
   "software": {
     "current_version": 1839,
