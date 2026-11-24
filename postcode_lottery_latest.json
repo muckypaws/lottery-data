@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-11-23",
+  "draw_date": "2026-11-24",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Hale (Trafford)",
-      "postcode": "WA15 8TQ",
+      "location": "Upper Poppleton",
+      "postcode": "YO26 6DU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hounslow",
-      "postcode": "TW8 9GR",
+      "location": "Castleford",
+      "postcode": "WF10 5PZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Middlesbrough",
-      "postcode": "TS7 0QG",
+      "location": "Hammersmith and Fulham",
+      "postcode": "SW6 2UX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Winsham",
-      "postcode": "TA20 4DE",
+      "location": "Slough",
+      "postcode": "SL1 8HD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Sutton Scotney",
-      "postcode": "SO21 3RG",
+      "location": "Hertford",
+      "postcode": "SG13 8QG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Haywards Heath",
-      "postcode": "RH17 7AU",
+      "location": "Reynoldston",
+      "postcode": "SA3 1PT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Basingstoke",
-      "postcode": "RG25 2JD",
+      "location": "South Merstham",
+      "postcode": "RH1 3HP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Perth",
-      "postcode": "PH1 1NU",
+      "location": "Adlington (Chorley)",
+      "postcode": "PR7 4NT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Roade",
-      "postcode": "NN7 2JT",
+      "location": "Tarleton and Hesketh Bank",
+      "postcode": "PR4 6JX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Rushden",
-      "postcode": "NN10 0YP",
+      "location": "Bracebridge Heath",
+      "postcode": "LN4 2GY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Haringey",
-      "postcode": "N17 6RY",
+      "location": "Bolton-le-Sands",
+      "postcode": "LA2 6AX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Haringey",
-      "postcode": "N17 0DP",
+      "location": "Amersham",
+      "postcode": "HP7 0LW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Coatbridge",
-      "postcode": "ML5 5AR",
+      "location": "Blantyre",
+      "postcode": "G72 0RJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bedford",
-      "postcode": "MK41 7UD",
+      "location": "Cumbernauld",
+      "postcode": "G68 0FT",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bovingdon",
-      "postcode": "HP3 0GA",
+      "location": "Rawcliffe",
+      "postcode": "DN14 8SY",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Clydebank",
-      "postcode": "G81 4PG",
+      "location": "Dundee",
+      "postcode": "DD3 8HG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Sprotbrough",
-      "postcode": "DN5 7NS",
+      "location": "Davenham",
+      "postcode": "CW9 8FE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Birkenhead",
-      "postcode": "CH49 4LR",
+      "location": "East Hanningfield",
+      "postcode": "CM3 8AN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Newmarket",
-      "postcode": "CB8 0AQ",
+      "location": "Cardiff",
+      "postcode": "CF14 1SD",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bolton (Bolton)",
-      "postcode": "BL7 9AP",
+      "location": "Bournemouth",
+      "postcode": "BH10 5LY",
       "prize": 1000.0
     }
   ]

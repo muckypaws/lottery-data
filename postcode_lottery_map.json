@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-23T20:32:54.611602Z",
-  "latest_draw_date": "2026-11-23",
+  "generated_utc": "2026-11-24T20:36:32.290856Z",
+  "latest_draw_date": "2026-11-24",
   "note": "Historical winning postcode frequency is not a measure of winning odds; ticket participation by postcode is not represented in this dataset.",
   "postcodes": [
     {
@@ -80708,6 +80708,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 50.761556,
+      "location": "Bournemouth",
+      "longitude": -1.896651,
+      "postcode": "BH10 5LY",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-01-12",
       "latest_win": "2026-01-12",
       "latitude": 50.757363,
@@ -160276,6 +160296,26 @@
     },
     {
       "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 51.509321,
+      "location": "Cardiff",
+      "longitude": -3.202462,
+      "postcode": "CF14 1SD",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
         "Daily",
         "Street Prize"
       ],
@@ -205027,6 +205067,26 @@
         {
           "category": "Daily",
           "date": "2017-02-14",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 51.683794,
+      "location": "East Hanningfield",
+      "longitude": 0.559718,
+      "postcode": "CM3 8AN",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
           "prize": 1000.0
         }
       ]
@@ -262095,6 +262155,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 53.226264,
+      "location": "Davenham",
+      "longitude": -2.51613,
+      "postcode": "CW9 8FE",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2023-06-05",
       "latest_win": "2023-06-05",
       "latitude": 53.241119,
@@ -272983,6 +273063,26 @@
         {
           "category": "Daily",
           "date": "2022-03-03",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 56.475996,
+      "location": "Dundee",
+      "longitude": -2.994127,
+      "postcode": "DD3 8HG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
           "prize": 1000.0
         }
       ]
@@ -315843,17 +315943,23 @@
     },
     {
       "categories": [
+        "Daily",
         "Street Prize"
       ],
       "first_win": "2021-02-10",
-      "latest_win": "2021-02-10",
+      "latest_win": "2026-11-24",
       "latitude": 53.661217,
-      "location": "East Cowick",
+      "location": "Rawcliffe",
       "longitude": -0.9897,
       "postcode": "DN14 8SY",
-      "total_known_prize": 30000,
-      "win_count": 1,
+      "total_known_prize": 31000,
+      "win_count": 2,
       "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        },
         {
           "category": "Street Prize",
           "date": "2021-02-10",
@@ -424543,6 +424649,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 55.970389,
+      "location": "Cumbernauld",
+      "longitude": -3.978699,
+      "postcode": "G68 0FT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2020-05-03",
       "latest_win": "2020-05-03",
       "latitude": 55.964438,
@@ -426610,6 +426736,26 @@
         {
           "category": "Daily",
           "date": "2021-09-12",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 55.788561,
+      "location": "Blantyre",
+      "longitude": -4.098404,
+      "postcode": "G72 0RJ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
           "prize": 1000.0
         }
       ]
@@ -486869,6 +487015,26 @@
         {
           "category": "Daily",
           "date": "2026-09-27",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 51.646037,
+      "location": "Amersham",
+      "longitude": -0.634513,
+      "postcode": "HP7 0LW",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
           "prize": 1000.0
         }
       ]
@@ -579006,6 +579172,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 54.083196,
+      "location": "Bolton-le-Sands",
+      "longitude": -2.803676,
+      "postcode": "LA2 6AX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-01-09",
       "latest_win": "2026-01-09",
       "latitude": 54.088009,
@@ -622999,6 +623185,26 @@
         {
           "category": "Daily",
           "date": "2022-09-06",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 53.197067,
+      "location": "Bracebridge Heath",
+      "longitude": -0.52212,
+      "postcode": "LN4 2GY",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
           "prize": 1000.0
         }
       ]
@@ -909744,6 +909950,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 53.6613,
+      "location": "Tarleton and Hesketh Bank",
+      "longitude": -2.883868,
+      "postcode": "PR4 6JX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2026-02-16",
       "latest_win": "2026-02-16",
       "latitude": 53.67875,
@@ -912591,6 +912817,26 @@
         {
           "category": "Daily",
           "date": "2021-07-21",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 53.628113,
+      "location": "Adlington (Chorley)",
+      "longitude": -2.659924,
+      "postcode": "PR7 4NT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
           "prize": 1000.0
         }
       ]
@@ -933082,6 +933328,26 @@
         {
           "category": "Daily",
           "date": "2016-11-04",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 51.253527,
+      "location": "South Merstham",
+      "longitude": -0.145998,
+      "postcode": "RH1 3HP",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
           "prize": 1000.0
         }
       ]
@@ -991922,6 +992188,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 51.567688,
+      "location": "Reynoldston",
+      "longitude": -4.261294,
+      "postcode": "SA3 1PT",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2023-06-28",
       "latest_win": "2023-06-28",
       "latitude": 51.575642,
@@ -1017720,6 +1018006,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 51.780416,
+      "location": "Hertford",
+      "longitude": -0.066372,
+      "postcode": "SG13 8QG",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2019-01-28",
       "latest_win": "2019-01-28",
       "latitude": 51.763266,
@@ -1039021,14 +1039327,19 @@
         "Daily"
       ],
       "first_win": "2024-06-25",
-      "latest_win": "2024-06-25",
+      "latest_win": "2026-11-24",
       "latitude": 51.538376,
       "location": "Slough",
       "longitude": -0.660219,
       "postcode": "SL1 8HD",
-      "total_known_prize": 1000,
-      "win_count": 1,
+      "total_known_prize": 2000,
+      "win_count": 2,
       "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        },
         {
           "category": "Daily",
           "date": "2024-06-25",
@@ -1115675,6 +1115986,26 @@
         {
           "category": "Daily",
           "date": "2019-06-21",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 51.468711,
+      "location": "Hammersmith and Fulham",
+      "longitude": -0.184184,
+      "postcode": "SW6 2UX",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
           "prize": 1000.0
         }
       ]
@@ -1229507,6 +1229838,26 @@
       "categories": [
         "Daily"
       ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 53.716639,
+      "location": "Castleford",
+      "longitude": -1.397107,
+      "postcode": "WF10 5PZ",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
       "first_win": "2022-08-17",
       "latest_win": "2022-08-17",
       "latitude": 53.720306,
@@ -1274470,6 +1274821,26 @@
         {
           "category": "Daily",
           "date": "2020-05-13",
+          "prize": 1000.0
+        }
+      ]
+    },
+    {
+      "categories": [
+        "Daily"
+      ],
+      "first_win": "2026-11-24",
+      "latest_win": "2026-11-24",
+      "latitude": 53.978723,
+      "location": "Upper Poppleton",
+      "longitude": -1.15573,
+      "postcode": "YO26 6DU",
+      "total_known_prize": 1000,
+      "win_count": 1,
+      "wins": [
+        {
+          "category": "Daily",
+          "date": "2026-11-24",
           "prize": 1000.0
         }
       ]
