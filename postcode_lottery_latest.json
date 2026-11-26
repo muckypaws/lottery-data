@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-11-25",
+  "draw_date": "2026-11-26",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "Ashton-in-Makerfield",
-      "postcode": "WN4 9LF",
+      "location": "York",
+      "postcode": "YO23 1NQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "East Ardsley",
-      "postcode": "WF3 1DU",
+      "location": "Lymm",
+      "postcode": "WA13 0BQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Shrewsbury",
-      "postcode": "SY3 8UH",
+      "location": "Hillingdon",
+      "postcode": "UB7 0JX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Stoke-on-Trent",
-      "postcode": "ST4 5BA",
+      "location": "Stafford",
+      "postcode": "ST16 3JE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Andover",
-      "postcode": "SP10 3TT",
+      "location": "Calne",
+      "postcode": "SN11 0FR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Rotherham",
-      "postcode": "S60 2RY",
+      "location": "Wythenshawe",
+      "postcode": "SK9 3BA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Henley-on-Thames",
-      "postcode": "RG9 1JY",
+      "location": "Pembroke Dock",
+      "postcode": "SA72 6RL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Ceann Loch Gilb",
-      "postcode": "PA32 8YR",
+      "location": "Liskeard",
+      "postcode": "PL14 6AN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Thame",
-      "postcode": "OX9 3LY",
+      "location": "Daventry",
+      "postcode": "NN11 4WE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Northampton",
-      "postcode": "NN4 0RN",
+      "location": "Islington",
+      "postcode": "N7 0HR",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Dalton-in-Furness",
-      "postcode": "LA15 8QD",
+      "location": "Milton Keynes",
+      "postcode": "MK5 7GE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Liverpool",
-      "postcode": "L3 5RA",
+      "location": "Kirkby",
+      "postcode": "L33 7XN",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Glasgow",
-      "postcode": "G12 8RP",
+      "location": "Loughton",
+      "postcode": "IG10 3EW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Exeter",
-      "postcode": "EX1 3WL",
+      "location": "Moodiesburn",
+      "postcode": "G69 0QA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Armadale",
-      "postcode": "EH48 3ND",
+      "location": "Livingston",
+      "postcode": "EH54 6DH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Sedgley",
-      "postcode": "DY3 3YH",
+      "location": "Dorchester (Dorset)",
+      "postcode": "DT1 1LU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Bexley",
-      "postcode": "DA17 5LJ",
+      "location": "Grimsby",
+      "postcode": "DN34 4ET",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Coventry",
-      "postcode": "CV3 2UT",
+      "location": "Gravesend",
+      "postcode": "DA12 1NQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Elsenham",
-      "postcode": "CM22 6AW",
+      "location": "Great Leighs",
+      "postcode": "CM3 1FP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Pheasey",
-      "postcode": "B43 7BU",
+      "location": "Westhill",
+      "postcode": "AB32 6AW",
       "prize": 1000.0
     }
   ]
