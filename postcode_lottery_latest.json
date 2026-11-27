@@ -1,125 +1,125 @@
 {
-  "draw_date": "2026-11-26",
+  "draw_date": "2026-11-27",
   "winner_count": 20,
   "winners": [
     {
       "category": "Daily",
-      "location": "York",
-      "postcode": "YO23 1NQ",
+      "location": "Wolverhampton",
+      "postcode": "WV4 5BW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Lymm",
-      "postcode": "WA13 0BQ",
+      "location": "Warrington",
+      "postcode": "WA4 2DA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Hillingdon",
-      "postcode": "UB7 0JX",
+      "location": "Shrewsbury",
+      "postcode": "SY3 9PF",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Stafford",
-      "postcode": "ST16 3JE",
+      "location": "King's Somborne",
+      "postcode": "SO20 6PE",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Calne",
-      "postcode": "SN11 0FR",
+      "location": "Clowne",
+      "postcode": "S43 4SQ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Wythenshawe",
-      "postcode": "SK9 3BA",
+      "location": "Chesterfield",
+      "postcode": "S41 9QS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Pembroke Dock",
-      "postcode": "SA72 6RL",
+      "location": "Looe",
+      "postcode": "PL13 1DG",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Liskeard",
-      "postcode": "PL14 6AN",
+      "location": "Peterborough",
+      "postcode": "PE3 7AJ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Daventry",
-      "postcode": "NN11 4WE",
+      "location": "Haringey",
+      "postcode": "N17 7AL",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Islington",
-      "postcode": "N7 0HR",
+      "location": "Motherwell",
+      "postcode": "ML1 4RH",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Milton Keynes",
-      "postcode": "MK5 7GE",
+      "location": "Stretford",
+      "postcode": "M32 0TZ",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Kirkby",
-      "postcode": "L33 7XN",
+      "location": "Harrow",
+      "postcode": "HA2 7RW",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Loughton",
-      "postcode": "IG10 3EW",
+      "location": "Cranleigh",
+      "postcode": "GU6 8GS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Moodiesburn",
-      "postcode": "G69 0QA",
+      "location": "Edinburgh",
+      "postcode": "EH12 7PP",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Livingston",
-      "postcode": "EH54 6DH",
+      "location": "Chickerell",
+      "postcode": "DT3 4LU",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Dorchester (Dorset)",
-      "postcode": "DT1 1LU",
+      "location": "Newport-on-Tay",
+      "postcode": "DD6 8BS",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Grimsby",
-      "postcode": "DN34 4ET",
+      "location": "Balsall Common",
+      "postcode": "CV7 7GX",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Gravesend",
-      "postcode": "DA12 1NQ",
+      "location": "Rugby",
+      "postcode": "CV23 0QA",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Great Leighs",
-      "postcode": "CM3 1FP",
+      "location": "Harlow",
+      "postcode": "CM19 5ER",
       "prize": 1000.0
     },
     {
       "category": "Daily",
-      "location": "Westhill",
-      "postcode": "AB32 6AW",
+      "location": "Streetly",
+      "postcode": "B74 3SH",
       "prize": 1000.0
     }
   ]
